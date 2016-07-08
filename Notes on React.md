@@ -247,7 +247,49 @@ export default class App extends React.Component{
 However, there are a few gotchas to doing this:
 
 
+### State intialization
+
+This is no longer done via the `getInitialState` method as in ES5, ES6 recommends doing this in the constructor:
+
+```JSX
+class App extends React.Component{
+	constructor(){
+		super()
+		this.state = {
+			fishes: {},
+			order: {}
+		}
+	}
+}
+```
+
+Notice the call to `super()` which is very important. Always put that in the constructor. It is the call to the constructor of the `React.Component` class.
+
+
+#### ES7
+
+ES7 (experimental) goes a bit further and allows you to use its own propery intializers:
+
+```JSX
+export default class App extends React.Component {
+    // .. some code here
+    state = {
+        qty: this.props.initialQty,
+        total: 0
+    };
+    constructor(){
+    	// ... some code here
+	}
+	// ...
+}
+```
+
+This declaration of state must go **before** the constructor.
+
+
 ### No autobinding
+
+Reasons for this are outlined [in this blog post](http://facebook.github.io/react/blog/2015/01/27/react-v0.13.0-beta-1.html#autobinding)
 
 When using `React.createClass...`, React can automatically bind the keyword `this` to the current class. However, when using JS classes this is not done automatically so on each call to `this.someFunction` in your component you would have to manually bind the call to the context (via the `this` word):
 
@@ -277,7 +319,33 @@ export default class StorePicker extends React.Component{
 
 `this.function.bind(this)` would do it for you.
 
-However, you'd need to do this for each and every reference to the context (the current class). Since that's messy, someone created a cool package called [autobind-decorator](https://github.com/andreypopp/autobind-decorator) which makes use of ES7 (still in stage 0) decorator tags (like those in Java) to do this process automatically for you.
+However, you'd need to do this for each and every reference to the context (the current class). 
+
+You could technically do this in the constructor:
+
+```JSX
+// class signature{
+	constructor(){
+		super(props)
+		this.goToStore = this.goToStore.bind(this)
+	}
+}
+```
+
+And avoid having to add `.bind(this)` everywhere in your code, but this would increase your constructor code.
+
+Another way to do this is via ES6 fat arrow constructors:
+
+```JS
+// class signature ...
+	constructor(){
+		super(props)
+		this.goToStore = () => this.goToStore();
+	}
+// some more code...
+```
+
+All of these are viable options, but you'd need to do this for each method in your class. Since that's messy, someone created a cool package called [autobind-decorator](https://github.com/andreypopp/autobind-decorator) which makes use of ES7 (still in stage 0) decorator tags (like those in Java) to do this process automatically for you.
 
 `npm install autobind-decorator --save-dev`
 
@@ -367,3 +435,19 @@ Order.propTypes =  {
 }
 
 ```
+
+However, the ES7 experimental features of Babel allow you to use ES7 or this purpose. This way, you can keep the propTypes object *inside* the class if you add the `static` keyword and put them **before** the constructor:
+
+```JSX
+class Order extends React.Component{
+	static propTypes = {
+		item1: React.Proptypes.object.isRequired,
+		item2: React.Proptypes.object.isRequired	
+	};
+	constructor(){
+		// ...
+	}
+	// ...
+}
+```
+

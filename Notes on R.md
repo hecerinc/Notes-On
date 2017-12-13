@@ -400,6 +400,10 @@ $bar
 [1] 1 2 3 5
 ```
 
+#### `complete.cases`
+
+`complete.cases` is a function that given a set of vectors or columns of a data frame, will return a **logical** vector with the rows that are not `NA` for **all of the columns**.
+
 
 ## Vectorized Operations
 

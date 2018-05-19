@@ -4,9 +4,28 @@ See result: http://jsbin.com/keqixet/7/edit?js,output
 
 ## Redux principles
 
-- All of the state of the App is maintained in a single `state` object (AKA state tree)
+- Single source of truth: All of the state of the App is maintained in a single `state` object (AKA state tree)
 - The state tree is read-only
-- 
+- Changes are made with pure functions (reducers)
+
+## Folder structure
+
+A typical folder structure for a Redux application might look like this:
+
+```
+/
+--src/
+----actions/
+------index.js
+----components/
+----reducers/
+------index.js
+------todos.js
+------visibilityFilter.js
+----anotherfile.js
+index.html
+package.json
+```
 
 ## Actions
 
@@ -111,8 +130,15 @@ counterStore.subscribe(() => {
 
 document.addEventListener('click', () => {
 	counterStore.dispatch({type: 'INCREMENT'});
-})
+});
+```
 
+### Initial state
+
+The `createStore` function also accepts a second parameter to specifiy an initial state other than the one your reducers provide:
+
+```JS
+createStore(todoApp, {todos: [{id: 1, text: 'Welcome back!', completed: true}]});
 ```
 
 ## Immutability

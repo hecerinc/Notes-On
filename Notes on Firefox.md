@@ -44,6 +44,15 @@ While that approach of having many string classes means a lot of flexibility, th
 
 Mozilla developed their own Graphical User Interface (GUI) library which is an XML-based description of how the UI should look based on available real estate and system fonts. This library is called **XUL** (eXtensible user-interface language, pronounced 'zool').
 
+## L13n
+
+When defining the UI, there are two kinds of strings. Some strings are known at the time the application is compiled and packaged, like labels for input fields, or the text that appears within the help system. Other text is assembled dynamically at runtime.
+
+Whenever you define text that does not need to be accessed at runtime, you define it in DTD files. You can refer to that text directly in XUL files.
+
+If you need to work with text at runtime, for example if your text contains a placeholder for a user name that needs to be filled at runtime, you define your text in properties files.
+
+
 https://developer.mozilla.org/en-US/docs/Mozilla
 https://developer.mozilla.org/en-US/docs/Mozilla/An_introduction_to_hacking_Mozilla
 https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XPCOM

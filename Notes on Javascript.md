@@ -180,10 +180,26 @@ Some functions can take any number of arguments, like `console.log`. These typic
 
 ## Objects
 
+
+### Prototype
+
+Most objects in JavaScript have a _prototype_, an object that acts as a fallback source of properties. When an object is asked for a property that it does not have, it will search its prototype, then the prototype's prototype and so on. The prototype of the empty object (and from which all other obejcts inherit is `Object.prototype`);
+
+```JS
+console.log(Object.getPrototypeOf(Object.prototype))
+// -> null
+```
+
+Functions derive from `Function.prototype` and arrays derive from `Array.prototype`.
+
+You can use `Object.create(prototype)` to create an object with a given prototype;
+
 ### Constructors
 
+A more convenient way to create objects that derive from some shared prototype is to use a constructor. 
 
-A more convenient way to create objects that derive from some shared prototype is to use a constructor. In JavaScript, calling a function with the `new` keyword in front of it causes it to be treated as a constructor. The constructor will have its this variable bound to a fresh object, and unless it explicitly returns another object value, this new object will be returned from the call.
+In JavaScript, calling a function with the `new` keyword in front of it causes it to be treated as a constructor. 
+The constructor will have its this variable bound to a fresh object, and unless it explicitly returns another object value, this new object will be returned from the call.
 
 
 ```JS
@@ -197,19 +213,29 @@ console.log(blackRabbit.type);
 // → black
 ```
 
-Constructors (in fact, all functions) automatically get a property named `prototype`, which by default holds a plain, empty object that derives from `Object.prototype`. Every instance created with this constructor will have this object as its prototype. So to add a `speak` method to rabbits created with the Rabbit constructor, we can simply do this:
+Constructors (in fact, all functions) automatically get a property named `prototype`, which by default holds a plain, empty object that derives from `Object.prototype`. 
+
+As mentioned before, every instance created with this constructor will have this object as its prototype. So to add a `speak` method to rabbits created with the Rabbit constructor, we can simply do this:
 
 
 ```JS
 Rabbit.prototype.speak = function(line) {
-  console.log("The " + this.type + " rabbit says '" +
-              line + "'");
+    console.log("The " + this.type + " rabbit says '" + line + "'");
 };
 blackRabbit.speak("Doom...");
 // → The black rabbit says 'Doom...'
 ```
 
-It is important to note the distinction between the way a prototype is associated with a constructor (through its `prototype` property) and the way objects have a prototype (which can be retrieved with `Object.getPrototypeOf`). The actual prototype of a constructor is `Function.prototype` since constructors are functions. Its `prototype` _property_ will be the prototype of instances created through it but is not its _own_ prototype.
+It is important to note the distinction between the way a prototype is associated with a constructor (through its `prototype` property) and the way objects _have_ a prototype (which can be retrieved with `Object.getPrototypeOf`). The actual prototype of a constructor is `Function.prototype` since constructors are functions. Its `prototype` _property_ will be the prototype of instances created through it but is not its _own_ prototype.
+
+```JS
+console.log(Object.getPrototypeOf(Rabbit) ==
+            Function.prototype);
+// → true
+console.log(Object.getPrototypeOf(weirdRabbit) ==
+            Rabbit.prototype);
+// → true
+```
 
 
 ### Enumberable vs non-enumerable
@@ -240,7 +266,7 @@ console.log(map.hasOwnProperty("toString"));
 
 This method tells us whether the object _itself_ has the property, without looking at its prototypes. This is often a more useful piece of information than what the `in` operator gives us.
 
-### Prototypeles
+### Prototypeless
 
 You can also create prototype-less objects via the `Object.create` function, passing `null` as the first argument.
 

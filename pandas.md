@@ -57,6 +57,13 @@ You can extract full columns by name:
 col = df['column_name1'] # => pd.Series
 ```
 
+You can also subset several columns by passing a list to the subset operator:
+
+```Python
+years = ['2015', '2016', '2017']
+df[years] # => DF with 3 columns
+```
+
 To extract the numeric values: `col.values` (PROP) which returns a numpy array
 
 #### `iloc`

@@ -464,3 +464,13 @@ This principle also applies to matrix operations such as:
 ```
 
 
+
+### `lapply` vs `sapply`
+
+`lapply(x, FUN [, ...])` takes a vector `x` and a function `FUN` and applies `FUN` to every element in the list.
+
+- `lapply` always returns a list (regardless of the input). This makes it possible for the function to return any data type.
+- `sapply(x, FUN [, ...])`: works exactly like `lapply`, except the function `FUN` must return all elements of the same type. This means that `sapply` always returns a vector.
+
+
+

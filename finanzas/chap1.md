@@ -2,7 +2,7 @@
 
 ## Important concepts
 
-- IRA (individual retierment account)
+- IRA (individual retirement account)
 - emergency fund
 - professional financial planners: people who will guide you and help you  (H&R Block's Financial Advisors / Personal Advisors of Ameriprise Financial)
 - the best advice is worthless if you're not willing to change your financial habits

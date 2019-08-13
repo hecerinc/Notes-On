@@ -1,7 +1,7 @@
 # Chapter 4
 ## Managing your cash and savings
 
-This capter deals with the administration of **liquid assets**
+This chapter deals with the administration of **liquid assets**
 
 - Cash
 - Checking / savings accounts

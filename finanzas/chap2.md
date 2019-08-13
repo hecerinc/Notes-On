@@ -195,7 +195,7 @@ Calculating certain financial ratios can help you evaluate your financial perfor
 
 ##### Solvency ratio
 
-Meausre the degree of exposure to insolvency. The potential to withstand financial problems.
+Measure the degree of exposure to insolvency. The potential to withstand financial problems.
 
 ```
 Total net worth / Total assets
@@ -216,7 +216,7 @@ Total liquid assets / Total current debts
 
 ##### Savings ratio
 
-Indicates relative amount of cash surplus acheieved during a given period. (American families, on average, save about 5 to 8 percent).
+Indicates relative amount of cash surplus achieved during a given period. (American families, on average, save about 5 to 8 percent).
 
 ```
 Cash surplus / Net income (after tax)

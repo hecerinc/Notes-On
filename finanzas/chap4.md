@@ -1,6 +1,12 @@
 # Chapter 4
 ## Managing your cash and savings
 
+
+
+[Cash Is No Longer Trash - John Waggoner - Kipling's Personal Finance Magazine January 2019](pdf/kip201901_56.pdf)
+
+
+
 This chapter deals with the administration of **liquid assets**
 
 - Cash

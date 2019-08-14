@@ -10,6 +10,8 @@ Magazines:
 - Road and track
 - AutoTrader
 
+Consumer magazines:
+
 - Consumer Reports
 - Kiplinger's Personal Finance
 
@@ -45,7 +47,7 @@ Online:
 
 ![Used cars](img/used_cars.png)
 
-![Used cars 2](img/used_cars2.png)
+![Used cars 2](img/used_cars_2.png)
 
 
 ### New, Used, or "Nearly New"

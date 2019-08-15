@@ -1,6 +1,9 @@
 # Chapter 6
 ## Using Credit
 
+
+![How's your credit](img/how_credit.png)
+
 - A good rule to remember is _the product purchased on credit should outlive the amount of time it takes to pay it off_. 
 - Be careful not to overspend. You could end up in a really bad place.
 
@@ -232,4 +235,165 @@ If you want to tap into this equity without selling your home you can get a **ho
 - Don't be tempted to use a 15-year home equity credit line to finance, say, a new car that you may be driving for only 5 or 6 years
 
 ![Shadow lenders](img/shadow_lenders.jpg)
+
+
+## Application process
+
+```
+A whole lot on the process was purosefully left out from this summary.
+```
+
+### Credit Bureau
+
+![You can do it now: check your credit report](img/credit_report_ycdin.png)
+
+
+> **credit bureau**: an organization that collects and stores credit information about individual borrowers.
+
+
+3 major companies:
+
+1. **TransUnion**
+1. **Equifax**
+1. **Experian**
+
+Things you should know:
+
+- In 2006, they announced that they had developed a new credit-scoring system called *VantageScore*, that would incorporate data from all 3 bureaus.
+- There are **several credit scores** that you should know about.
+- All Americans are entitled to receive a **free copy** of their credit report once a year
+- Credit bureaus do not make decisions on credit extensions / approvals
+
+
+
+Information comes from one of three sources:
+
+- creditors who subscribe to the bureau
+- other creditors who supply information at your request
+- publicly recorded court documents (e.g. tax liens, bankruptcy records)
+
+
+> Although one late credit card payment probably won't make much of a difference on an otherwise clean credit file a definite pattern of delinquencies (consistently being 30 to 60 days late with your payments) or a personal bankruptcy certainly will.
+
+
+**Poor credit traits will stick with you for a long time**. Delinquencies remain on your credit file for as long as 7 years and bankruptcies for 10.
+
+![An example credit report](img/credit_report.jpg)
+
+
+#### FICO scores
+
+Fair Isaac & Co. produces the widely used **FICO scores**. 
+
+- Only uses credit information (no age, marital, salary,etc)
+- 5 factors:
+	1. payment history (35%)
+	1. amount owed (30%)
+	1. length of credit history (15%)
+	1. new credit (10%)
+	1. types of credit used (10%)
+- FICO scores are reported by all 3 major credit bureaus
+- Range from 300 to 850
+
+![Raising your FICO scores](img/fico_scores.png)
+
+### Compuing Finance Charges
+
+> **Annual Percentage Rage (APR)**: the actual or true rate of interest paid over the life of a loan; includes all fees and costs (CAT en Mexico)
+
+Any card issuer is obligated to disclose the APR and the method used to compute finance charges.
+
+The amount of interest you pay for open credit depends partly on the method the lender uses to calculate the balances on which they apply finance charges. Most bank and retail card issuers use one of two varations of the **average daily balance (ADB) method**.
+
+> **Average daily balance (ADB) method**: A method of computing finance charges by applying interest charges to the ADB of the account over the billing period
+
+Two types:
+
+1. **ADB, including new purchases**: For each day in the billing cycle, take the outstanding balance, including new purchases, and subtract payments and credits; then divide by the number of days in the billing cycle
+1. **ADB, excluding new purchases**: Same as the first method, but excluding new purchases.
+
+
+The most common method by far (95%) is the **including new purchases** method.
+
+![ADB calculation](img/adb_calc.png)
+
+
+#### Payments
+
+You can and should pay the total balance before the due date. This way you avoid incurring in finance charges.
+
+If you cannot pay for the fulll balance, you can pay any amount that is >= the **minimum monthly payment** specified on your card statement.
+
+> **minimum monthly payment**: in an open account credit, a minimum specified percentage of the new account balance that must be paid in order to remain current.
+
+
+Paying the minimum monthly will cause you to incurr in additional finance charges in the following month.
+
+If you do not pay even the minimum monthly balance you are considered to be in default on your account, and the bank issuing the card can take whatever legal action it deems necessary.
+
+![Bank Card Statement](img/bank_card_statement.png)
+
+
+### Things to consider when shopping for a card
+
+- Annual fees
+- Rate of interest charged on account balance
+- Length of grace period
+- Method of calculating balances
+
+- If you normally pay your account balance in full each month, **get a card with no annual fees and a long grace period**. Interest rates are of no consequence since you always pay the full balance
+- If you're not a big spender and don't build up big balances on your credit card (below $400/500 USD), then _avoid_ cards with annual fees and get one with as _low_ a rate of interest as possible. (e.g. college students)
+- If you _do_ carry big balances (upwards of $1,000), then you'll probably be better off _paying an annual fee_ (even a relatively high one) to keep the rate of interest on the card as low as possible.
+- When getting a loan, lenders look at the _total amount_ of credit you have available as well as the outstanding balances on your credit cards. If you have a lot of unused credit capacity, it may be harder to get a loan because lender concerns that you could become overextended.
+- **Two cads is the most that financial advisors suggest you carry**
+
+![Should you switch cards](img/switch_cards.png)
+
+
+## Safety features
+
+- Never give your account mumber to people or organizations _who call you_. No matter how legitimate it sounds, if you didn't initiate the call then don't give out the information
+- If you initiated the call, it's acceptable to give your account number over the phone when ordering or purchasing something
+- Don't give your card information over the Internet unless you're dealing with a major retailer
+- Don't put your phone number or address (and certainly not your SSN) on credit/charge slips, even if the merchant asks for it - they're _not_ entitled to it
+- When using your card to make a purchase, _always keep your card in sight_. If the clerk makes a mistake and wants to make another imprint, ask for the first imprint, and tear it up on the spot.
+- Always draw a line on the credit slip through any blank spaces above the total, so the amount can't be altered.
+- If you lose a card or it's stolen _report it to the card issuer immediately_. The most you're ever liable for with a lost or stolen card is $50 (per card), but if you report the loss _before_ the card can be used, you won't be liable for any unauthorized carges (the phnoe number to call is listed on the back of your statement)
+- Destroy old cards or those that you no longer use.
+
+![Protecting Against Identity Theft](img/identity_theft.png)
+
+
+## Bankruptcy
+
+> **personal bankruptcy**: a form of legal recourse open to insolvent debtors, who may petition a court for protection from creditors and arrange for the orderly liquidation and distribution of their assets
+
+> Recession is not the main culprit here; the only way a recession can push you over the edge is if you're already sitting on it! The real culprit is excess debt.
+
+Two of the most widely used legal procedures are
+
+1. Wage Earner Plan
+1. Straight bankruptcy
+
+### Wage Earner Plan
+
+- Defined in _Chapter 13_ of the U.S. Bankruptcy Code
+- A workout procedure involving some type of debt restructuring by establishing a debt repayment schedule that's more compatible with the person's income.
+- Viable alternative for people who have a steady source of income, not more than $1,149,525 in secured debt and $383,175 in unsecured debt and a reasonably good chance of repaying the debt in 3 to 5 years
+- A majority of creditors must agree to the plan, and interest charges, along with late-payment penalties are waived for the repayment period
+- Most creditors usually go along because they stand to lose more in a straight bankruptcy
+- The debtor pays the courts, who pays the creditors in turn
+- Throughout the process, the individual retains the use of, and keeps title to, all of his or her assets
+
+### Straight Bankruptcy
+
+- A straight bankruptcy (Chapter 7) "wiping the slate cleanand starting anew"
+- 70% of those filing personal bankruptcy choose this route
+- Does not eliminate all the debtor's obligations, nor does the debtor necessarily lose all of his or her assets
+- Make tax payments and keep up alimony and child-support payments
+- Maintains equity in a home, car, and some other personal assets
+
+
+![Using credit](img/using_credit.png)
+
 

@@ -73,7 +73,7 @@ A cash advance is a loan that can be obtained by a bank credit cardholder on whi
 Two types:
 
 - fixed-rate cards (average annual 13.01% interest rate 2015)
-- varaible-rate cards (average annual 15.76% interest rate 2015)
+- variable-rate cards (average annual 15.76% interest rate 2015)
 
 > You will find that most bank cards have one rate for merchandise purchases and a much higher rate for cash advances.
 
@@ -240,7 +240,7 @@ If you want to tap into this equity without selling your home you can get a **ho
 ## Application process
 
 ```
-A whole lot on the process was purosefully left out from this summary.
+A whole lot on the process was purposefully left out from this summary.
 ```
 
 ### Credit Bureau
@@ -345,7 +345,7 @@ If you do not pay even the minimum monthly balance you are considered to be in d
 - If you're not a big spender and don't build up big balances on your credit card (below $400/500 USD), then _avoid_ cards with annual fees and get one with as _low_ a rate of interest as possible. (e.g. college students)
 - If you _do_ carry big balances (upwards of $1,000), then you'll probably be better off _paying an annual fee_ (even a relatively high one) to keep the rate of interest on the card as low as possible.
 - When getting a loan, lenders look at the _total amount_ of credit you have available as well as the outstanding balances on your credit cards. If you have a lot of unused credit capacity, it may be harder to get a loan because lender concerns that you could become overextended.
-- **Two cads is the most that financial advisors suggest you carry**
+- **Two cards is the most that financial advisors suggest you carry**
 
 ![Should you switch cards](img/switch_cards.png)
 

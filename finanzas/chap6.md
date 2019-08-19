@@ -33,7 +33,12 @@ Sound financial planning dictates that you need a good idea of how much credit y
 A useful rule of thumb is to make sure your payment repayment burden doesn't exceed 20% of your monthly take-home pay. Most experts, however, consider the 20% figure as the _maximum_ debt burden and strongly recommmend a **debt safety ratio** closer to **10 or 15%**.
 
 > **debt safety ratio**: the proportion of total monthly consumer credit obligations to monthly take-home pay.
-> debt safety ratio = total monthly consumer credit payments / monthly take - home pay
+
+
+```
+debt safety ratio = total monthly consumer credit payments / monthly take-home pay
+```
+
 
 Note that the monthly repayment burden _does include_ payments on your credit cards, but it _excludes_ your monthly mortgage obligation.
 
@@ -42,7 +47,7 @@ Note that the monthly repayment burden _does include_ payments on your credit ca
 
 > **line of credit**: maximum amount that the cardholder can owe at any time.
 
-> **Open account credit** form of credit extended to a consumer in advance of any transaction.
+> **Open account credit**: form of credit extended to a consumer in advance of any transaction.
 
 This is your normal credit where a retail outlet or bank agrees to allow the consumer to buy or borrow up to a _specified amount_ on open account. Credit is extended so long as the consumer does not exceed the established **credit limit** and makes payments in accordance with the specified terms.
 

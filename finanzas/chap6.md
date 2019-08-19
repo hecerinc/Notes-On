@@ -30,12 +30,12 @@ Lenders will look at various factors to establish your creditworthiness (your ab
 
 Sound financial planning dictates that you need a good idea of how much credit you can comfortably tolerate. The easiest way to avoid repayment problems is to _limit the use of credit to your ability to repay the debt_. 
 
-A useful rule of thumb is to make usre your payment repayment burden doesn't exceed 20% of your monthly take-home pay. Most experts, however, consider the 20% figure as the _maximum_ debt burden and strongly recommmend a **debt safety ratio** closer to **10 or 15%**.
+A useful rule of thumb is to make sure your payment repayment burden doesn't exceed 20% of your monthly take-home pay. Most experts, however, consider the 20% figure as the _maximum_ debt burden and strongly recommmend a **debt safety ratio** closer to **10 or 15%**.
 
 > **debt safety ratio**: the proportion of total monthly consumer credit obligations to monthly take-home pay.
 > debt safety ratio = total monthly consumer credit payments / monthly take - home pay
 
-Note htat the monthly repayment burden _does include_ payments on your credit cards, but it _excludes_ your monthly mortgage obligation.
+Note that the monthly repayment burden _does include_ payments on your credit cards, but it _excludes_ your monthly mortgage obligation.
 
 
 ## Credit Cards and open account credit

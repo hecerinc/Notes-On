@@ -103,7 +103,7 @@ Interest on cash advances, however, _begins the day the advance is taken out_.
 
 #### Balance transfers
 
-A program that enables cardholdres to readily transfer credit balances from one card to another.
+A program that enables cardholders to readily transfer credit balances from one card to another.
 
 
 ![credit card act](img/credit_card_act.jpg)
@@ -111,19 +111,19 @@ A program that enables cardholdres to readily transfer credit balances from one 
 
 ### Special types of bank credit cards
 
-You can also obtain cards that offer rebates, special icentive programs, cards sponsored by nonprofit organizations. 
+You can also obtain cards that offer rebates, special incentive programs, cards sponsored by nonprofit organizations. 
 
 
 #### Reward credit cards
 
 https://www.kiplinger.com/slideshow/credit/T016-S003-the-best-rewards-cards-for-you-2019/index.html
 
-> **reward (co-branded) credit cards**: a card which combines features of a traditional bank credit card with an additional incentive, such as rebtes and airline mileage.
+> **reward (co-branded) credit cards**: a card which combines features of a traditional bank credit card with an additional incentive, such as rebates and airline mileage.
 
 
 Some of the many incentive programs:
 
-- **Frequent flyer programs**: cardholder earns free frequent flyer miles for each dollar charged on the credit card. Can be used for free tickets, first-class upgrades, etc. Exmaples include Delta Sky Miles Card, United Airlines mileage Plus Visa Card; with the American Express and Chase Travel Plus programs, the miles can be used on any of numerous airlines
+- **Frequent flyer programs**: cardholder earns free frequent flyer miles for each dollar charged on the credit card. Can be used for free tickets, first-class upgrades, etc. Examples include Delta Sky Miles Card, United Airlines Mileage Plus Visa Card; with the American Express and Chase Travel Plus programs, the miles can be used on any of numerous airlines.
 - **Automobile rebate programs**: a number of cards earn annual rebates of up to 5% for new car purchases or leases and gas and auto maintenance purchases up to specified limits. Citibank's ThankYou Preferred Card provides rebates that can be applied to the purchase of any vehicle brand, new or used. Cardholders can earn 1% on most all purchases (notably excluding gas) and 6% during the year. Most of the major car companies offer some kind of rewards-related credit card
 - **Other merchandise rebates**: Bank card reward programs, including Norwegian Cruise Line, NASCAR, Starbucks, Marriot Hotels, and Hard Rock Cafe. Major oil companies and regional phone companies offer rebates on phone calls and gas.
 
@@ -134,7 +134,7 @@ Keep in mind most incentive cards carry higher interest rates than normal credit
 
 #### Affinity cards
 
-"Credit cards with a cause". Sponsored by some organization or nonprofit like the Special Olympics or the American Wildlife Fund. They obtain a percentage of buys at the expense of higher interest rates for the consumer. SEome people view this as "painless philantropy" but some prefer normal cards and then writing a check.
+"Credit cards with a cause". Sponsored by some organization or nonprofit like the Special Olympics or the American Wildlife Fund. They obtain a percentage of buys at the expense of higher interest rates for the consumer. Some people view this as "painless philantropy" but some prefer normal cards and then writing a check.
 
 ![You can do it now](img/credit_card_ycdin.png)
 
@@ -145,7 +145,7 @@ Collateralized credit cards for people with bad credit history. You get a credit
 
 #### Student Credit Cards
 
-Special credit cards that target college students that appeal to this segment - free msuic, movie tickets, etc. Require that you be enrolled in a 2 or 4-year university and have a source of income, whatever that may be. They usually _do not require_ any parental or guardian guarantees, nor do they require that you hold a full-time (or even part-time) job.
+Special credit cards that target college students that appeal to this segment - free music, movie tickets, etc. Require that you be enrolled in a 2 or 4-year university and have a source of income, whatever that may be. They usually _do not require_ any parental or guardian guarantees, nor do they require that you hold a full-time (or even part-time) job.
 
 Useful to build credit history and to establish loyalty to the bank.
 
@@ -302,7 +302,7 @@ Fair Isaac & Co. produces the widely used **FICO scores**.
 
 ![Raising your FICO scores](img/fico_scores.png)
 
-### Compuing Finance Charges
+### Computing Finance Charges
 
 > **Annual Percentage Rage (APR)**: the actual or true rate of interest paid over the life of a loan; includes all fees and costs (CAT en Mexico)
 
@@ -327,7 +327,7 @@ The most common method by far (95%) is the **including new purchases** method.
 
 You can and should pay the total balance before the due date. This way you avoid incurring in finance charges.
 
-If you cannot pay for the fulll balance, you can pay any amount that is >= the **minimum monthly payment** specified on your card statement.
+If you cannot pay for the full balance, you can pay any amount that is >= the **minimum monthly payment** specified on your card statement.
 
 > **minimum monthly payment**: in an open account credit, a minimum specified percentage of the new account balance that must be paid in order to remain current.
 

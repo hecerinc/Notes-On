@@ -176,7 +176,7 @@ Drawbacks:
 
 ![Using a debit card wisely](img/debitcards.png)
 
-**Choosing a bank**
+## Choosing a bank
 
 ![Choosing a bank](img/choosing_bank.png)
 
@@ -184,10 +184,10 @@ Drawbacks:
 ## Starting savings
 
 - You should hold a portion of your assets to meet liquidity needs and accumulate wealth
-- About 6 to 9 months of after-tax income
-- **Save automatically**
+- About 6 to 9 months of after-tax income (emergency deposit) (build this first, then do everything else).
+- **Save automatically** by establishing automatic transfers.
 - Choosing investment vehicles will depend on safety, risk, conveniency, liquidity and interest rate payments
-- 10 to 25% of investment portfolio in savings-type invstruments in addition to the 6 to 9 months of liquid reserves ^
+- 10 to 25% of investment portfolio in savings-type instruments in addition to the 6 to 9 months of liquid reserves ^
 
 ![p1](img/p1.png)
 
@@ -199,7 +199,7 @@ Drawbacks:
 
 ### Earning interest
 
-Interest is usually **componded**. This is the effect of interest being paid on money that's already been paid as interest.
+Interest is usually **compounded**. This is the effect of interest being paid on money that's already been paid as interest.
 
 If you invest an initial amount P and get interest `ir` every 6 months, then by month 12, you will be paid `ir` % on `P*(1 + ir)`, not `P` alone. 
 

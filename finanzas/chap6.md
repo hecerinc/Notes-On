@@ -10,7 +10,7 @@
 ![Credit Danger Signs](img/credit_danger.png)
 
 
-Lenders will look at various factors to establish your creditworthiness (your ability to promptly repay the ddebt):
+Lenders will look at various factors to establish your creditworthiness (your ability to promptly repay the debt):
 
 - present earnings
 - net worth
@@ -22,7 +22,7 @@ Lenders will look at various factors to establish your creditworthiness (your ab
 
 1. Open checking and savings accounts
 1. Use credit: get a mastercard and use it for small charges periodically, even if you prefer paying cash
-1. Obtain a small loan, even if you don't need one. If you don't actually need the money, put it in a liquid investment, such as a money market account or certificate of deposit. The interest you earn should offset some of the interest expense on the loan; you can view the difference as a cost of building good credit. You should reapy the loan promptly, perhaps even a little ahead of schedule, to minimize the difference in interest rates. However, don't pay off the loan too quickly because lenders like to see how you perform over an extended period of time. Keep in mind that your ability to obtain a large loan in the future will depend, in part, on how you managed smaller ones in the past.
+1. Obtain a small loan, even if you don't need one. If you don't actually need the money, put it in a liquid investment, such as a money market account or certificate of deposit. The interest you earn should offset some of the interest expense on the loan; you can view the difference as a cost of building good credit. You should repay the loan promptly, perhaps even a little ahead of schedule, to minimize the difference in interest rates. However, don't pay off the loan too quickly because lenders like to see how you perform over an extended period of time. Keep in mind that your ability to obtain a large loan in the future will depend, in part, on how you managed smaller ones in the past.
 1. Build a strong credit history. Make all your payments on time. Being late occasionally (two or three times a year) might label you a "late payer".
 1. If you foresee difficulty in meeting a monthly payment, let the lender know. Usually arrangements can be made to help you through the situation. This is especially true with installment loans that require fixed monthly payments. If you have one or two of these loans and see a month coming that's going to be really tight, the first thing you should try to do (other than trying to borrow some money from a family member) is to get an extension on your loan. Don't just skip a payment, because that's going to put your account into _late status until you make up the missed payment_. (Just don't do it too often).
 

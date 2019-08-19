@@ -286,6 +286,9 @@ Information comes from one of three sources:
 ![An example credit report](img/credit_report.jpg)
 
 
+You can check your credit score for free at https://creditkarma.com. They offer a variety of free products that will help you maintain your credit health. The only drawback is that Equifax is not included and that it does not give you a FICO score.
+
+
 #### FICO scores
 
 Fair Isaac & Co. produces the widely used **FICO scores**. 

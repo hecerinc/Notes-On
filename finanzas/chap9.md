@@ -289,13 +289,22 @@ In addition to the HSA and HRA, there are many other consumer-directed health pl
 
 #### COBRA
 
+> **Consolidated Omnibus Budget Reconociliation Act (COBRA)**: A federal law that allows an employee who leaves the insured group to continue coverage for up to 18 months by paying premiums to his or her former employer on time; the employee retains all benefits previously available, except for disability income coverage.
+
 If you're laid off or leave a job where you've had health benefits, then you are legally eligible to continue your coverage for a period of 18 months under federal COBRA regulations.
 
 You'll be responsible for paying the full cost of the insurance if you decide to continue during this time, but you'll still pay group insurance rates that are often less expensive than buying individual insurance.
 
+Similar continuation coverage is avilable for retirees and their families for up to 18 months or until they become eligibile for Medicare, whichever occurs first.
+
 However, **you must arrange to continue your coverage** before leaving your former employer. 
 
 There are **critical enrollment windows** and policy coverage details to compare.
+
+After COBRA coverage expires, most states provide for conversion of the group coverage to an individual policy regardless of the insured's current health and without evidence of insurability.
+
+
+
 
 
 #### Retiree coverage
@@ -471,9 +480,165 @@ Common charges subject to internal limits include:
 
 #### Terms of coverage
 
+The terms can affect the value of the policy. Some important provisions:
+
+1. persons and places covered
+1. cancellation policies
+1. preexisting conditions
+1. pregnancy and abortion
+1. mental illness
+1. rehabilitation coverage
+1. continuation of group coverage
+
+
+##### Persons and places covered
+
+Under the ACA, family health care insurers must allow parents to retain their children on their helath insurance policies up to the age of 26.
+
+Some policies protect you only while you're in the US or Canada; otehrs offer worlwide coverage but exclude named countries.
+
+##### Cancellation
+
+Many policies are written to permit _cancellation_ at the insurer's option at any time. Some policies exxplicitly state this; others don't. To protect against premature cancellation, **buy policies that specifically state that the insurer won't cancel your coverage so long as premiums are paid**.
+
+
+##### Pre-existing conditions
+
+The ACA no longer permits denial of coverage for pre-existing conditions.
+
+Employees who have recently left a job or retired are covered by the _Health Insurance Portability and Accountability Act_ or **HIPAA**. 
+
+Under HIPAAA, if you've already been covered by a health plan without a break in coverage of more than 63 days and you apply for new insurnace, insurers cannot turn you down, charge you higher premiums, or enforce an exclusionary period because of your health status.
+
+
+HIPAA doesn't guarantee you group coverage, but it does protect your ability to buy individual health insurance even if you have a preexisting health condition.
+
+HIPAA now only applies to "grandfathered" plans that existed when the ACA went into effect in March 2010 and have not been changed significantly since then. 
+
+##### Pregnancy and abortion
+
+Manny individual and group health insurance plans include special clauses for medical expenses incurred through pregnancy or abortion. Coverage varies wildly.
+
+##### Mental illness
+
+Many plans omit or only offer reduced benefits for treatment of mental disorders. Not much progress has been done on this issue.
+
+##### Rehabilitation coverage
+
+Previously, if an illness or accident left an insured partially or totally disabled, then normally no funds would be available to help the person retrain for employment and a more productive life. 
+
+Now, many policies include _rehabilitation coverage_ for counseling, occupational therapy, and even some educational or job training programs. 
+
+
+### Cost containment provisions for medical expense plans
+
+Provisions that limit the coverage:
+
+- **Preadmission certification**: Requires you to receive approval from your insurer before entering the hospital for a scheduled stay. Not required for emergency stays.
+- **Continued stay review**: To receive normal reimbursement, the insured must secure approval from the insurer for any stay that exceeds the originally approved limits.
+- **Second surgical opinions**: Many plans require second opinions on specific non-emergency procedures and, in their absence, may reduce the surgical benefits paid. Most surgical expense plans now fully reimburse the cost of second opinions
+- **Waiver of co-insurance**: Many insurers now agree to waive the co-insurance clause and pay 100% of surgical costs for outpatient procedures (cheaper than hospital room & board). A similar waiver is sometimes applied to generic pharmaceuticals. 
+- **Limitation of insurer's responsibility**: Mnay policies also have provisions limiting the insurer's financial responsibility to reimbursing only for costs that are considered "reasonable and customary".
+
+## Long-term-care insurance
+
+> **long-term care**: the delivery of medical and personal care, other than hospital care, to persons with chronic medical conditions resulting from either illnes or fraility
+
+- Long-term care is very expensive
+- There is a thing such as **long-term care insurance**
+- Special insurance policies that pay a fixed dollar amount for each day that you receive care in a nursing home or at home.
+- Usually privately purchased policies but many employers offer long-term insurance (covered by the insured, but probably cheaper than buying it outside)
+
+**Do you need long-term care insurance?**
+
+1. **Do you have many assets to preserve for your dependents?** You must deplete most of your assets before Medicaid will pay for nursing home care. Some financial advisors recommend that people over 65 whose net worth is > $100K and income exceeds $50K annually consider long-term insurance _if_ they can afford the premiums. If you're very wealthy should probably self-insure.
+1. **Can you afford the premiums?** Premiums on good-quality policies can be 5 to 7 % of annual income or more. You may be better off investing the amount you'd spend on premiums.
+1. **Is there a family history of disabling disease?** If there's a history of Alzheimer's, neurological disorders, or other potentially debilitating diseases, the need for long-term care insurance may increase.
+1. **Are you male or female?** Women tend to live longer than men and are more likely to require long-term care.
+1. **Do you have family who can care for you?** The availability of relatives or home health services to provide care can reduce the cost of long-term care.
+
+**A SIGNIFICANT PORTION ON LONG-TERM INSURANCE WAS LEFT OUT OF THIS SUMMARY ON PURPOSE**. Consult page 367.
+
+## Disability income insurance
+
+> **disability income insurance**: Insurance that provides families with weekly or monthly payments to replace income when the insured is unable to work because of a covered illness, injury or disease.
+
+- During the working years, becoming disabled is more likely than death.
+- Almost all employers offer disability income insurance at advantageous rates.
+- **Coverage is often voluntary**, and you may have to pay the entire premium yourself.
+- Group coverage is usually a good buy, and premiums for employer-sponsored group coverage average $300 to $500 a year depending on age and income.
+- A disadvantage is that if you change jobs, you may lose the coverage.
+- The benefits under a group plan in which you pay the premiums are tax free (unless paid through a flexible spending account).
+- Social security offers disability income benefits, but you must be unable to do _any_ job whatsoever to receive benefits. benefits are payable onlyif your disability is expected to last at least one year and they don't begin until you've been disabled for at least five months. The actual amount paid is a percentage of your previous monthly earnings, with some adjustments, and there is a maximum monthly payment.
+
+### Estimating disability insurance needs
+
+1. **Calculate take-home pay**. Disability benefits are generally, but not always, tax free, so you typically need to replace only your take-home (after-tax) pay. Benefits from employer-paid policies are fully or partially taxable. 
+2. **Estimate the monthly amounts of disability benefits from government or employer programs**.
+	- _Social security benefits_. Obtain an estimate of your benefits by using online calculators provided by the Social Security Administration on their internet site. The average Social Security benefit is about $1,200 per month.
+	- _Other government program benefits_ with disability benefits for which you qualify (armed services, Veterans Administratio, civil service)
+	- _Company disability benefits_. Ask your company benefits supervisor to help you calculate company-provided benefits, including sick pay or wage continuation plans (these are essentially short-term disability income insurance) and plans formally designated as disability insurance. For each of these, check on its tax treatment.
+	- _Group disability policy benefits_. A private insurer provides the coverage, and you pay for it, often through payroll deduction.
+3. **Add up your existing monthly disability benefits**.
+4. **Subtract your existing monthly disability benefits from your current monthly take-home pay**. The result shows the estimated monthly disability benefits you'll need in order to maintain your present after-tax income. Note that the investment income and spousal income are ignored because it's assumed this income will continue and is necessary to maintain your current standard of living.
+
+
+![Estimating disability insurance](img/ws92.png)
 
 
 
+### Disability income insurance provisions and costs
+
+Important features:
+
+1. definition of disability
+1. benefit amount and duration
+1. probationary period
+1. waiting period
+1. renewability
+1. other provisions
+
+#### Definition of disability
+
+- Some pay benefits if you're unable to perform the duties of your customary occupation - the own occupation "Own Occ" definition whereas others pay only if you can engage in no gainful employment at all - the _any occupation_ "Any Occ" definition.
+- Any occ is considerably less expensive
 
 
+#### Benefit amount and duration
+
+Most individual disability income policies pay a flat monthly benefit, which is stated in the policy, whereas group plans pay a fixed percentage of gross income. In either case, insurers normally won't agree to amounts of more than 60% to 70% of the insured's gross income.
+
+If you're assured a substantial defined benefit pension, Social Security, or other benefits at retirement, a policy that pays benefits until age 65 is adequate. Most people, however, will need to continue their occupations for many more years and should consider a policy offering lifetime benefits.
+
+#### Probationary period
+
+Both group and individual disability income policies are likely to include a probationary period, usually 7 to 30 days, which is a time delay from the date the policy is issued until the benefit privileges are available. Any disability stemming from an illness, injury or disease that occurs during the probationary period is _not_ covered.
+
+#### Waiting period
+
+Similar to long-care insurance, a period between the onset of disability and when benefits start paying. If you have an adequate emergency fund to provide family income during the early months of disability, you can choose a longer waiting period and substantially reduce your premiums.
+
+With most insurers, you can trade off an increase in the waiting period &mdash; say, from 60 to 90 days &mdash; for an increase in the duration of benefits from five years to age 65. 
+
+Accepting this type of trade-off usually makes sense becuase the primary purpose of insurance is to protect the insured against a catstrophic loss, not from smaller losses that are better handled through proper budgeting and saving.
+
+
+#### Renewability
+
+Most individual disability income insurnace is either _guaranteed renewable_ or _non-cancelable_. 
+
+- _Guaranteed renewability_: ensures that you can renew the policy until you reach the age stated in the clause, usually age 65.
+- _Non-cancelable_: Also guarantee renewability, but they also guarantee that future premiums will remain the same as those stated in the policy at issuance.
+
+
+#### Other provisions
+
+Benefits are not inflation adjusted. To counteract this, many insurers offer a cost-of-living-adjustment (COLA) provision, where the monthly benefit is adjusted upward each year, often in line with the CPI, although these annual adjustments are often capped at a given rate (say, 8 percent).
+
+Although some financial advisors suggest buying COLA riders, others feel the 10 to 25% additional premium is too much to pay for it.
+
+
+![Planning your health](img/ph_chap9.png)
+
+![Behaviour matters](img/behaviour_chap9.jpg)
 

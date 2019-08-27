@@ -338,3 +338,142 @@ Before choosing a particular plan, you should ask yourself some important questi
 
 
 After considering all of the coverage and resources available to you, consider where gaps in your health insurance coverage may lie and how best to fill them. 
+
+
+## Medical expense coverage and policy provisions
+
+![Health Insurance Checklist](img/ws_91_hic.png)
+
+### Types of medical expense coverage
+
+#### Hospitalization
+
+Hospitalization policies usually pay for a portion of:
+
+- hospital's daily semiprivate room rate (includes meals, nursing care, and other routine services)
+- cost of ancilliary services, such as laboratory tests, imaging, and medications
+
+Many plans also cover some outpatient and out-of-hospital services once you're discharged, such as in-home rehabilitation, diagnostic treatment, and preadmission testing.
+
+Some hospitalization plans simply pay a **flat rate amount** for each day the insured is in the hospital, regardless of actual charges.
+
+**Most policies set a limit on the number of days of hospitalization and a maximum dollar amount on ancilliary services that they will pay for.**
+
+#### Surgical expenses
+
+Covers the cost of surgery in or out of the hospital. Usually part of a hospitalization insurance or as a rider to such a policy. Most plans reimburse you for _reasonable and customary_ surgical expenses based on a survey of surgical costs during the previous year. 
+
+- **They may also cover anesthesia, nonemergency treatment using imaging, and a limited allowance for diagnostic tests**
+- Scheduled benefits are often inadequate when compared with typical surgical costs.
+- Most elective cosmetic surgery is typically excluded unless deemed medically necessary.
+
+#### Physician expenses
+
+_Physicians expense insurance_, also called _regular medical expense_, covers the cost of **visits to a doctor's office** or for a doctor's hospital visits, including consultation with a specialist.
+
+Also covered are **imaging and laboratory tests preformed outside of a hospital**.
+
+Often these plans specify a **maximum payment per visit** as well as a maximum number of visits per injury or illness.
+
+
+#### Major medical insurance
+
+> **Major medical plans**: An insurance plan designed to supplement the basic coverage of hospitalization, surgical, and physician expenses; used to finance more catastrophic medical costs.
+
+- In the past it was common to have lifetime limits of $500K or $1M, but the ACA eliminates lifetime limits
+
+#### Comprehensive major medical insurance
+
+> **comprehensive major medical insurance**: a health insurance plan that combines into a single policy the coverage for basic hospitalization, surgical, and physician expenses along with major medical protection.
+
+- Usually with a low deductible
+- Often written uder a group contract
+
+
+#### Dental services
+
+Dental insurance covers necessary dental care and some dental injuries sustained through accidents.
+
+#### Limited protection policies
+
+
+Insurance companies offer other options that provide limited protection against certain types of perils:
+
+- **Accident policies**: certain types of accidents
+- **Sickness policies**: a.k.a _dread disease policies_, pay a specified sum for a named disease, such as cancer
+- **Hospital income policies**: promise to guarantee a specific daily, weekly, or monthly amount as long as the insured is hospitalized
+
+
+Sound insurance planning seldom dictates the purchase of such policies. Be aware that the extra cost of purchasing these insurance options typically otweighs the limited coverage they provide.
+
+
+### Policy provisions
+
+Policy provisions can be divided into 2 groups:
+
+1. terms of payment
+2. terms of coverage
+
+#### Terms of payment
+
+Four provisions govern how much your health insurance plan will pay:
+
+1. deductibles
+2. the participation (co-insurance) clause
+3. the policy's internal limits
+4. coordination of benefits clause, if any
+
+
+##### Deductibles
+
+> **deductible**: the initial amount _not_ covered by an insurance policy and thus the insured's responsibility; it's usually determined on a calendar-year basis or on a per-illness or per-accident basis.
+
+
+Major medical insurance plans offered under an indemnity (fee-for-service) plan often have a relatively large _deductible_, typically $500 or $1,000.
+
+- Comprehensible major medical plans tend to offer lower deductibles, sometimes $100 or less. 
+- Most plans offer a calendar-year, all-inclusive deductible. This allows the person to accumulate the deductible from more than one incident of use.
+- _Carryover provision_: any part of the deductible that occurs during the final three months of the year can be applied to the current year's deductible and can _also_ be applied to the following calendar year's deductible.
+
+![Effect of Per-Illness, Per-Accident deductible](img/example_deductible.png)
+
+##### Participation (co-insurance)
+
+> **participation** or **co-insurance clause**: A provision in many health insurance policies stipulating that the insurer will pay some portion &mdash; say, 80 or 90% &mdash; of the amount of the covered loss in excess of the deductible rather than the entire amount.
+
+- Helps reduce the incentive for policyholder to fake an illness and discourages them from incurring unnecessary medical expenses.
+- _Stop loss provision_: places a cap on the amount of participation required.
+
+
+> Without a stop-loss provision, a $1 million medical bill would leave the insured with $200,000 of costs under an 80% plan. Often such provisions limit the insured's participation to less than $10,000 and sometimes to as little as $2,000.
+
+
+##### Internal limits
+
+> **internal limits**: A feature commonly found in health insurance policies that limits the amount that will be paid for certain specified expenses, even if the claim does _not_ exceed overall policy limits.
+
+Common charges subject to internal limits include:
+
+- hospital room & board
+- surgical fees
+- mental and nervous conditions
+- nursing services
+
+##### Coordination of benefits
+
+> **coordination of benefits provision**: A provision often included in health insurance policies to prevent the insured from collecting more than 100% of covered charges; it requires that benefit payments be coordinated if the insured is eligible for benefits under more than one policy.
+
+- Many private health insurance policies coordinate benefit provisions with medical benefits paid under workers' compensation.
+- In contrast, some companies widely advertise that their policies will pay claims regardless of other coverage the policyholder has.
+- Using policies with coordination of benefits clauses can help you prevent coverage overlaps and, ideally, reduce your premiums.
+
+![Medical policy: an example](img/insurance_policy_example.png)
+
+#### Terms of coverage
+
+
+
+
+
+
+

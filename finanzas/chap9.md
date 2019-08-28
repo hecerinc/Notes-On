@@ -278,10 +278,10 @@ Essential health benefits required by the ACA:
 Additional features:
 
 - Cover pre-existing conditions
-- Parents mus thave the option to carry their children on their plan until age 26
+- Parents must have the option to carry their children on their plan until age 26
 - Life time dollar limits on total insurance coverage are prohibited
 - Plans must cover preventive care and medical screenings
-- Insurers must spend at least 80$ of premiums on claims
+- Insurers must spend at least 80% of premiums on claims
 
 
 ### Insurance Exchanges
@@ -298,7 +298,7 @@ Evaluate:
 
 - potential areas of loss
 - types of coverage
-- otherr resources available to you and your family
+- other resources available to you and your family
 - any gaps in protection
 
 
@@ -309,9 +309,8 @@ Most people need protection against two types of losses that can result from ill
 1. Expenses for medical care and rehabilitation
 2. Loss of income or household services caused by an inability to work.
 
-Long-term costs for medical care can range from $300,000 to $1 million. This cost is difficult to estimate.
-
-Loss of income is easy to calculate: a % of your (or your spouse's) current monthly earnings. MOst experts believe that **60 to 75%** is sufficient.
+- Long-term costs for medical care can range from $300,000 to $1 million. This cost is difficult to estimate.
+- Loss of income is easy to calculate: a % of your (or your spouse's) current monthly earnings. Most experts believe that **60 to 75%** is sufficient.
 
 Consider strategies in minimizing risk:
 

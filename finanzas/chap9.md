@@ -68,19 +68,31 @@
 
 ---
 
+
+## Important concepts
+
+
 > **insurance premium:** amount of money an individual or business pays for an insurance policy (costo anual)
 
-Health insurance:
+### Deductibles
+
+By buying insurance you are asking the insurance company to "have your back" if you suffer damages that could hurt you financially. In turn, the insurance company usually says, "Sure, I'll cover you if you have a loss (claim), but will you agree to pay the first part of it by paying a deductible?"
+
+Using the example of a $500 deductible, you say, "Sure, I can afford to pay the first $500 of any loss, if you can pay the rest."
+
+They tell you how much they will charge you based on how much of the risk you're willing to cover yourself. The part of the risk you are covering is the deductible.
 
 
-1. Private
-	- 1.1 Traditional indemnity (fee-for-service)
-	- 1.2 Managed care plans
-		- HMOs
-		- PPOs
-		- EPOs
-		- POS plans
-2. Public
+> Just remember, the lower the deductible, the more you usually pay.
+
+
+To understand how much money you will end up paying out-of-pocket, you should ask your plan provider 3 questions.
+
+
+1. What coverages are subject to a deductible?
+1. Are there any coverages that do not have a deductible? Do these coverages have a limit?
+1. What coverages require co-pay or co-insurance?
+
 
 
 ## Private Health Insurance Plans
@@ -315,7 +327,7 @@ Most people need protection against two types of losses that can result from ill
 Consider strategies in minimizing risk:
 
 - **Risk avoidance**: look for ways to avoid exposure to health care loss. E.g.: don't take illegal drugs, refuse rides on motorcycles, don't smoke (in bed and start a fire).
-- **Loss prevention and control**: Smoking, alcohol, and drug dependency, impromper diet, inadequate sleep, and lack of regular excercise contribute to more than 60% of all diagnosed illnesses. Eliminating some or all of these factors from your lifestylue can reduce your chances of becoming ill. Also don't drive while intoxicated, and wear a seatbelt.
+- **Loss prevention and control**: Smoking, alcohol, and drug dependency, impromper diet, inadequate sleep, and lack of regular excercise contribute to more than 60% of all diagnosed illnesses. Eliminating some or all of these factors from your lifestyle can reduce your chances of becoming ill. Also don't drive while intoxicated, and wear a seatbelt.
 - **Risk assumption**: Consider the risks that you're willing to retains as you deal with health insurance decisions. Some risks pose relatively small loss potential; you can budget for them rather than insure against them.
 
 
@@ -328,7 +340,7 @@ Consider strategies in minimizing risk:
 
 #### Health reimbursement account (HRA)
 
-Some employeres offer consumer-directed health plans that go one step beyond a flexible-benefit cafeteria plan. Typicially, these plans combine a high-deductible health insurance policy with a tax-free **health reimbursement account (HRA)**.
+Some employers offer consumer-directed health plans that go one step beyond a flexible-benefit cafeteria plan. Typicially, these plans combine a high-deductible health insurance policy with a tax-free **health reimbursement account (HRA)**.
 
 > **health reimbursement account (HRA)**: An account into which employers place contributions that employees can use to pay for medical expenses.
 
@@ -342,14 +354,12 @@ The IRS considers employer contributions to medical reimbursement accounts to be
 
 > **health savings account (HSA)**: a tax-free savings account - funded by employees, employer, or both - to spend on routine medical costs. Usually combined with a high deductible policy to pay for catastrophic care.
 
-- The HSA is also a tax-free account, but **the money is funded by employees, employeres, or both** to spend on routine medical costs
+- The HSA is also a tax-free account, but **the money is funded by employees, employers, or both** to spend on routine medical costs
 - Combined with high-deductible insurance policy to pay for catastrophic care in case of major accident o illness and **can be rolled over each year**.
 - If you change your jobs, **the HSA money belongs only to you and is yours to keep**.
 
 
-In addition to the HSA and HRA, there are many other consumer-directed health plans. There are also **flexibile spending accounts (FSAs)** that allow employees to contribute pre-tax dollars to an account that must be spent on qualified medical (or dependent care) expenses.
-
-**If the account balance is not spent during the year, it is not carried over to the next year.**
+In addition to the HSA and HRA, there are many other consumer-directed health plans. There are also **flexibile spending accounts (FSAs)** that allow employees to contribute pre-tax dollars to an account that must be spent on qualified medical (or dependent care) expenses.  However, **if the account balance is not spent during the year, it is not carried over to the next year.**
 
 
 #### COBRA
@@ -399,7 +409,7 @@ Before choosing a particular plan, you should ask yourself some important questi
 
 > Some states have experimented with the **comunity rating approach to health insurance premium pricing**, which prohibits insurance companies from varying rates based on health status or claim history. The "community" is defined as the area in which the insurance is offered.
 
-2. **Will you be reimbursed if you choose a managed care plan and want to see an out-of-network provider?** For most people, the managed care route is cheaper, even if you visit a ddoctor only once a year, because of indemnity plans "reasonable charge" provisions.
+2. **Will you be reimbursed if you choose a managed care plan and want to see an out-of-network provider?** For most people, the managed care route is cheaper, even if you visit a doctor only once a year, because of indemnity plans "reasonable charge" provisions.
 3. **What types of coverage do you need?** You may want a plan with good maternity and pediatric care, whereas another may want outpatient mental health benefits. Make sure the plans you're considering offer what you want.
 4. **How good is the managed care network?** Look at the participating doctors and hospitals to see how many of your providers are part of the plan. Check out the credentials of participating providers; a good sign is accreditation from the NCQA. Are the provider's locations convenient for you? What preventive medical programs does it provide? Has membership grown? Talk to friends and associates to see what their experiences have been with the plan.
 5. **How old are you, and how's your health?** Many financial adviors recommend buying the lowest-cost plan &mdash; which may be an indemnity plan with a high deductible &mdash; if you're young and healthy.
@@ -560,11 +570,11 @@ The terms can affect the value of the policy. Some important provisions:
 
 Under the ACA, family health care insurers must allow parents to retain their children on their helath insurance policies up to the age of 26.
 
-Some policies protect you only while you're in the US or Canada; otehrs offer worlwide coverage but exclude named countries.
+Some policies protect you only while you're in the US or Canada; others offer worlwide coverage but exclude named countries.
 
 ##### Cancellation
 
-Many policies are written to permit _cancellation_ at the insurer's option at any time. Some policies exxplicitly state this; others don't. To protect against premature cancellation, **buy policies that specifically state that the insurer won't cancel your coverage so long as premiums are paid**.
+Many policies are written to permit _cancellation_ at the insurer's option at any time. Some policies explicitly state this; others don't. To protect against premature cancellation, **buy policies that specifically state that the insurer won't cancel your coverage so long as premiums are paid**.
 
 
 ##### Pre-existing conditions
@@ -582,7 +592,7 @@ HIPAA now only applies to "grandfathered" plans that existed when the ACA went i
 
 ##### Pregnancy and abortion
 
-Manny individual and group health insurance plans include special clauses for medical expenses incurred through pregnancy or abortion. Coverage varies wildly.
+Many individual and group health insurance plans include special clauses for medical expenses incurred through pregnancy or abortion. Coverage varies wildly.
 
 ##### Mental illness
 

@@ -602,6 +602,7 @@ If the amount is disputed, most policies provide some form of claims arbitration
 
 When a company denies responsibility, you do not get the right of arbitration. In such cases, you must either bring an attorney or perhaps a public adjustor.
 
+![Handling a denied insurance claim](img/fpt_deniedclaim.jpg)
 
 ### Claims adjustment
 

@@ -1,7 +1,75 @@
 # Chapter 10
 ## Insuring your property
 
-- **Property insurance** guards against catastrphic losses of real and personal property cause by such perils as fire, theft, vandalism, windstorms, and other calamities.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Basic principles](#basic-principles)
+	- [Types of exposure](#types-of-exposure)
+		- [Property loss](#property-loss)
+			- [Property inventory](#property-inventory)
+			- [Identify perils](#identify-perils)
+		- [Liability exposure](#liability-exposure)
+	- [Indemnity](#indemnity)
+		- [Actual cash value versus replacement cost](#actual-cash-value-versus-replacement-cost)
+		- [Subrogation](#subrogation)
+		- [Other insurance](#other-insurance)
+	- [Coinsurance](#coinsurance)
+- [Homeowner's Insurance](#homeowners-insurance)
+	- [HO-3 vs HO-5 (most common)](#ho-3-vs-ho-5-most-common)
+		- [Perils covered](#perils-covered)
+			- [Section I Perils](#section-i-perils)
+			- [Section II Perils](#section-ii-perils)
+		- [Factors affecting home insurance costs](#factors-affecting-home-insurance-costs)
+		- [Property covered](#property-covered)
+		- [Personal Property Floaters](#personal-property-floaters)
+		- [Renter's insurance (HO-4)](#renters-insurance-ho-4)
+		- [Coverage](#coverage)
+			- [Types of losses covered](#types-of-losses-covered)
+			- [Persons covered](#persons-covered)
+			- [Locations covered](#locations-covered)
+		- [Limitations on Payment](#limitations-on-payment)
+			- [Replacement cost](#replacement-cost)
+			- [Policy limits](#policy-limits)
+			- [Deductibles](#deductibles)
+		- [Insurance premiums](#insurance-premiums)
+- [Automobile insurance](#automobile-insurance)
+	- [Types of auto insurance coverage](#types-of-auto-insurance-coverage)
+		- [Part A: Liability coverage](#part-a-liability-coverage)
+			- [Policy limits](#policy-limits-1)
+			- [Persons insuerd](#persons-insuerd)
+		- [Part B: Medical payments coverage](#part-b-medical-payments-coverage)
+			- [Policy limits](#policy-limits-2)
+			- [Persons insured](#persons-insured)
+		- [Part C: Uninsured motorists coverage](#part-c-uninsured-motorists-coverage)
+			- [Policy limits](#policy-limits-3)
+			- [Persons insured](#persons-insured-1)
+			- [Underinsured motorists coverage](#underinsured-motorists-coverage)
+		- [Part D: Coverage for damage to your vehicle](#part-d-coverage-for-damage-to-your-vehicle)
+			- [Collision insurance](#collision-insurance)
+			- [Comprehensive automobile insurance](#comprehensive-automobile-insurance)
+	- [Insurance premiums](#insurance-premiums-1)
+		- [Factors affecting premiums](#factors-affecting-premiums)
+		- [Driving down the cost of car insurance](#driving-down-the-cost-of-car-insurance)
+	- [Financial responsibility laws](#financial-responsibility-laws)
+- [Other property and liability insurance](#other-property-and-liability-insurance)
+	- [Supplemental property insurance coverage](#supplemental-property-insurance-coverage)
+	- [Personal liability umbrella policy](#personal-liability-umbrella-policy)
+- [Buying insurance and settling claims](#buying-insurance-and-settling-claims)
+	- [Property and liability insurance agents](#property-and-liability-insurance-agents)
+	- [Property and liability insurance companies](#property-and-liability-insurance-companies)
+- [Settling Property and Liability Claims](#settling-property-and-liability-claims)
+	- [First steps following an accident](#first-steps-following-an-accident)
+	- [Claim settlement process](#claim-settlement-process)
+	- [Claims adjustment](#claims-adjustment)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+---
+
+- **Property insurance** guards against catastrophic losses of real and personal property cause by such perils as fire, theft, vandalism, windstorms, and other calamities.
 - **Liability insurance** offers protection against the financial consequences that may arise from the insured's responsibility for property loss or personal injuries to others.
 
 
@@ -20,7 +88,7 @@ Most people face two types of exposure:
 
 Most property insurance contracts define the property covered and name the **perils** for which the insured will be compensated in case of claim.
 
-Mos property insurance contracts impose two obligations on the property owner:
+Most property insurance contracts impose two obligations on the property owner:
 
 1. developing a complete inventory of the property being insured;
 1. identifying the perils against which protection is desired
@@ -55,7 +123,7 @@ In addition, property insurance routinely limit coverage based on the location o
 
 > **actual cash value**: A value assiend to an insured property that is determined by subtracting the amount of physical depreciation from its replacement cost.
 
-The principle of indemnity limits the amount that an insured may collect to the **actual cash value** of the property. Some insurers pay replacement ocst without taking depreciation into account. 
+The principle of indemnity limits the amount that an insured may collect to the **actual cash value** of the property. Some insurers pay **replacement cost** without taking depreciation into account. 
 
 Wihout a replacement-cost provision, it's common practice to deduct the amount of depreciation to obtain the actual cash value.
 
@@ -68,7 +136,7 @@ If an insured property is damaged, then the insurer is obligated to pay no more 
 
 > **right of subrogation**: The rigth of an insurer, who has paid an insured's claim, to request reimbursement from either the person who caused the loss or that person's insurer.
 
-> For example, assume you're in an automobile accident in which the other party damages your car. You may collect from your insurer or the at-fault party-s insurer, but not from both (not for the same loss). Collecting from both violates the principle of indemnity.
+> For example, assume you're in an automobile accident in which the other party damages your car. You may collect from your insurer or the at-fault party's insurer, but not from both (not for the same loss). Collecting from both violates the principle of indemnity.
 
 #### Other insurance
 
@@ -543,6 +611,6 @@ If you're in an minor accident, the insurance agent may give you a check on the 
 
 Cooperate with your adjustor and answer inquiries honestly &mdash; keeping in mind that the insurance company writes the adjustor's paycheck.
 
-![Protecting your property](imgpol_property.png)
+![Protecting your property](img/pol_property.png)
 
 

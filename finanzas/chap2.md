@@ -1,6 +1,44 @@
 # Chapter 2
 ## Using Financial Statements &amp; Budgets
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+### Table of Contents
+
+- [Terms](#terms)
+- [Balance sheet](#balance-sheet)
+	- [Assets](#assets)
+	- [Liabilities](#liabilities)
+	- [Net worth](#net-worth)
+	- [Steps to making a balance sheet](#steps-to-making-a-balance-sheet)
+- [Income &amp; Expense Statement](#income-amp-expense-statement)
+	- [Steps to preparing the income &amp; expense statement](#steps-to-preparing-the-income-amp-expense-statement)
+- [Useful tips for financial statements](#useful-tips-for-financial-statements)
+	- [Ratio Analysis](#ratio-analysis)
+		- [Balance Sheet Ratios](#balance-sheet-ratios)
+			- [Solvency ratio](#solvency-ratio)
+			- [Liquidity ratio](#liquidity-ratio)
+		- [Income &amp; Expense Statement Ratios](#income-amp-expense-statement-ratios)
+			- [Savings ratio](#savings-ratio)
+			- [Debt service ratio](#debt-service-ratio)
+- [Budgets](#budgets)
+		- [1. Forecasting income](#1-forecasting-income)
+		- [2. Forecasting expenses](#2-forecasting-expenses)
+		- [3. Finalizing the cash budget](#3-finalizing-the-cash-budget)
+	- [Deficits](#deficits)
+	- [Prepare your statements](#prepare-your-statements)
+- [Time value of money](#time-value-of-money)
+	- [Future value](#future-value)
+		- [Future value of a single amount](#future-value-of-a-single-amount)
+		- [Future value of an annuity](#future-value-of-an-annuity)
+	- [Present value](#present-value)
+		- [Present value of a single amount](#present-value-of-a-single-amount)
+		- [Present value of an annuity](#present-value-of-an-annuity)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
+
 3 instruments:
 
 1. Financial plans: road map to show you the way

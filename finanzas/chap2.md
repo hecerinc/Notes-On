@@ -107,7 +107,7 @@ All assets should be recorded at their current **fair market value**, which may 
 
 Generally classified according to maturity:
 
-- **Current (short-term) liability**: Currently owed an due within 1 yera of the date of the balance sheet (consumable goods, utility bills, rent, insurance premiums, taxes, medical bills, repair bills and total **open account credit obligations** (outstanding balances against credit lines)
+- **Current (short-term) liability**: Currently owed an due within 1 year of the date of the balance sheet (consumable goods, utility bills, rent, insurance premiums, taxes, medical bills, repair bills and total **open account credit obligations** (outstanding balances against credit lines)
 - **Long-term liability**: Debt due >= 1 year from the date of the balance sheet. (Real estate mortgages, most consumer installment loans, education loans, etc)
 
 
@@ -213,7 +213,7 @@ Date the sheet to define the period covered.
 
 1. Update frequently
 
-Prepare your financial statements at least once each yer, ideally when drawing up your budget. Many people do this every 3 or 6 months.
+Prepare your financial statements at least once each year, ideally when drawing up your budget. Many people do this every 3 or 6 months.
 
 > You'll want to set up separate files for tax planning records, with one for income (paycheck stubs, interest on savings accounts, etc.) and another for deductions, as well as for individual mutual fund and brokerage account records.
 

@@ -12,6 +12,8 @@
 	- [Net worth](#net-worth)
 	- [Steps to making a balance sheet](#steps-to-making-a-balance-sheet)
 - [Income &amp; Expense Statement](#income--expense-statement)
+	- [Income](#income)
+	- [Expenses](#expenses)
 	- [Steps to preparing the income &amp; expense statement](#steps-to-preparing-the-income--expense-statement)
 - [Useful tips for financial statements](#useful-tips-for-financial-statements)
 	- [Ratio Analysis](#ratio-analysis)
@@ -146,7 +148,7 @@ What you earn and where it goes. Captures the various financial transactions tha
 ![Income &amp; expense statement](img/incomeexpense.png)
 
 
-**Income**
+### Income
 
 - Wages
 - Salaries
@@ -166,7 +168,7 @@ What you earn and where it goes. Captures the various financial transactions tha
 The proper figure to use is **gross income**: amount received _before_ taxes. This is used because the taxes and payroll deductions will be itemised and deducted as expenses later in the income and expense statement.
 
 
-**Expenses**
+### Expenses
 
 Cash out.
 

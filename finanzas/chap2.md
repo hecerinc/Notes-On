@@ -208,9 +208,7 @@ Date the sheet to define the period covered.
 ![Managing your financial records](img/e2.4.png)
 
 1. Keep good records
-
-- Good records make it easiser for a spouse or relative to manage your financial affairs in an emergency. To that end, you should prepare a comprehensive list of these records, their locations, and your key advisors (financial planner, banker, accountat, attorney, doctors) for family members.
-
+	- Good records make it easier for a spouse or relative to manage your financial affairs in an emergency. To that end, you should prepare a comprehensive list of these records, their locations, and your key advisors (financial planner, banker, accountat, attorney, doctors) for family members.
 1. Update frequently
 
 Prepare your financial statements at least once each year, ideally when drawing up your budget. Many people do this every 3 or 6 months.

@@ -460,6 +460,7 @@ A 401(k) gives employees the option to **divert part of their salary** to a comp
 - Earnings are accumulated **tax free**. (really tax-deferred)
 - Taxes are paid **when you retire the funds**, presumably _when you're in a lower tax bracket_.
 - Annual limit of how much you can contribute (**$19,000** in 2019, up from $18,000 in 2015).
+- This limit does not include your employer's contributions. [The total limit for both contributions in 2019 cannot exceed $56,000](https://www.investopedia.com/ask/answers/100314/does-my-employers-matching-contribution-count-towards-maximum-i-can-contribute-my-401k-plan.asp).
 - "Catch-up" provision for over 50 years old, who can contribute $6K more.
 
 ![Tax-Deferred plans](img/tax401.png)

@@ -501,7 +501,7 @@ Same as any other investment account, except it's labeled as an IRA.
 ![YCDIN IRA](img/cdin_ira.png)
 
 
-Keep in mind penalty-free withdrawals are generally allowed from an IRA so long as the funds are being used for first-time home purchases (up to $10K), qualifying educational costs, certain major medical expenses, or other qualified emergencies. ALso, with both the traditional/deductible and nondeductible IRAs, you must start making withdarawals from your account once you reach age 70.5 &mdash; although _this requirement does not apply to Roth IRAs_.
+Keep in mind penalty-free withdrawals are generally allowed from an IRA so long as the funds are being used for first-time home purchases (up to $10K), qualifying educational costs, certain major medical expenses, or other qualified emergencies. ALso, with both the traditional/deductible and nondeductible IRAs, you must start making withdrawals from your account once you reach age 70.5 &mdash; although _this requirement does not apply to Roth IRAs_.
 
 ##### Education IRAs
 
@@ -513,3 +513,150 @@ Named for Section 529 of the IRC. A 529 is an education savings plan operated by
 
 Although Coverdell ESAs and 529 plans are quite similar, they differ significantly in contribution limits, age limits for student use, and the type and level of schooling covered.
 
+
+#### Self-directed accounts and their investment vehicles
+
+IRAs are _self-directed accounts_, you are free to make almost any kind of investment decision you want. 
+
+- Conventional wisdom suggest funding your IRA with _income-producing assets_
+- If you're looking for capital gains, do so _outside_ your retirement account:
+	1. growth-oriented securities are by nature _more risky_
+	2. you _cannot write off losses_ from the sale of securities held in an IrA
+- Doesn't mean you shouldn't have good-quality growth stock or mutual fund in an IRA
+
+No matter which investment vehicle you choose, keep in mind it's meant to stay there for the long haul. Heavy penalties are paid if you withdraw funds before 59.5.
+
+> Also, when you move your IRA account to a new firm (this is known as a _rollover_), the transfer is subject to a **20% withholding tax** if the proceeds from the transfer are paid to you directly. The rule is very clear on this: if you take possession of the funds (even for just a few days), you'll be hit with the withholding tax.
+
+> So, should you contribute to an IRA or not? Obviously, so long as you qualify for either a traditional/tax-deductible IRA or a Roth IRA, you should seriously consider making the maximum payments allowable. The Ira continues to be an excellent vehicle for sheltering income from taxes. 
+
+![Qualifing for an IRA](img/e144.jpg)
+
+
+## Annuities
+
+**Note**: creo que esto es el equivalente de un seguro de vida dotal en M&eacute;xico.
+
+> An annuity is just the opposite of life insurance
+
+> **annuity**: An investment product created by life insurance companies that provides a series of payments over time.
+
+Life insurance is the systematic accumulation of an estate that is used for protection against financial loss resulting from premature death. In contrast, an **annuity** is the systematic *liquidation* of an estate in such a way that it provides protection against the economic difficulties that could result from outliving personal financial resources.
+
+The period during which premiums are paid toward the purchase of an annuity is called the **accumulation period**; correspondingly, the period during which annuity payments are made is called the **distribution period**.
+
+
+Under a pure life annuity contract, a life insurance company will **guarantee regular monthly payments to an individual** for as long as he or she lives. 
+
+Benefits composed of:
+
+1. principal: premium amounts paid in by the _annuitant_ (person buying the annuity) during the accumulation period
+1. interest: the amount earned on these funds between the time they're paid and distributed. These accrue tax-free, but the payments to an annuity are in _after-tax dollars_ (i.e. no special tax treatment is given to capital contributions)
+1. survivorship benefits: the portion of the principal and interest that has not been returned to the annuitant before death
+
+
+### Classification
+
+Annuities are classified based on key characteristics: payment of premiums, disposition of proceeds, inception date of benefits, and method used in calculating benefits.
+
+
+#### Single premium or installments
+
+Terms:
+
+- single premium annuity contract
+- immediate annuity
+- installment premium annuity contract
+- deferred annuity
+
+Two ways to pay premiums:
+
+1. one lump-sump payment up front
+1. pay the premium in installments
+
+The **single-premium annuity contract** usually requires a minimum investment of anywhere from $2.5K to $10K, with $5K being the most common figure. Popular because of attractive tax features. Usually bought right before retirement, in what's known as an **immediate annuity**, which begins to pay immediately &mdash; the first check arrives a month after purchase.
+
+> Sometimes the cash value of a life insurance policy is used at retirement to acquire a single premium annuity. This is an effective use of a life insurance policy: you get the insurance coverage when you _need_ it the most (while you're raising and educating your family) and then a regular stream of income when you can probably _use_ it the most (after you've retired).
+
+Most _group_ annuity policies are funded with single premiums, many _individuals_ still buy annuities by paying for them in installments.
+
+**Installment premium annuity contracts**: set payments (as low as $100) are made at regular intervals (monthly, quarterly, annually) over an extended period of time. Sometimes these anuities are set up with a fairly large initial payment of perhaps several thousand dollars), followed by a series of much smaller installment payments (of, say, $250 a quarter). This approach would be used to purchase a **deferred annuity**.
+
+> **deferred annuity**: a type of annuity in which benefit payments are deferred over a certain number of years.
+
+Note that single premiums can also be used to purchase deferred annuities.
+
+A big advantage of installment premium deferred annuities is that your savings can build up over time _free of taxes_. You'll pay taxes until you start receiving benefit payments from your annuity.
+
+Installment premium contracts **also carry can important _life insurance provision_**, which stipulates that if an annuitant dies before the distribution period begins, then the annuitant's beneficiaries will receive the market value of the contract or the amount invested, whichever is greater (note that the single-premium annuities contain similiar life insurance provisions so long as the payout of benefits is deferred to some future date).
+
+In addition, an annuitiant can terminate an installment premium contract at any time or simply stop paying the periodc installments and take a paid-up annuity for a reduced amount.
+
+One potential advantage of purchasing an installment-type annuity relatively early in life is that scheduled benefits are based on mortality rates in effect when the contract was purchased. Even if the mortality rate increases, as it normally does with the passage of time, the annuitant won't be required to pay the higher premium stipulated in contracts issued later.
+
+
+#### Disposition of proceeds
+
+Benefits can be paid in lump-sum or _annuitised_ by parceling out the money into regular payments over a defined or open-ended period. You should annuitize.
+
+Most common annuity disbursement options:
+
+- **life annuity with no refund (pure life)**: The annuitant receives a specified amount of income for life, whether the disbursement period turns out to be 1 year or 50 years. The estate or family receives no refunds when the annuitant dies. This results in the largest monthly payments of any of the distribution methods because the issuer (a life insurance company) doesn't have to distribute the principal, if any, to the annuitant's heirs.
+- **guranteed-minimum annuity (life annuity with refund)**: The benefits aren't limited to the annuitant only and may extend to named beneficiaries. Two forms:
+	- **life annuity, period certain**: guarantees the annuitant a stated amount of monthly income for life; the insurer agrees to pay for a minimum number of years. If the annuitant dies, the beneficiaries receive the payments for the "period certain"
+	- **refund annuity**: if the annuitant dies, the designated beneficiary receives monthly payments (or in some cases, a lump-cash refund) until the total purchase price of the annuity has been refunded.
+- **annuity certain**: Pays a set amount of monthly income for a specified number of years, thereby filling a need for monthly income that will expire after a certain length of time. An annuitant selecting a 10-year annuity certain receives payments for 10 years after retirement, regardless of whether he or she lives for 2 or 20 more years.
+
+
+#### Fixed vs Variable annuity
+
+Your money is invested. How the rate of return is figured on that investment determines whether you own a fixed or variable annuity.
+
+> **Fixed-rate annuity**: an annuity in which the insurance company agrees to pay a guaranteed minimum rate of interest on your money.
+
+Often amounts to little more than prevailing money market rates existing when you bought the contract. Unlike bond mutual funds, fixed annuities don't fluctuate in value when interest rates rise or fall, so your principal is always secure. These _interest-earning annuities_, are ideally suited for the cautious investor who likes the secure feeling of knowing what his or her monthly cash flow will be.
+
+> **variable annuity**: an annuity in which the monthly income provided by the policy varies with the insurer's actual investment experience.
+
+**Nothing is guaranteed, not even the principal**.
+
+- _You_ decide where your money will be invested. 
+- You can choose from bonds, stocks, money market securities, real estate, alternative investments, or some combination thereof.
+
+> In most cases you can convert to a fixed annuity at distribution. What you do, in effect, is to use the cash value in your variable annuity to buy a paid-up fixed annuity. In this way, you use a variable annuity during the accumulation period to build up your capital as much as possible and then switch to a fixed annuity for the distribution period to obtain a certain, well-defined stream of future income.
+
+
+### Sources of annuities
+
+Administered by life insurance companies, stock brokers, mutual funds, banks, and financial planners.
+
+The cost will vary with the annuitant's age at issue, the annuitant's age when payments begin, the method used to distribute benefits, the number of lives covered, and the annuitant's gender (the cost to women is higher because they live longer).
+
+**Shop around**.
+
+![What do annuities cost?](img/ycdin_annuities.png)
+
+
+There are annual fees: insurance of 1% or more, annual management fees of 1 to 2% on variable annuities, as well as contract charges (maintenance fees) of $30 to $60 per year.
+
+Most annuities charge hefty penalties for early withdrawal.
+
+### Investment and income properties of annuities
+
+Annuities are a form of tax-sheltered investment. The income is tax deferred.
+
+Be aware the IRS treats withdrawals from annuities like IRA withdrawals: 10% tax penalty if done before time.
+
+If you're under age 59.5 and in the 28% tax bracket, you'll end up paying 38% tax rate on any funds withdrawn from an annuity. The IRS views withdrawals as _taxable income_ until the account balance falls to the amount of original paid-in principal, after which any further withdrawals are tax free.
+
+
+![A1](img/annuities_1.png)
+
+![A2](img/annuities_2.png)
+
+
+![FPT Annuities](img/fpt_annuities.jpg)
+
+![Financial Impact of Personal Choices](img/fipc_retirement.png)
+
+![Planning over a lifetime](img/pol_retirement.jpg)

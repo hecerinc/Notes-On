@@ -1,6 +1,57 @@
 # Chapter 14
 ## Planning for Retirement
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Planning for Retirement](#planning-for-retirement)
+- [Overview](#overview)
+	- [3 biggest pitfalls of retirement planning](#3-biggest-pitfalls-of-retirement-planning)
+	- [Estimating income needs](#estimating-income-needs)
+		- [1. Determine future retirement needs](#1-determine-future-retirement-needs)
+		- [2. Estimating retirement income](#2-estimating-retirement-income)
+		- [3. Funding a projected shortfall](#3-funding-a-projected-shortfall)
+	- [Online retirement planning](#online-retirement-planning)
+- [Social Security](#social-security)
+	- [Coverage](#coverage)
+	- [Payroll taxes](#payroll-taxes)
+	- [Retirement benefits](#retirement-benefits)
+		- [Retirement benefits](#retirement-benefits-1)
+		- [Survivor's benefits](#survivors-benefits)
+	- [Monthly SS benefits](#monthly-ss-benefits)
+		- [Range of benefits](#range-of-benefits)
+		- [Taxes on benefits](#taxes-on-benefits)
+- [Pension Plans and Retirement Programs](#pension-plans-and-retirement-programs)
+	- [Employer-sponsored programs: basic plans](#employer-sponsored-programs-basic-plans)
+		- [Participation requirements](#participation-requirements)
+		- [Your contribution](#your-contribution)
+		- [Defined contributions or defined benefits](#defined-contributions-or-defined-benefits)
+		- [Cash-Balance plans](#cash-balance-plans)
+		- [Qualified pension plans](#qualified-pension-plans)
+	- [Employer-sponsored programs: supplemental plans](#employer-sponsored-programs-supplemental-plans)
+		- [Profit-sharing plans](#profit-sharing-plans)
+		- [Thrift and Savings plans](#thrift-and-savings-plans)
+		- [Salary reduction plans or 401(k)](#salary-reduction-plans-or-401k)
+			- [Roth IRA](#roth-ira)
+	- [Evaluating employer-sponsored pension plans](#evaluating-employer-sponsored-pension-plans)
+	- [Self directed retirement programs](#self-directed-retirement-programs)
+		- [Keogh and SEP plans](#keogh-and-sep-plans)
+		- [Individual Retirement Account (IRAs)](#individual-retirement-account-iras)
+			- [Education IRAs](#education-iras)
+			- [529 plans](#529-plans)
+		- [Self-directed accounts and their investment vehicles](#self-directed-accounts-and-their-investment-vehicles)
+- [Annuities](#annuities)
+	- [Classification](#classification)
+		- [Single premium or installments](#single-premium-or-installments)
+		- [Disposition of proceeds](#disposition-of-proceeds)
+		- [Fixed vs Variable annuity](#fixed-vs-variable-annuity)
+	- [Sources of annuities](#sources-of-annuities)
+	- [Investment and income properties of annuities](#investment-and-income-properties-of-annuities)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 ## Overview
 
@@ -498,7 +549,7 @@ Same as any other investment account, except it's labeled as an IRA.
 
 ![Benefits of Roth IRA](img/roth_ira.png)
 
-![YCDIN IRA](img/cdin_ira.png)
+![YCDIN IRA](img/ycdin_ira.png)
 
 
 Keep in mind penalty-free withdrawals are generally allowed from an IRA so long as the funds are being used for first-time home purchases (up to $10K), qualifying educational costs, certain major medical expenses, or other qualified emergencies. ALso, with both the traditional/deductible and nondeductible IRAs, you must start making withdrawals from your account once you reach age 70.5 &mdash; although _this requirement does not apply to Roth IRAs_.

@@ -5,7 +5,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Planning for Retirement](#planning-for-retirement)
 - [Overview](#overview)
 	- [3 biggest pitfalls of retirement planning](#3-biggest-pitfalls-of-retirement-planning)
 	- [Estimating income needs](#estimating-income-needs)
@@ -85,7 +84,7 @@
 
 2 strategies:
 
-1. **Plan for retirmeent over a series of short-run time frames.** A good way to do this is to state your retirement income objectives as a percentage of your present earnings. For example, if you want a retirement income equal to 80% of your final take-home pay, then you can determine the amount necessary to fund this need. Then, every 3 to 5 years, you can revise and update your plan.
+1. **Plan for retirement over a series of short-run time frames.** A good way to do this is to state your retirement income objectives as a percentage of your present earnings. For example, if you want a retirement income equal to 80% of your final take-home pay, then you can determine the amount necessary to fund this need. Then, every 3 to 5 years, you can revise and update your plan.
 1. **Long-term approach**. Estimate the level of income you'd like to receive in retirement; along with the amount of funds you must amass to achieve that desired standard of living. Of course, if conditions or expectations should change dramatically in the future, then it may be necessary to make corresponding alterations to your long-run retirement goals and strategies.
 
 ![Effect of inflation on future retirement needs](img/inflation_retirement.png)
@@ -120,6 +119,7 @@ Make this estimate in **today's dollars**, and then obtain the **future value**.
 
 > At this point, we need to introduce the inflation factor to our projections in order to put the annual shortfall of $6,200 in terms of retirement dollars. Here, we assume that both income and expenditures will undergo approximately the same average annual rate of inflation, which will cause the shortfall to grow by that rate over time. In essence, 30 years from now, the annual shortfall is going to amount to a lot more than $6,200. How large this number becomes will, of course, depend on what happens to inflation. Assume that the Pendletons expect inflation over the next 30 years to average 5 percent. While that's a bit on the high side by today's standards, the Pendletons are concerned that the ballooning of the federal deficit in response to the financial crisis of 2007-2009 will cause inflation to rise over the long term. Using the compound value table from Appendix A, we find that the inflation factor for 5 percent and 30 years is 4.322. Multiplying this inflation factor by the annual shortfall of $6,200 gives the Pendletons an idea of what that figure will be by the time they retire: $6,200 x 4.322 = $26,796 or nearly $27,000 a year (see steps J to L in Worksheet 14.1). Thus, based on their projections, the shortfall should amount to about $26,796 a year when they retire 30 years from now. _This is the amount they'll have to come up with through their own supplemental retire-ment program_. 
 
+Interesting link: https://www.investopedia.com/ask/answers/081715/are-social-security-benefits-adjusted-inflation.asp
 
 #### 3. Funding a projected shortfall
 
@@ -161,7 +161,7 @@ When inflation occurs, it is likely to drive up home prices right along with the
 
 ### Online retirement planning
 
-- Helpful tools at quicken.com and bloomberg.com
+- Helpful tools at [quicken.com](https://quicken.com) and [bloomberg.com](https://bloomberg.com)
 
 You answer a few questions about expected inflation, desired rate of return on investments, and current levels of income and expenditures. Then the online app determines the size of any income shortfall, the amount of retirement funds that must be accumulated over time, and different ways to achieve the desired retirement nest egg. 
 
@@ -224,7 +224,7 @@ Social Security should be viewed as a **foundation for your retirement income**.
 
 In two-income families, both the husband and wife may be eligible for SS benefits. These can be chosen in one of two ways:
 
-1. take the full benefits to which each is entitle from his or her account
+1. take the full benefits to which each is entitled from his or her account
 1. take the husband and wife benefits of the higher-paid spouse.
 
 If each receives their full share, no spousal benefits are given. If they take the husand and wife benefits of the higher-paid spouse, they effectively receive 1.5 shares.
@@ -250,7 +250,7 @@ If the children of a deceased worker reach age 16 before the spouse reaches age 
 
 The amount of SS benefits to which an eligible person is entitled to is set by law and defined according to a fairly complex formula.
 
-Your **Social Security Statement** (available at ssa.gov) lists the year-by-ear Social Security earnings you've been credited with and shows (in today's dollars) what benefits you can expect under three scenarios:
+Your **Social Security Statement** (available at [ssa.gov](https://ssa.gov)) lists the year-by-ear Social Security earnings you've been credited with and shows (in today's dollars) what benefits you can expect under three scenarios:
 
 1. if you retire at age 62 and receive 70-80% of the full benefit
 2. the full benefit at age 65 to 67 (depends on your year of birth)
@@ -299,7 +299,7 @@ Government red tape has taken a toll on pension plans. The **Employee Retirement
 
 Estimations put the % of full-time workers covered by company-financed plans at 40%. 
 
-In contrast there has been a significant increase in salary-reduction forms of retirement plans. The widespread availability of Keogh plans, Roth, traditional, and SEP IRAs, and other programs have lessened the urgency of small firms to offeir their own company-financed pension plans.
+In contrast there has been a significant increase in salary-reduction forms of retirement plans. The widespread availability of Keogh plans, Roth, traditional, and SEP IRAs, and other programs have lessened the urgency of small firms to offer their own company-financed pension plans.
 
 In an attempt to curb serious funding problems in private pension plans, Congress passed under George W Bush the **Pension Protection Act** in 2006.
 
@@ -316,7 +316,7 @@ Employees can opt out if they wish.
 Employers can sponsor two types of retirement programs: 
 
 - _basic plans_: in which employees automatically participate after a certain period of employement
-- _supplemental plans_: which are mostly volutnary programs that enable employees to increase the amount of funds being set aside for retirement.
+- _supplemental plans_: which are mostly voluntary programs that enable employees to increase the amount of funds being set aside for retirement.
 
 #### Participation requirements
 
@@ -352,7 +352,7 @@ Methods to compute benefits at retirement:
 
 Although age, income level, and the amount of contributions made to the plan have a great deal to do with the amount of monthly benefits received at retirement, probably no variable is more important than the level of _investment performance_ generated on the contributed funds.
 
-A defined contribution plan **promises nothing at retirement** except the returns the fund manager have been able to obtain. The only thing that's defined is thea mount of contribution that the employee and/or employer must make (generally stated as a % of the the employee's income). 
+A defined contribution plan **promises nothing at retirement** except the returns the fund manager have been able to obtain. The only thing that's defined is the amount of contribution that the employee and/or employer must make (generally stated as a % of the the employee's income). 
 
 Thus, the _employee bears the risk of funding retirement_.
 
@@ -360,7 +360,7 @@ Thus, the _employee bears the risk of funding retirement_.
 
 These benefits are paid out regardless of how well (or poorly) the retirement funds are invested. If investment performance falls short, the employer must make up the difference in order to fund the benefits agreed to in the plan. Thus, the employer bears the risk of funding the employee's retirement.
 
-This type of plan **allows an employee to calculate, before retirement, how much their monthly retirement income will be.** Often the number of years of service and amount of eranings are prime factors in the formula. 
+This type of plan **allows an employee to calculate, before retirement, how much their monthly retirement income will be.** Often the number of years of service and amount of earnings are prime factors in the formula. 
 
 E.g. workers might be paid 2.5% of their final three-year average annual salary for each year of service. Thus the _annual_ benefit to an employee whose final three-year average annual salary was $85,000 and who was with the company for 20 years would be $42,500.
 
@@ -388,7 +388,7 @@ Most important, the company sets up a separate "account" for each employee that 
 
 In a cash-balance plan, the account is guaranteed by the company to earn a given minimum rate of return, which might be a fixed percentage rate (of perhaps 2 or 3%) or a variable rate of return that is linked to something like Treasury bills (T-bills). 
 
-Unlike traditional pension plans, your retirement benefits are in now ay linked to the salary you'll be making when you retire. Instead, at retirement, you receive whatever the cash balance of your happens to be, either in the form of a lump-sum payment or as a stream of fixed annuity payments over time.
+Unlike traditional pension plans, your retirement benefits are in no way linked to the salary you'll be making when you retire. Instead, at retirement, you receive whatever the cash balance of your happens to be, either in the form of a lump-sum payment or as a stream of fixed annuity payments over time.
 
 Given the low guaranteed earnings rate, there's little doubt that the retirement benefits of cash-balance plans will turn out to be less &mdash; and perhaps substantially so &mdash; than what would have been paid under traditional plans (where the benefits are linked to how the employee was making at the time of his or her retirement). 
 
@@ -424,14 +424,14 @@ These plans are often _voluntary_ and enable employees to increase the amount of
 > **profit-sharing plan**: an arrangement in which employees of a firm participate in the company's earnings.
 
 - Many employers establish minimum and maximum amounts to be paid as contributions to profit-sharing plans, regarldess of how low or high corporate earnings are.
-- Contributions to profit-sharing plans are invested inc ertain types of fixed-interest products, stocks and bonds, and in many cases securities issued by the emplying firm itself.
+- Contributions to profit-sharing plans are invested in certain types of fixed-interest products, stocks and bonds, and in many cases securities issued by the employing firm itself.
 
-> Some major firms offer _voluntary profit-sharing plans_ that invest heavily in their own stock. It's common in many of these cases for long-term career employees to accumulate several hundred thousand dollars' worth of the company's stock. And we're not talking about highly paid corporate executives here; rather, these are just average employees who had the discipline tod ivert a portion of their salary consistently to the company's profit-sharing plan. However, _there is a real and significant downside to this practice_: if the company should hit hard times, then not only could you face salary cuts (or lose your job), but the value of your profit-sharing account will likely tumble as well. Certainly, employees should seriously consider taking steps to diversify their pension portfolios more adequately if more than 30-40% of their portfolios is concentrated in their company's stock.
+> Some major firms offer _voluntary profit-sharing plans_ that invest heavily in their own stock. It's common in many of these cases for long-term career employees to accumulate several hundred thousand dollars' worth of the company's stock. And we're not talking about highly paid corporate executives here; rather, these are just average employees who had the discipline to divert a portion of their salary consistently to the company's profit-sharing plan. However, _there is a real and significant downside to this practice_: if the company should hit hard times, then not only could you face salary cuts (or lose your job), but the value of your profit-sharing account will likely tumble as well. Certainly, employees should seriously consider taking steps to diversify their pension portfolios more adequately if more than 30-40% of their portfolios is concentrated in their company's stock.
 
 
 #### Thrift and Savings plans
 
-> **thrift and savings plans**: A plan to supllement pension and other fringe benefits; the firm contributes an amount equal to a set proportion of the employee's contribution.
+> **thrift and savings plans**: A plan to suplement pension and other fringe benefits; the firm contributes an amount equal to a set proportion of the employee's contribution.
 
 E.g.: the employer might match an employee's contributions at the rate of 50 cents on the dollar up to, say, 6% of salary. Thus an employee making $40K a year could pay $2.4K into the plan annually, and the employer would kick in another $1,200.
 
@@ -470,10 +470,10 @@ A 401(k) gives employees the option to **divert part of their salary** to a comp
 
 **So long as you can afford to put the money aside, you should seriously consider joining a 401(k)/403(b)/457 plan if your employer offers one**.
 
-This is especially true when one considers the matching features offered by many of these plans. Most comapnies that offer 401(k) plans have some type of matching contributions program, often putting up 50 cents (or more) for every dollar contributed by the employee. This is basically **free money**.
+This is especially true when one considers the matching features offered by many of these plans. Most companies that offer 401(k) plans have some type of matching contributions program, often putting up 50 cents (or more) for every dollar contributed by the employee. This is basically **free money**.
 
 
-##### Roth IRA
+##### Roth 401(k)
 
 First available in 2006, the **Roth 401(k)** is just like a traditional 401(k) except for one thing: **All contributions to Roth 401(k) plans are made in after-tax dollars**. 
 
@@ -497,10 +497,10 @@ Be sure to familiarize yourself not only with the basic plans, but also with any
 Questions to ask:
 
 - **Eligibliity requirements**: precisely what are they, and if you're not already in the plan, when will you be able to participate?
-- **Defined benefits or contributions**: Which one is defined? If it's the benefits, exactly wat formula is used to define them? Pay particular attention to how Social Security benefits are treated in the formula. If it's a defined contribution program, do you have any control over how the money is invested? If so, what are your options? _What you'd like to have_: lots of attracitve no-load stock/equity mutual funds to choose from. _What you don't need_: a bunch of low-yielding investment options, such as bank CDs, money market mutual funds, or fixed annuities.
+- **Defined benefits or contributions**: Which one is defined? If it's the benefits, exactly what formula is used to define them? Pay particular attention to how Social Security benefits are treated in the formula. If it's a defined contribution program, do you have any control over how the money is invested? If so, what are your options? _What you'd like to have_: lots of attracitve no-load stock/equity mutual funds to choose from. _What you don't need_: a bunch of low-yielding investment options, such as bank CDs, money market mutual funds, or fixed annuities.
 - **Vesting procedures**: Does the company use a cliff or graded procedure, and precisely when do you become fully vested?
-- **Contributory or noncontributory**: If the plan is contributory, how much comes from you and how much from the company; and what's the total of this contribution as a percentage of yourr salary? If it's noncontributory, what is the company's contribution as a percentage of your salary?
-- **Retirement age**: What's the normal retiremetn age, and what provixions are there for _early_ reitrement? What happens if you leave the company before retirement? Are the pension benefits _portable_ &mdash; that is, can you take them with you if you change jobs?
+- **Contributory or noncontributory**: If the plan is contributory, how much comes from you and how much from the company; and what's the total of this contribution as a percentage of your salary? If it's noncontributory, what is the company's contribution as a percentage of your salary?
+- **Retirement age**: What's the normal retirement age, and what provisions are there for _early_ reitrement? What happens if you leave the company before retirement? Are the pension benefits _portable_ &mdash; that is, can you take them with you if you change jobs?
 - **Voluntary supplemental programs**: How much of your salary can you put into one or more of these plans, and what &mdash; if anything &mdash; is matched by the company? Remember, these are like defined contribution plans, so nothing is guaranteed as far as benefits are concerned.
 
 As part of this process, try to determine as best you can, _a rough estimate of what your benefits are likely to be at retirement_ (before you start cranking out the numbers, check with the people who handle employee benefits at your workplace; they'll often give you the help you need). 
@@ -546,18 +546,20 @@ Same as any other investment account, except it's labeled as an IRA.
 
 1. **Traditional (deductible) IRA**: can be opened by anyone without a retirement plan at his or her place of employment, _regardless of income level_, or by couple filing jointly who &mdash; even when covered by employer retirement plans &mdash; have adjusted gross incomes of less than $98K (or single taxpayers with AGIs of < $61K). Tax-deductible contributions of up to $6K in 2019 per year. All account earnings grow tax-free until withdrawn, when ordinary tax rates apply (though a 10% normally paplies to withdrawals made before 59.5)
 1. **Nondeductible (after-tax) IRA**: open to anyone regardless of their income level or whether they're covered by an employer retirement plan. Up to $6K in 2019 can be contributed, but the contributions are in **after-tax** dollars. However, the _earnings do accrue tax free and are not subject to tax until they are withdrawn_. 
-1. **Roth IRA**: a lot like _Roth 401(k)_. Roth IRAs can be opened by couples filing jointly with adjusted gross incomes of up to $193K (singles up to $131K), whether or not they have other retirement or pension plans. But the best part of the Roth IRA is its tax features &mash; although the annual contributions of up to $6K in 2019 a person are made with after-tax dollars, all earnings in the account grow tax free. And _all withdrawals from the account are also tax free_, so long as the account has been open for at least five years and the individual is past age 59.5. In other words, so long as these conditions are met, you won't have to pay taxes on any withdrawals you make from your Roth IRA!
+1. **Roth IRA**: a lot like _Roth 401(k)_. Roth IRAs can be opened by couples filing jointly with adjusted gross incomes of up to $193K (singles up to $131K), whether or not they have other retirement or pension plans. But the best part of the Roth IRA is its tax features &mdash; although the annual contributions of up to $6K in 2019 a person are made with after-tax dollars, all earnings in the account grow tax free. And _all withdrawals from the account are also tax free_, so long as the account has been open for at least five years and the individual is past age 59.5. In other words, so long as these conditions are met, you won't have to pay taxes on any withdrawals you make from your Roth IRA!
 
 ![Benefits of Roth IRA](img/roth_ira.png)
+
+https://www.rothira.com/what-is-a-backdoor-roth-ira
 
 ![YCDIN IRA](img/ycdin_ira.png)
 
 
-Keep in mind penalty-free withdrawals are generally allowed from an IRA so long as the funds are being used for first-time home purchases (up to $10K), qualifying educational costs, certain major medical expenses, or other qualified emergencies. ALso, with both the traditional/deductible and nondeductible IRAs, you must start making withdrawals from your account once you reach age 70.5 &mdash; although _this requirement does not apply to Roth IRAs_.
+Keep in mind penalty-free withdrawals are generally allowed from an IRA so long as the funds are being used for first-time home purchases (up to $10K), qualifying educational costs, certain major medical expenses, or other qualified emergencies. Also, with both the traditional/deductible and nondeductible IRAs, you must start making withdrawals from your account once you reach age 70.5 &mdash; although _this requirement does not apply to Roth IRAs_.
 
 ##### Education IRAs
 
-In addition to these IRAs, _Coverdell Eduaction Savings Accounts_ (or ESAs) can be set up to meet the future education (college) cost of a child or grandchild. These accounts can be opened by couples with AGIs of up to $220K (or singles of up to $110K) for the benefit of a child under the age of 18. _Nondeductible_ annual contributions of up to $2K per child are allowed in 2015. As with Roth IRAs, the eranings grow tax free so long as they remain in the account, and all withdrawals (which must be made by the time the beneficiary reaches age 30) are also made tax free and penalty free, provided the funds are used for qualifying education expenses.
+In addition to these IRAs, _Coverdell Eduaction Savings Accounts_ (or ESAs) can be set up to meet the future education (college) cost of a child or grandchild. These accounts can be opened by couples with AGIs of up to $220K (or singles of up to $110K) for the benefit of a child under the age of 18. _Nondeductible_ annual contributions of up to $2K per child are allowed in 2015. As with Roth IRAs, the earnings grow tax free so long as they remain in the account, and all withdrawals (which must be made by the time the beneficiary reaches age 30) are also made tax free and penalty free, provided the funds are used for qualifying education expenses.
 
 ##### 529 plans
 
@@ -573,14 +575,14 @@ IRAs are _self-directed accounts_, you are free to make almost any kind of inves
 - Conventional wisdom suggest funding your IRA with _income-producing assets_
 - If you're looking for capital gains, do so _outside_ your retirement account:
 	1. growth-oriented securities are by nature _more risky_
-	2. you _cannot write off losses_ from the sale of securities held in an IrA
+	2. you _cannot write off losses_ from the sale of securities held in an IRA
 - Doesn't mean you shouldn't have good-quality growth stock or mutual fund in an IRA
 
 No matter which investment vehicle you choose, keep in mind it's meant to stay there for the long haul. Heavy penalties are paid if you withdraw funds before 59.5.
 
 > Also, when you move your IRA account to a new firm (this is known as a _rollover_), the transfer is subject to a **20% withholding tax** if the proceeds from the transfer are paid to you directly. The rule is very clear on this: if you take possession of the funds (even for just a few days), you'll be hit with the withholding tax.
 
-> So, should you contribute to an IRA or not? Obviously, so long as you qualify for either a traditional/tax-deductible IRA or a Roth IRA, you should seriously consider making the maximum payments allowable. The Ira continues to be an excellent vehicle for sheltering income from taxes. 
+> So, should you contribute to an IRA or not? Obviously, so long as you qualify for either a traditional/tax-deductible IRA or a Roth IRA, you should seriously consider making the maximum payments allowable. The IRA continues to be an excellent vehicle for sheltering income from taxes. 
 
 ![Qualifing for an IRA](img/e144.jpg)
 

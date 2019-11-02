@@ -123,7 +123,7 @@ In addition, property insurance routinely limit coverage based on the location o
 
 > **actual cash value**: A value assiend to an insured property that is determined by subtracting the amount of physical depreciation from its replacement cost.
 
-The principle of indemnity limits the amount that an insured may collect to the **actual cash value** of the property. Some insurers pay **replacement cost** without taking depreciation into account. 
+The principle of indemnity limits the amount that an insured may collect to the **actual cash value** of the property. Some insurers pay **replacement cost** without taking depreciation into account.
 
 Wihout a replacement-cost provision, it's common practice to deduct the amount of depreciation to obtain the actual cash value.
 
@@ -142,7 +142,7 @@ If an insured property is damaged, then the insurer is obligated to pay no more 
 
 Nearly all property and liability insurance contracts have an _other-insurance clause_, prohibiting insured persons from insuring their property with two or more insurance companies and collecting from multiple companies for the same loss.
 
-The other-insurance clause normally states that if a person has more than one insurance policy on a property, then each company need only pay an amount prorated for its share of all insurance covering the property. 
+The other-insurance clause normally states that if a person has more than one insurance policy on a property, then each company need only pay an amount prorated for its share of all insurance covering the property.
 
 ### Coinsurance
 
@@ -165,10 +165,10 @@ As an example, if a property has a value of $200,000 and the insurance provider 
 - **HO-8:** Older Home Form
 
 (HO-4 and HO-6 provide protection for renters and owners of condominiums and HO7 for Mobile homes.)
- 
+
 All HO forms are divided into two sections:
 
-1. Section I: applies to the dwelling, accompanying structures, and personal property of the insured. 
+1. Section I: applies to the dwelling, accompanying structures, and personal property of the insured.
 1. Section II: comprehensive coverage for personal liability and for medical payments to others.
 
 - Scope of Section I coverage is least with an HO-1 and greatest with an HO-5.
@@ -185,13 +185,13 @@ They're basically the same coverage. The differences lie in the number of perils
 
 ##### Section I Perils
 
-The perils against which the home and its contents are insured are dhown in Exhibit 10.2. Coverage on the dwelling is the same for the HO-3 and HO-5 forms, but coverage on the house itself and other structures is _comprehensive_ under HO-5 and a _named peril_ in HO-3. 
+The perils against which the home and its contents are insured are shown in Exhibit 10.2. Coverage on the dwelling is the same for the HO-3 and HO-5 forms, but coverage on the house itself and other structures is _comprehensive_ under HO-5 and a _named peril_ in HO-3.
 
 An HO-5 provides comprehensive coverage on the personal property, where an HO-3 covers only named perils.
 
 **Whether homeowners should buy an HO-3 or an HO-5 form depends primarily on how much they're willing to spend to secure the additional protection.**
 
-The premiums can be wildly different between an HO-3 and an HO-5. 
+The premiums can be wildly different between an HO-3 and an HO-5.
 
 - **Buying an HO-1 or HO-2 policy is not recommended because of its more limited coverage.**
 - Note that most policies exclude earthquakes and floods. You can obtain this coverage as a separate policy or a rider.
@@ -201,8 +201,8 @@ The premiums can be wildly different between an HO-3 and an HO-5.
 
 Perils in Section II are the (alleged) negligence of an insured. The coverage is called _comprehensive personal liability coverage_ because it offers protection against personal liability resulting from negligence.
 
-- Does not insure against other losses such as libel, slander, defamation of character, and contractual or intentional wrongdoing. 
-- Example: coverage would apply if you accidentally knoced someone down your stairs. 
+- Does not insure against other losses such as libel, slander, defamation of character, and contractual or intentional wrongdoing.
+- Example: coverage would apply if you accidentally knoced someone down your stairs.
 
 Section II also provides a limited amount of medical coverage for persons other than the homeowner's family in certain types of minor accidents on or off the insured's premises. The limited medical payment coverage pays irrespective of negligence or fault.
 
@@ -249,14 +249,14 @@ A homeowner's policy may not protect your expensive personal property adequately
 Two types:
 
 - **blanket (unscheduled)**: provides the maximum protection available for virtually all the insured's personal property.
-- **scheduled**: list the items to be covered and provide supplement coverage under a homeowner's contract. 
+- **scheduled**: list the items to be covered and provide supplement coverage under a homeowner's contract.
 
 Especially useful for expensive property and it includes loss, damage and theft. Popular uses of PPFs are: furs, jewelry, personal computers and peripheral equipment, photographic equipment, silverware, fine art and antiques, collections.
 
 
 #### Renter's insurance (HO-4)
 
-> If you live in an apartment (or some other type of rental unit), be aware that although the building you live in is likely to be fully insured, _your furnishings and other personal belongings are not_. 
+> If you live in an apartment (or some other type of rental unit), be aware that although the building you live in is likely to be fully insured, _your furnishings and other personal belongings are not_.
 
 As a renter, you need a special type of HO policy to obtain insurance coverage on your personal possessions.
 
@@ -295,7 +295,7 @@ Named persons in the policy and members of their families who are residents of t
 
 Most homeowner's policies offer coverage worldwide. Consequently, an insured's personal property is fully covered even if its lent to the next-door neighbor or kept in a hotel room in London. The only exception is property left at a second home (such as a beach house or resort condo), where coverage is reduced to 10% of the policy limit on personal property unless the loss occurs while the insured is residing there.
 
-Homeowners and their families have liability protection for their negligent acts wherever they occur. 
+Homeowners and their families have liability protection for their negligent acts wherever they occur.
 
 #### Limitations on Payment
 
@@ -305,7 +305,7 @@ Homeowners and their families have liability protection for their negligent acts
 
 When replacement-cost coverage is in effect, a homeowner's reimbursement for damage to a houes or accompanying structures is based on the cost of rapiring or replacing those structures. This means that the insurer will repair or replace damaged items without deducting for depreciation.
 
-Homeowners are eligible for reimbursement on a fulll replacement-cost basis only if they keep their homes insured for at least 80% of the amount that it would cost to build them today, not including the value of the land. 
+Homeowners are eligible for reimbursement on a fulll replacement-cost basis only if they keep their homes insured for at least 80% of the amount that it would cost to build them today, not including the value of the land.
 
 In periods of inflation, homeowners must either increase their coverage limits on the dwelling unit every year or take a chance on falling below the 80% requirement. Alternatively, for a nominal cost, homeowners can purchase an inflation protection rider that automatically adjusts the amount of coverage based on prevailing inflation rates.
 
@@ -326,7 +326,7 @@ Although these are the most common limits, most homeowners need additional prote
 
 ##### Deductibles
 
-_Deductibles_ limit what a company must pay for small losses, and help reduce insurance premiums by doing away with the frequent small loss claims that are proportionately more expensive to administer. The standard deductible in most states is **$250** on the physical damage protection covered in Section I. 
+_Deductibles_ limit what a company must pay for small losses, and help reduce insurance premiums by doing away with the frequent small loss claims that are proportionately more expensive to administer. The standard deductible in most states is **$250** on the physical damage protection covered in Section I.
 
 However, choosing higher deductible amounts of $500 or $1,000 results in considerable premium savings &mdash; as much as 10 to 20% in some states.
 
@@ -339,8 +339,8 @@ Deductibles don't apply to liability and medical payments coverage because insur
 - Remember each type of property damage is subject to a deductible of $250 or more.
 - Most people need to modify the basic package by adding an inflation rider and increasing the coverage on their homes to 100% of the replacement cost.
 - Changing the contents protection from actual cash value to replacement cost and scheduling some items of expensive personal property may be desirable.
-- Most insurance professionals also advise homeowners to increase their liability and medical payments limits. 
-- You can reduce your total premium by increasing the amount of your deductible. Because it's better to budget for small losses than to insure against them, larger deductibles are becoming more popular. 
+- Most insurance professionals also advise homeowners to increase their liability and medical payments limits.
+- You can reduce your total premium by increasing the amount of your deductible. Because it's better to budget for small losses than to insure against them, larger deductibles are becoming more popular.
 
 
 ![Lowering your home insurance premiums](img/fpt_loweringhomeinsurance.jpg)
@@ -380,7 +380,7 @@ The policy _does not_ coer defense of criminal charges against the insured due t
 
 Insurance companies typically set a _dollar limit_ up to which it will pay for damages from any one accident.
 
-Typicial limits are $50,000, $100,000, $300K, and $500K. **You'd be well advised to consider no less than $300K coverage in today's legal liability environment**. 
+Typicial limits are $50,000, $100,000, $300K, and $500K. **You'd be well advised to consider no less than $300K coverage in today's legal liability environment**.
 
 Some insurers make so-called _split limits_ of liability coverage available, with the first amount in each combination the per-individual limit and the second the per-accident limit. Some policy limit combinations for proecting individuals against claims made for **bodily injury liability losses** are $25,000/$50k, $50K/$100K, etc.
 
@@ -481,10 +481,10 @@ The collision provision of your insurance policy often fully protects you in a r
 #### Factors affecting premiums
 
 1. **Rating territory**: Rates are higher in geographic areas where accident rates, number of claims filed, and average cost of claims paid are higher. Rates reflect auto repair costs, hospital and medical expenses, jury awards, and theft and vandalism in the area. Some jurisdictions prohibit the use of rating territories, age, and gender factors, because it's believed these factors unfairly discriminate against the urban, the young, and the male.
-1. **Use of the automobile**: Drive less, pay less! Low annual miles translate into a smaller probability of an accident, so you pay lower rates. Rates are also lower if the insured automobile isn't usually driven to work or is driven less than 3 miles one way. 
+1. **Use of the automobile**: Drive less, pay less! Low annual miles translate into a smaller probability of an accident, so you pay lower rates. Rates are also lower if the insured automobile isn't usually driven to work or is driven less than 3 miles one way.
 1. **Drivers' personal characteristics**: Insured's age, sex, and marital status. Insurance companies base premium differentials on the number of accidents involving certain age groups. For example, drivers aged 25 and under make up only about 15% of the total driving population, but they are involved in nearly 30% of auto accidents and in 26% of fatal accidents. Male drivers are invovled in a larger % of fatal crashes, so unmarried males under age 30 (and married males under 25) pay higher premiums than do older individuals. Females over age 24, as well as married females of any age, are exempt from the youthful operator classification and pay lower premiums.
 1. **Type of automobile**: Insurance companies charge higher rates for automobiles classified as intermediate-performance, high-performance, and sports vehicles and also for rear-engine models. Some states even rate four-door cars differently from two-door models.
-1. **Driving record**: The driving records - traffic violations and accidents - of those insured and the people who live with them affect premium levels. More severe traffic conditions - driving under the influence, leaving the scene of an accident, homicide or assault arising from the operation of a motor vehicle, and driving with a revoked or suspended driver's license - result in higher insurance premiums. Any conviction for a moving traffic violation that results in the accumulation of points under a state point system also may incur a premium surcharge. 
+1. **Driving record**: The driving records - traffic violations and accidents - of those insured and the people who live with them affect premium levels. More severe traffic conditions - driving under the influence, leaving the scene of an accident, homicide or assault arising from the operation of a motor vehicle, and driving with a revoked or suspended driver's license - result in higher insurance premiums. Any conviction for a moving traffic violation that results in the accumulation of points under a state point system also may incur a premium surcharge.
 
 
 Many states palce drivers with multiple traffic violations in an **automobile insurance plan** (formerly called an _assigned-risk plan_), providing automobile insurance to those refused regular coverage. The plan generally offers less coverage for a higher premium. Even with higher premiums, however, insurers lost billions of dollars on this type of business in a recent 5-year period.
@@ -513,7 +513,7 @@ Most states have **financial responsibility laws** whereby motorists must buy a 
 Fall into 2 categories:
 
 1. _Compulsory auto insurance_ laws require motorists to show evidence of insurance coverage _before_ receiving their license plates.
-1. The second requires to show proof of insurance _after_ being involved in an accident. If they fail to do so, their registrations and driver's licenses are suspended. 
+1. The second requires to show proof of insurance _after_ being involved in an accident. If they fail to do so, their registrations and driver's licenses are suspended.
 
 ![How to buy auto insurance](img/fpt_autoinsurance.png)
 
@@ -548,7 +548,7 @@ People with moderate or high level incomes may want to buy one.
 1. Develop an inventory of exposures to loss
 1. Arrange them from highest to lowest priority.
 
-Losses that lend themselves to insurance protection are those that seldom occur but are potentially substantial &mdash; e.g. damage to a home and its contents or liability arising from a negligence claim. 
+Losses that lend themselves to insurance protection are those that seldom occur but are potentially substantial &mdash; e.g. damage to a home and its contents or liability arising from a negligence claim.
 
 Somewhat less imortant, but still desirable, is insurance to cover losses that could disrupt a family's financial plans, even if the losses might not result in insolvency. Such risks include physical damage to cars, boats, and other personal property of moderate value.
 
@@ -586,7 +586,7 @@ Ask questions about the company's financial soundness, its claim settlement prac
 
 1. Record the names, addresses, and phone numbers of all witnesses, drivers, occupants, and injured parties, along with license numbers of the automobiles involved.
 1. **Never leave the scene of an accident, even if the other party says it's acceptable to do so.**
-1. Immediately notify law enforcement officers and your insurance agent of the accident. 
+1. Immediately notify law enforcement officers and your insurance agent of the accident.
 1. Never discuss liability at the scene of an accident or with anyone other than the police and your insurer.
 1. The duty of the police offer is to assess the probability of a law violation and maintain order at the scene of an accident &mdash; not to make judgements about liability.
 
@@ -606,7 +606,7 @@ When a company denies responsibility, you do not get the right of arbitration. I
 
 ### Claims adjustment
 
-If you're in an minor accident, the insurance agent may give you a check on the spot. If your loss is more complex, your company will probably assign a claims adjustor to the case. 
+If you're in an minor accident, the insurance agent may give you a check on the spot. If your loss is more complex, your company will probably assign a claims adjustor to the case.
 
 > **claims adjustor**: An insurance specialist who works for the insurance company, as an independent adjustor or for an adjustment bureau, to investigate claims.
 

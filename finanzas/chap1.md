@@ -11,7 +11,7 @@ Principles:
 
 1. Spend less than you earn
 1. Keep investing so your money continues to work toward your goals
-1. Know where you are and plan for the unexpected. You cannot know where you are financially unless you carefully, and frequently, update your family's budget. And it is important to set aside money for an emergency fund. 
+1. Know where you are and plan for the unexpected. You cannot know where you are financially unless you carefully, and frequently, update your family's budget. And it is important to set aside money for an emergency fund.
 
 
 ![Financial Impact of Personal Choices](img/fipc.png)
@@ -34,7 +34,7 @@ Principles:
 - **Financial self awareness**: observing your own thoughts, feelings, and behaviour concerning your finances.
 	- **Is the way I spend consistent with what I believe?**
 	- **Have I clearly stated the financial goals that are important to me and, if so, what am I doing today to make sure I achieve them?**
-- **Wealth**: net total value of all the items the individual owns. 
+- **Wealth**: net total value of all the items the individual owns.
 	- Divided into:
 		- Tangible assets: Physical assets (e.g. real estate, automobiles). Held for consumption or investment purposes
 		- Financial assets: _intangible_, paper assets, such as savings accounts and securities (stocks, bonds, mutual funds). They are earning assets held for the return on investment offered
@@ -99,7 +99,7 @@ Above is presented a sample worksheet to write down your financial goals.
 
 #### The Psychology of Money
 
-Your personal value system — the important ideals and beliefs that guide your life — will also shape your attitude toward money and wealth accumulation. 
+Your personal value system — the important ideals and beliefs that guide your life — will also shape your attitude toward money and wealth accumulation.
 
 You can formulate financial plans that provide the greatest personal satisfaction and quality of life by identifying your values.
 
@@ -119,7 +119,7 @@ Effective financial plans are both economically and psychologically sounds. They
 
 Financial compatibility is important. Most people are uncomfortable talking about money matters, even with their partners. You should discuss financial goals and attitudes towards money with your partners, also allocating responsibility for money management tasks and decisions.
 
-> Your parents should play an important role in your financial planning. As they age, you may have to assume greater responsibility for their care. 
+> Your parents should play an important role in your financial planning. As they age, you may have to assume greater responsibility for their care.
 
 - Do you know what health care coverage and financial plans they have in place?
 - Where do they keep important financial and legal documents?
@@ -128,7 +128,7 @@ Financial compatibility is important. Most people are uncomfortable talking abou
 
 ### 2. Financial Plans
 
-Financial plans provide the roadmap for acheiving your financial goals. 
+Financial plans provide the roadmap for acheiving your financial goals.
 
 ![Personal Financial Planning Life Cycle](img/exhibit1.7.png)
 
@@ -185,8 +185,8 @@ The economy is said to be experiencing a period of **inflation** when the genera
 ### Determining income factors
 
 - Demographics: Very young or very old people have the loest incomes. Highest earnings generally occur between the ages of 45 to 64.
-- Education: Controllable factor that significantly affects your income. 
-- Where you live: Salaries vary regionally. It will also be higher if you live in a large metropolitan area. Living costs also vary throughout the country. 
+- Education: Controllable factor that significantly affects your income.
+- Where you live: Salaries vary regionally. It will also be higher if you live in a large metropolitan area. Living costs also vary throughout the country.
 - Your career.
 
 

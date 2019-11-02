@@ -521,7 +521,7 @@ Major medical insurance plans offered under an indemnity (fee-for-service) plan 
 
 ![Effect of Per-Illness, Per-Accident deductible](img/example_deductible.png)
 
-##### Participation (co-insurance)
+##### Participation (co-insurance) (coinsurance)
 
 > **participation** or **co-insurance clause**: A provision in many health insurance policies stipulating that the insurer will pay some portion &mdash; say, 80 or 90% &mdash; of the amount of the covered loss in excess of the deductible rather than the entire amount.
 
@@ -530,6 +530,14 @@ Major medical insurance plans offered under an indemnity (fee-for-service) plan 
 
 
 > Without a stop-loss provision, a $1 million medical bill would leave the insured with $200,000 of costs under an 80% plan. Often such provisions limit the insured's participation to less than $10,000 and sometimes to as little as $2,000.
+
+**Example:**
+
+> Let's say your health insurance plan's allowed amount for an office visit is $100 and your coinsurance is 20%.
+> If you've paid your deductible: You pay 20% of $100, or $20. The insurance company pays the rest.
+> If you haven't met your deductible: You pay the full allowed amount, $100.
+
+More info: https://www.healthcare.gov/glossary/co-insurance/
 
 
 ##### Internal limits

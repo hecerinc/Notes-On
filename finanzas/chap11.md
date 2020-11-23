@@ -17,7 +17,7 @@ Tips:
 - Learn as much as you can about the market, different types of securities, and various trading strategies.
 - You may want to become a regular reader of Money, The Wall Street Journal, Barrons, and Forbes.
 - Strongly suggest to set up a portfolio of securities on paper, and make _paper trades_ in and out of your portfolio for 6 months to a year, to get a feel of what it's like to make and lose money on the market. You might want to use some online _portfolio tracking_ programs offered at [quicken.com](https://www.quicken.com/)  or [MSN Money Central](https://moneycentral.msn.com).
-- You will also need a way to invest &emdash; specifically a **brokerage firm** (person or online) and some investment vehicle in which to invest.
+- You will also need a way to invest &mdash; specifically a **brokerage firm** (person or online) and some investment vehicle in which to invest.
 - As a beginner investor, probably best to stick to the basics:
 	- Stocks
 	- Bonds
@@ -37,7 +37,7 @@ Tips:
 	4.1 Making a lump-sum investment up front (1)
 	4.2 Set up a systematic savings plan and put away certain amount each year (2)
 
-![Behaviour matters 11.1](img/bm11.1.jpg)
+![Behaviour matters 11.1](img/bm_11.1.jpg)
 
 **Workseet 11.1: Determining the amount of investment capital**
 
@@ -78,13 +78,15 @@ A form of _equity_, they represent an ownership interest in a corporation. Each 
 
 #### 2. Bonds
 
-Bonds are _liabilities_ &emdash; they're IOUs from the issuer. Governments and corporations issue bonds that pay a stated return, called _interest_. An individual who invests in bonds receives a stipulated interest income, typically paid every six months, plus the return of the principal (face) value of th bond at maturity.
+Bonds are _liabilities_ &mdash; they're IOUs from the issuer. Governments and corporations issue bonds that pay a stated return, called _interest_. An individual who invests in bonds receives a stipulated interest income, typically paid every six months, plus the return of the principal (face) value of th bond at maturity.
 
 
 **Example**:
 
 ```
-If you purchased a $1,000 bond that paid 5% interest in semiannual installments, then you could expect to receive $25 every six months (i.e., 5% x 0.5 years x $1,000) and at maturity, recover the $1,000 face value of the bond.
+If you purchased a $1,000 bond that paid 5% interest in semiannual installments, 
+then you could expect to receive $25 every six months (i.e., 5% x 0.5 years x $1,000) and at maturity,
+recover the $1,000 face value of the bond.
 ```
 
 **A bond can be bought or sold prior to maturity**, at a price that may differ from its face value because bond prices, like common stock prices, fluctuate in the market.

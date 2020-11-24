@@ -2,6 +2,31 @@
 ## Using Credit
 
 
+**Table of Contents**
+
+-   [Using Credit](#using-credit)
+	-   [First steps in establishing
+		credit](#first-steps-in-establishing-credit)
+-   [Credit Cards and open account
+	credit](#credit-cards-and-open-account-credit)
+	-   [Special types of bank credit
+		cards](#special-types-of-bank-credit-cards)
+	-   [Retail charge cards](#retail-charge-cards)
+	-   [Debit cards](#debit-cards)
+	-   [Prepaid cards](#prepaid-cards)
+	-   [Revolving credit lines](#revolving-credit-lines)
+-   [Application process](#application-process)
+	-   [Credit Bureau](#credit-bureau)
+	-   [Computing Finance Charges](#computing-finance-charges)
+	-   [Things to consider when shopping for a
+		card](#things-to-consider-when-shopping-for-a-card)
+-   [Safety features](#safety-features)
+-   [Bankruptcy](#bankruptcy)
+	-   [Wage Earner Plan](#wage-earner-plan)
+	-   [Straight Bankruptcy](#straight-bankruptcy)
+
+---
+
 ![How's your credit](img/how_credit.png)
 
 - A good rule to remember is _the product purchased on credit should outlive the amount of time it takes to pay it off_. 

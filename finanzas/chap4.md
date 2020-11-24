@@ -2,6 +2,34 @@
 ## Managing your cash and savings
 
 
+**Table of Contents**
+
+-   [Managing your cash and
+	savings](#managing-your-cash-and-savings)
+-   [Tips](#tips)
+-   [Financial marketplace](#financial-marketplace)
+	-   [Financial institutions](#financial-institutions)
+	-   [Money safety](#money-safety)
+-   [Cash management products](#cash-management-products)
+	-   [Checking account](#checking-account)
+	-   [Savings accounts](#savings-accounts)
+	-   [Interest-Paying Checking
+		Accounts](#interest-paying-checking-accounts)
+	-   [Asset Management Accounts
+		(AMA)](#asset-management-accounts-ama)
+-   [Choosing a bank](#choosing-a-bank)
+-   [Starting savings](#starting-savings)
+	-   [Earning interest](#earning-interest)
+-   [Other investment vehicles](#other-investment-vehicles)
+	-   [Certificates of Deposit
+		(CDs)](#certificates-of-deposit-cds)
+-   [Government-issued](#government-issued)
+	-   [U.S. Treasury Bills
+		(T-Bills)](#u.s.-treasury-bills-t-bills)
+	-   [Series EE Bonds](#series-ee-bonds)
+	-   [I Savings Bonds](#i-savings-bonds)
+
+---
 
 [Cash Is No Longer Trash - John Waggoner - Kipling's Personal Finance Magazine January 2019](pdf/kip201901_56.pdf)
 

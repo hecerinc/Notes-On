@@ -1,6 +1,8 @@
 # Chapter 11
 ## Investment Planning
 
+**Table of Contents**
+
 -   [Investment Planning](#investment-planning)
 -   [Objectives and rewards](#objectives-and-rewards)
 	-   [Role of investing in the PFP
@@ -71,8 +73,8 @@ Tips:
 2. Set a time limit and amount
 3. Determine a _rate of return_ that you can think you earn on your money (on average, across the span of the goal)
 4. Calculate the investment capital needed. Two ways of achieving this:
-	4.1 Making a lump-sum investment up front (1)
-	4.2 Set up a systematic savings plan and put away certain amount each year (2)
+	- 4.1 Making a lump-sum investment up front (1)
+	- 4.2 Set up a systematic savings plan and put away certain amount each year (2)
 
 ![Behaviour matters 11.1](img/bm_11.1.jpg)
 
@@ -115,7 +117,7 @@ A form of _equity_, they represent an ownership interest in a corporation. Each 
 
 #### 2. Bonds
 
-Bonds are _liabilities_ &mdash; they're IOUs from the issuer. Governments and corporations issue bonds that pay a stated return, called _interest_. An individual who invests in bonds receives a stipulated interest income, typically paid every six months, plus the return of the principal (face) value of th bond at maturity.
+Bonds are _liabilities_ &mdash; they're IOUs from the issuer. Governments and corporations issue bonds that pay a stated return, called _interest_. An individual who invests in bonds receives a stipulated interest income, typically paid every six months, plus the return of the principal (face) value of the bond at maturity.
 
 
 **Example**:
@@ -626,7 +628,7 @@ After establishing your asset allocation strategy, you should check it regularly
 
 Some reason to reevaluate your asset allocation:
 
-- A major in change in personal circumstances &mdash; marriage, birth of a child, loss of a spouse to divorce or death, child graduating from college, loss of a job, or family illness &mdash; that changes your investment goals
+- A major change in personal circumstances &mdash; marriage, birth of a child, loss of a spouse to divorce or death, child graduating from college, loss of a job, or family illness &mdash; that changes your investment goals
 - The proportion of an asset category rises or falls considerably and thereby deviates from your target allocation for that class by more than, say, 5%.
 - You're close to reaching a certain goal
 

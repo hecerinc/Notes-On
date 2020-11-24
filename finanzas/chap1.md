@@ -1,4 +1,19 @@
-# Chapter 1: Understanding the Financial Planning Process
+# Chapter 1
+## Understanding the Financial Planning Process
+
+**Table of Contents**
+
+-   [Important concepts](#important-concepts)
+-   [Intro](#intro)
+-   [Terms](#terms)
+-   [Personal Financial Planning](#personal-financial-planning)
+	-   [Steps](#steps)
+	-   [1. Financial goals](#financial-goals)
+	-   [2. Financial Plans](#financial-plans)
+	-   [Economic environment](#economic-environment)
+	-   [Determining income factors](#determining-income-factors)
+
+---
 
 ## Important concepts
 

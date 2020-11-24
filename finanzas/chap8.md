@@ -1,6 +1,45 @@
 # Chapter 8: Insurance
 ## Life insurance
 
+
+**Table of Contents**
+
+-   [Insurance](#insurance)
+-   [Underwriting](#underwriting)
+-   [Benefits](#benefits)
+-   [Relevant questions](#relevant-questions)
+	-   [1. Do you need life
+		insurance?](#do-you-need-life-insurance)
+	-   [2. How much is right for you?](#how-much-is-right-for-you)
+-   [3. What kind of policy is right for
+	you?](#what-kind-of-policy-is-right-for-you)
+	-   [Term life](#term-life)
+	-   [Whole Life](#whole-life)
+	-   [Universal Life](#universal-life)
+-   [Buying life insurance](#buying-life-insurance)
+	-   [Compare costs and features](#compare-costs-and-features)
+	-   [Selecting a company](#selecting-a-company)
+	-   [Choosing an agent](#choosing-an-agent)
+-   [Medical exam tips](#medical-exam-tips)
+-   [Key features of life insurance
+	policies](#key-features-of-life-insurance-policies)
+	-   [Beneficiary clause](#beneficiary-clause)
+	-   [Settlement options](#settlement-options)
+	-   [Policy loans](#policy-loans)
+	-   [Premium payments](#premium-payments)
+	-   [Grace period](#grace-period)
+	-   [Nonforfeiture options](#nonforfeiture-options)
+	-   [Policy reinstatement](#policy-reinstatement)
+	-   [Change of policy](#change-of-policy)
+	-   [Other features](#other-features)
+-   [Understanding Life Insurance Policy
+	Illustrations](#understanding-life-insurance-policy-illustrations)
+-   [Tips](#tips)
+
+
+---
+
+
 - Its primary purpose is to protect your dependents from financial loss in the event of your untimely death.
 - Life insurance protects your family from the potentially catastrophic financial damage caused by the premature death of the major breadwinner
 

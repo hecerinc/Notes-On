@@ -1,6 +1,44 @@
 # Chapter 11
 ## Investment Planning
 
+-   [Chapter 11](#chapter-11)
+    -   [Investment Planning](#investment-planning)
+    -   [Objectives and rewards](#objectives-and-rewards)
+        -   [Role of investing in the PFP
+            process](#role-of-investing-in-the-pfp-process)
+        -   [What are your investment
+            objectives?](#what-are-your-investment-objectives)
+        -   [Different ways to invest](#different-ways-to-invest)
+    -   [Securities markets](#securities-markets)
+        -   [Primary and secondary
+            markets](#primary-and-secondary-markets)
+        -   [Broker & dealer markets](#broker-dealer-markets)
+        -   [Bull market or Bear](#bull-market-or-bear)
+    -   [Making transactions in the securities
+        markets](#making-transactions-in-the-securities-markets)
+        -   [Stockbrokers](#stockbrokers)
+        -   [Calculating investment
+            returns](#calculating-investment-returns)
+        -   [Margin trades and short
+            sales](#margin-trades-and-short-sales)
+    -   [Becoming an informed investor](#becoming-an-informed-investor)
+        -   [Annual stockholder reports](#annual-stockholder-reports)
+        -   [The financial press](#the-financial-press)
+        -   [Market data](#market-data)
+        -   [Brokerage reports](#brokerage-reports)
+        -   [Advisory services](#advisory-services)
+    -   [Online investing](#online-investing)
+    -   [Managing your investment
+        holdings](#managing-your-investment-holdings)
+        -   [Building a portfolio of
+            securities](#building-a-portfolio-of-securities)
+        -   [Asset allocation & portfolio
+            management](#asset-allocation-portfolio-management)
+        -   [Keeping track of your
+            investments](#keeping-track-of-your-investments)
+
+---
+
 We usually make a distinction between investing and speculating:
 
 - **Investing**: placing money in a medium such as stocks or bonds in the expectation of receiving some future benefit
@@ -337,3 +375,284 @@ In this scenario, you **sell high, then buy low**. It's a **very high risk** inv
 
 
 ![FPT: Short vs long sales](img/fpt_short_vs_long.png)
+
+
+## Becoming an informed investor
+
+Investor know-how defines the playing field. It gives you access to many investment vehicles and opportunities the more you know about them. It helps determine how well you'll meet your investment objectives. It can't guarantee success, but can help you avoid unnecessary losses.
+
+**4 types of investment information you should follow on a regular basis**:
+
+1. **Economic developments and current events**: To help you evaluate the underlying investment environment
+2. **Alternative investment vehicles**: To keep you abreast of market developments
+3. **Current interest rates and prices**: To monitor your investments and stay alert for developing investment opportunities
+4. **Personal investment strategies**: To help you hone your skills and stay alert for new techniques as they develop
+
+
+### Annual stockholder reports
+
+> **Annual stockholders' report**: A report made available to stockholders and other interested parties that includes a variety of financial and descriptive information about a firm's operation in the recent past.
+
+- Balance sheets
+- Income statements
+- Other financial reports
+- Business activities
+- Recent developments
+- Future plans and outlook
+- Financial ratios describing past performance
+
+Reading the report:
+
+1. Start with the highlights or selected financial data sections.
+2. Read the chief executive's letter. Look for euphemisms like "a slowing of growth" to describe a drop in earnings.
+3. Move on to the discussion of operations. Provides info on sales, earnings, debt, ongoing litigation, etc.
+4. Review the financial statements, including the notes. Look for trends in sales, costs, profit, cash position, and net working capital.
+5. Read the auditor's report. Look for phrases like "except for" or "subject to", as they mean _there may be problems you need to understand_.
+
+
+### The financial press
+
+- WSJ
+- Barron's
+- Investor's Business Daily
+- the "Money" section in USA Today
+- Money magazine
+- Forbes 
+- Fortune
+- Business Week
+- Kiplinger's
+- Bloomberg
+
+### Market data
+
+Averages or indexes, they describe the general behaviour of the securities markets.
+
+- Based on the price movements of a select group of securities over an extended period
+- Capture the overall performance of the market as a whole
+- The absolute value of the index is far less important than the trend.
+- Most common: Dow Jones, S&P, NYSE, and NASDAQ.
+
+
+#### Dow Jones Industrial Averages
+
+4 parts:
+
+1. DJIA: the industrial average, based on 30 stocks
+2. Transportation average (20 stocks)
+3. Utility average (15 stocks)
+4. Composite average (all 65 industrial, transportation, and utility stocks)
+
+Most of the stocks are picked from the NYSE, but a few are from the NASDAQ (Intel & Microsoft).
+
+- strong bias towards blue chips
+- DJIA behaviour closely reflects that of other broadly based stock market measures
+
+![Dow Jones Industrial Average stocks](img/e11.4.png)
+
+
+#### Standard & Poor's indexes
+
+- Uses a lot more stocks (S&P 500 uses 500)
+- Greater breadth of representation
+- Index, not average, but highly correlated
+- MidCap 400 and SmallCap 600 also very popular
+
+#### NYSE, NASDAQ and other market indexes
+
+- NYSE index: Performance of all stocks listed in the NYSE
+- NASDAQ Composite (all stocks in NASDAQ) (more volatile than the Dow or S&P)
+- NASDAQ 100 (biggest 100 nonfinancial stock)
+- Dow Jones Wilshire 5000 index: total market value of 98-99% of all publicly traded stock in the US. Used to track performance, but also an accurate read of the size of the market
+- Russell 2000 (small cap segment of market)
+
+
+![Exhibit 11.5: Listed Stock Quote for Apple](img/e11.5.png)
+
+![Explanation 1](img/stock_quotation_1.png)
+![Explanation 2](img/stock_quotation_2.png)
+
+
+### Brokerage reports
+
+Reports produced by the research staffs of major (full-service) brokerage firms provide still another important source of investor information. They also regularly issue reports on specific securities, including recommendations for the type of investment returns expected and whether to buy, hold, or sell specific securities.
+
+### Advisory services
+
+Subscription advisory services provide info and recommendations on various industries and specific securities. Cost from $50 to several hundred dollars a year, although you can review the material at your broker's office, university & public libraries, or online.
+
+Best known:
+
+- S&P: monthly stock guide & bond guide, _S&P Outlook_ (see example in Exhibit 11.6)
+- Moody's Investor Service: stock & bond guide
+- Value Line: _Investment Survey_
+- Morningstar
+
+
+![Exhibit 11.6](img/sp_stock_report.png)
+![Exhibit 11.6, part 2](img/sp_stock_report_2.png)
+
+## Online investing
+
+- You can trade all types of securities online
+- Lots of risk, no human broker to tell you to reconsider
+- Rules are still the same: _knwo what you're buying, from whom, and at what level of risk_.
+- [E-Trade](httpss://www.etrade.com)
+	- Quick overview of recent market activity, obtain price quotes, and research reports, or use their services to track a whole portfolio of securities
+	- Select stocks, bonds, and mutual funds
+	- Get advice on retirement planning & saving for college
+	- Even do your banking
+
+
+You can find a lot of good info online:
+
+
+#### Investor education
+
+Tutorials, online classes, and articles. Here are some featuring _investment fundamentals_:
+
+- [The Motley Fool](https://www.fool.com): _Fool's School_ has sections on fundamentals of investing, mutual fund investing, choosing a broker, investment strategies and styles, lively discussion boards, and more.
+- [Morningstar](https://www.morningstar.com): provides comprehensive information on stocks, mutual funds, ETFs, and more.
+- [Zacks Investment Research](https://www.zacks.com): excellent starting place to learn what the Internet can offer investors
+- [NASDAQ](https://www.nasdaq.com) has an investor Resource section that helps with financial planning and choosing a broker.
+- [Money](https://money.cnn.com)
+- [Kiplinger](https://www.kiplinger.com)
+
+#### Investment tools
+
+Once you're familiar with the basics of investing, you can develop financial plans, and set investment goals, find securities that meet them, analyse potential investments, and organize your portfolio.
+
+- financial calculators & worksheets: how much to save each month for a goal.
+	- [Fidelity](https://www.fidelity.com)
+- screening & charting tools: historical and forecasted info earnings, earnings per share, dividend yields, growth rates, etc. Track behaviour of a specific stock relative to a market index or to one or more of its major competitors. Screening: identify attractive and potentially rewarding investment vehicles. Allows you to specify stocks with low or high P/E multiples, small market capitalizations, high dividend yields, specific revenue growth, and low debt-to-equity ratios and it'll filter them for you
+	- Quicken
+	- Morningstar
+	- MSN Money Central
+- portfolio trackers: specify number of shares held & symbol for stocks or mutual funds and the tracker will update the value of your portfolio. 
+	- Quicken
+	- Morningstar
+	- [Google](https://google.com/finance/portfolio)
+	- ETrade
+- alert systems
+
+##### Day traders
+
+In contrast to buy-and-hold investors with a long-term perspective, **day traders** buy and sell stocks quickly throughout the trading day. They hope their stocks will continue to rise in value for the short time they own them - sometimes just seconds or minutes - so they can make quick profits. Day trading is neither illegal nor unethical, but it is _highly risky_. They usually buy on margin to compound their risk and earn even higher returns. 
+
+They usually incur major financial losses when they start trading. Some never reach profitability. High expenses for brokerage commissions, training, and computer equipment. 
+
+
+## Managing your investment holdings
+
+Buying and selling securities is not difficult; the hard part is finding securities that will provide the kind of return that you're looking for. Eventually, your investment holdings will increase to the point where you're managing a whole portfolio of securities.
+
+> **Portfolio**: a collection of investment vehicles assembled to meet a common investment goal.
+
+Seasoned investors devote much attention to constructing diversified portfolios of securities. Such portfolios consist of stocks and bonds selected not only for their returns but also for their combined risk-return behaviour.
+
+> **Diversification**: The process of choosing securities with dissimilar risk-return characteristics in order to create a portfolio that provides an acceptable level of return and an acceptable exposure risk.
+
+Studies have shown that you can achieve a noticeable reduction in risk simply by diversifying your investment holdings.
+
+
+### Building a portfolio of securities
+
+Diversification is a desirable quality in investments portfolio.
+
+```
+For example, a portfolio made up of nothing but drug stocks, such as Merck and Eli Lilly, would hardly be well diversified.
+```
+
+![Types of investments by the average investor](img/types_investments.png)
+
+Your portfolio strategy will depend on your own objectives and needs.
+
+
+#### Investor characteristics
+
+Begin with an honest evaluation of your own financial condition and family situation. Pay attention to the following variables:
+
+- Level and stability of income
+- Family factors
+- Investment horizon
+- Net worth
+- Investment experience and age
+- Disposition towards risk
+
+
+An investor with a secure job is more likely to embark on a more aggressive investment program. Income taxes also bear on the investment decision. The higher an investor's income, the more important the tax ramifications of an investment program become.
+
+Consider  that municipal bonds normally yield about 25-30% less in annual interest than corporate bonds, because the interest income on municipal bonds is tax-free. On an after-tax basis, however, municipal bonds may provide a superior return if an investor is in a tax bracket of 28% or higher.
+
+A good rule of thumb is that _an investor's exposure to risk should never exceed the ability to bear that risk_.
+
+
+![Common investing mistakes](common_investing_mistakes.png)
+
+#### Investor objectives
+
+"What do I want from my portfolio?"
+
+There's generally a trade-off between earning a high current income from an investment and obtaining significant capital appreciation from it. An investor must choose one or the other; it's hard to obtain both from a single investment vehicle.
+
+Of course, in a portfolio it's possible to have a _balance_ of both income and growth (capital gains), but most often that involves "tilting" the portfolio in one direction (e.g. toward income) or the other (toward growth).
+
+An investor's needs should determine which approach to choose. For instance, a retired investor whose income depends a lot on her portfolio will probably choose a lower-risk, current-income-oriented approach for financial survival. In contrast, a high-income ,financially secure investor may be much more willing to take on risky investments in hopes of improving her net worth. Likewise, a young investor with a secure job may be less concerned about current income and more able to bear risk. This type of investor will likely be more capital gains oriented and may choose speculative investments.
+
+
+### Asset allocation & portfolio management
+
+To create a portfolio geared towards your goals, you need to create an **assets allocation strategy**.
+
+> **Assetts allocation**: A plan for dividing a portfolio among different classes of securities in order to preserve capital by protecting the portfolio against negative market developments.
+
+What portion of your portfolio will be devoted to:
+
+- short-term securities
+- long-term bonds and bond funds
+- individual common stocks & equity funds
+
+The emphasis is on _preserving capital_.There's overwhelming evidence that, over the long run, _the total return on a portfolio is influenced far more by its asset allocation than by specific security selections_.
+
+Looks like this:
+
+![Asset allocation example](img/asset_allocation.png)
+
+
+Once you've decided that you want to put, say, 20% of your money into intermediate-term (7-10 years) bonds, your next step is to select those specific securities.
+
+After establishing your asset allocation strategy, you should check it regularly for two reasons:
+
+1. To make sure that you portfolio is in line with your desired asset mix
+2. To see if that mix is still appropriate for your investment objectives
+
+Some reason to reevaluate your asset allocation:
+
+- A major in change in personal circumstances &mdash; marriage, birth of a child, loss of a spouse to divorce or death, child graduating from college, loss of a job, or family illness &mdash; that changes your investment goals
+- The proportion of an asset category rises or falls considerably and thereby deviates from your target allocation for that class by more than, say, 5%.
+- You're close to reaching a certain goal
+
+Reevaluate periodically but not too often: allow for changes.
+
+Exhibit 11.7 provides examples of four portfolios, each developed with a particular financial situation in mind. 
+
+![Asset allocation: You can do it now](img/ycdin_asset_allocation.png)
+
+![Exhibit 11.7: Examples of 4 portfolios](img/e11.7.png)
+
+
+
+### Keeping track of your investments
+
+Sometimes investments don't perform the way you thought they would. Their return may be well below what you'd like, or you may even have suffered a loss. In either case, it may be time to sell the investments and put the money elsewhere.
+
+You should set up a monitoring system that can allow you to identify such securities.
+
+Use a worksheet like the one below along with an online portfolio tracker. The ws provides long-term information from the date of purchase of an asset, and the online portfolio tracker provides year-to-date or annual returns. A report like the WS below should be prepared at least once a year.
+
+![Worksheet 11.2 Keeping tack of your investments](img/ws11.2.png)
+
+![Track your portfolio](img/track_portfolio.png)
+
+![Planning over a lifetime: Investments](img/pol_chap11.png)
+
+![Financial Impact of Personal choices](img/fipc_chap11.png)

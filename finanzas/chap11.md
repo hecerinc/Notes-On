@@ -1,41 +1,40 @@
 # Chapter 11
 ## Investment Planning
 
--   [Chapter 11](#chapter-11)
-    -   [Investment Planning](#investment-planning)
-    -   [Objectives and rewards](#objectives-and-rewards)
-        -   [Role of investing in the PFP
-            process](#role-of-investing-in-the-pfp-process)
-        -   [What are your investment
-            objectives?](#what-are-your-investment-objectives)
-        -   [Different ways to invest](#different-ways-to-invest)
-    -   [Securities markets](#securities-markets)
-        -   [Primary and secondary
-            markets](#primary-and-secondary-markets)
-        -   [Broker & dealer markets](#broker-dealer-markets)
-        -   [Bull market or Bear](#bull-market-or-bear)
-    -   [Making transactions in the securities
-        markets](#making-transactions-in-the-securities-markets)
-        -   [Stockbrokers](#stockbrokers)
-        -   [Calculating investment
-            returns](#calculating-investment-returns)
-        -   [Margin trades and short
-            sales](#margin-trades-and-short-sales)
-    -   [Becoming an informed investor](#becoming-an-informed-investor)
-        -   [Annual stockholder reports](#annual-stockholder-reports)
-        -   [The financial press](#the-financial-press)
-        -   [Market data](#market-data)
-        -   [Brokerage reports](#brokerage-reports)
-        -   [Advisory services](#advisory-services)
-    -   [Online investing](#online-investing)
-    -   [Managing your investment
-        holdings](#managing-your-investment-holdings)
-        -   [Building a portfolio of
-            securities](#building-a-portfolio-of-securities)
-        -   [Asset allocation & portfolio
-            management](#asset-allocation-portfolio-management)
-        -   [Keeping track of your
-            investments](#keeping-track-of-your-investments)
+-   [Investment Planning](#investment-planning)
+-   [Objectives and rewards](#objectives-and-rewards)
+	-   [Role of investing in the PFP
+		process](#role-of-investing-in-the-pfp-process)
+	-   [What are your investment
+		objectives?](#what-are-your-investment-objectives)
+	-   [Different ways to invest](#different-ways-to-invest)
+-   [Securities markets](#securities-markets)
+	-   [Primary and secondary
+		markets](#primary-and-secondary-markets)
+	-   [Broker & dealer markets](#broker-dealer-markets)
+	-   [Bull market or Bear](#bull-market-or-bear)
+-   [Making transactions in the securities
+	markets](#making-transactions-in-the-securities-markets)
+	-   [Stockbrokers](#stockbrokers)
+	-   [Calculating investment
+		returns](#calculating-investment-returns)
+	-   [Margin trades and short
+		sales](#margin-trades-and-short-sales)
+-   [Becoming an informed investor](#becoming-an-informed-investor)
+	-   [Annual stockholder reports](#annual-stockholder-reports)
+	-   [The financial press](#the-financial-press)
+	-   [Market data](#market-data)
+	-   [Brokerage reports](#brokerage-reports)
+	-   [Advisory services](#advisory-services)
+-   [Online investing](#online-investing)
+-   [Managing your investment
+	holdings](#managing-your-investment-holdings)
+	-   [Building a portfolio of
+		securities](#building-a-portfolio-of-securities)
+	-   [Asset allocation & portfolio
+		management](#asset-allocation-portfolio-management)
+	-   [Keeping track of your
+		investments](#keeping-track-of-your-investments)
 
 ---
 

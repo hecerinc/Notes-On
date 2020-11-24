@@ -272,7 +272,7 @@ Changing conditions generally stem from changing investor attitudes, economic ac
 
 #### Selecting a broker
 
-If you decide to start investing, it's important to select someone _who understands your investment objectives and who can effectively help you pursue them_. A good place to start is to ask friends, relatives, or business associates to recommend a broker. A good broker is someone who's more interested in **your investments than in his or her own comissions**. 
+If you decide to start investing, it's important to select someone _who understands your investment objectives and who can effectively help you pursue them_. A good place to start is to ask friends, relatives, or business associates to recommend a broker. A good broker is someone who's more interested in **your investments than in his or her own commissions**. 
 
 
 ![Robo advisors](img/fpt_robo_advisors.png)
@@ -585,7 +585,7 @@ Consider  that municipal bonds normally yield about 25-30% less in annual intere
 A good rule of thumb is that _an investor's exposure to risk should never exceed the ability to bear that risk_.
 
 
-![Common investing mistakes](common_investing_mistakes.png)
+![Common investing mistakes](img/common_investing_mistakes.png)
 
 #### Investor objectives
 
@@ -602,7 +602,7 @@ An investor's needs should determine which approach to choose. For instance, a r
 
 To create a portfolio geared towards your goals, you need to create an **assets allocation strategy**.
 
-> **Assetts allocation**: A plan for dividing a portfolio among different classes of securities in order to preserve capital by protecting the portfolio against negative market developments.
+> **Assets allocation**: A plan for dividing a portfolio among different classes of securities in order to preserve capital by protecting the portfolio against negative market developments.
 
 What portion of your portfolio will be devoted to:
 

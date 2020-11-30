@@ -418,5 +418,83 @@ Some plans even sell their shares in their programs at discounts of 3-5%. Most p
 
 ## Invest in bonds
 
+Bonds are _liabilities_ (debt). Usually referred to as _fixed income securities_ because the debt service obligations of the issuer are usually fixed: the issuer agrees to pay a fixed amount of interest periodically and to pay the principal at or before maturity.
+
+### Why invest in bonds
+
+Two kinds of income:
+
+1. Current income: interest payments over the life of the issue
+2. Substantial capital gains: whenever market interest rates fall.
+
+A basic rule: interest rates and bond prices move in opposite directions. Thus, it's possible to buy bonds at one price, and if interest rate conditions are right, to sell them sometime later at a higher price.
+
+They are versatile: can be used conservatively by those seeking high current income or aggressively by those actively seeking capital gains. In fact, some investors regularly commit all or a good deal of their investment funds to bonds because they are good for preservation and long-term accumulation of capital.
+
+### Bonds vs stocks
+
+Good points of bonds: lower risk and attractive levels of current income, along with diversification properties. Bad: _compartive returns_. 
+
+_Relative_ to stocks, there's usually a big sacrifice in returns when investing in bonds, which is the price that you pay for the even bigger reduction in risk. 
+
+Note that this doesn't mean that bonds are always the underachievers. See Exhibit 12.5.
+
+Over the roughly 20-year period from 1995 to mid-2015, the S&P 500 overperformed long-term Treasury bonds by 1.53% (9.83% vs 8.3%). The net result was that a $10,000 investment in 1995 would have generated a terminal value in mid-2015 of about $67,429 for stocks, compared with about $50,666 for bonds. Although historically, the long-term performance of stocks typically outstrips that of bonds, there have been times when that just wasn't so. And the margin was particularly small over this time period owing to the effects of the financial crisis.
+
+![Exhibit 12.5 Comparative performance of stocks and bonds](img/e12.5.png)
+
+![You can do it now: How do stock and bond market returns compare](img/ycdin_12bonds.png)
+
+### Basic issue characteristics
+
+U.S. bonds typically pay interest every 6 months. The amount depends on the **coupon**, which defines the annual interest that the issuer will pay to the bondholder.
+
+For example, a $1,000 bond with an 8% coupon would pay $80 in interest every year, generally in the form of two $40 semiannual payments. The principal amount of a bond, also known as its _par value_, specifies the amount of capital that must be rapid at maturity.
 
 
+Debt securities regularly trade at market prices that differ from their principal (or par) values. This occurs whenever an issue's coupon differs from the prevailing market rate of interest because the price of an issue will change until its yield is compatible with prevailing market yields. For example, such behaviour explains why a 7% coupon issue will carry a market price of only $825 when the market yield is 9%. The drop in prices is necessary to raise the yield on this bond from 7 to 9%.
+
+Issues with market values lower than par are known as _discount bonds_, and carry coupons that are less than those on new issues.
+
+In contrast, issues with market values above par are called _premium bonds_ and have coupons greater than those currently being offered on new issues.
+
+![Intermediate-term bonds may be the sweet sport](img/frs_intermediate_bonds.png)
+
+
+#### Types of issues
+
+Bonds can be differentiated by the type of collateral behind them. 
+
+- Junior standing: backed only by a promise to pay interest and principal and timely basis.
+	- **Debenture**: Totally unsecured bonds issued as either notes (2 to 10 years maturities) or bonds (maturities of > 10 years).
+- Senior standing: secured obligations because they're backed by a legal claim on some specific property of the issuer that acts as collateral for the bonds.
+	- **mortgage bonds**: backed by real estate
+	- **equipment trust certificates**: backed by certain types of equipment and are popular with railroads and airlines
+
+#### Sinking fund
+
+> **Sinking fund**: A bond provision specifying the annual repayment schedule to be used in paying off the issue.
+
+Not all bonds have this requirement, but for those that do, a sinking fund specifies the repayment schedule and how much principal will be retired each year. These reqs generally begin 1 to 5 years after the date of the issue and continue annually thereafter until all or most of the issue has been paid off. Any amount not repaid by maturity is then retired with a single balloon payment.
+
+#### Call feature
+
+> **Call feature**: a provision that stipulates whether a bond can be called (i.e. retired) before its regularly scheduled maturity date, and, if so, under what conditions.
+
+Every bond has one. 3 types of call features:
+
+- _freely callable_: issuer can retire the bond prematurely at any time
+- _noncallable_
+- _deferred call_: the issue cannot be called until after a certain length of time has passed from the date of the issue.
+
+
+Call features are usually used to retire a bond prematurely and replace it with one that carries a lower coupon rate. In this way, the issuer benefits by being able to reduce its annual interest costs. In an attempt to at least partially compensate investors who have their bonds called out from under them, a _call premium_ (usually = to ~6 months - 1 year of interest) is tacked onto the par value of the bond and paid to investors, along with the issue's par value, at the time the bond is called.
+
+
+```
+Example: if a company decides to call its 7% some 15 years before maturity, then it might pay $1,052.50 for every $1,000 bond outstanding (i.e. a call premium = to 9 months interest - $70 : 0.75 = $52.50 - would be added to the par value of $1,000). 
+
+Although this might sound like a good deal, it's really not for the investor. The bondholder may indeed get a few extra bucks when the bond is called; but in turn, she loses a source of high current income. 
+
+For example, the investor may have a 7% bond called away at a time when the best she can do in the market is maybe 4 or 5%.
+```

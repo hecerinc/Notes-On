@@ -3,40 +3,59 @@
 
 **Table of Contents**
 
--   [Investment Planning](#investment-planning)
--   [Objectives and rewards](#objectives-and-rewards)
-	-   [Role of investing in the PFP
-		process](#role-of-investing-in-the-pfp-process)
-	-   [What are your investment
-		objectives?](#what-are-your-investment-objectives)
-	-   [Different ways to invest](#different-ways-to-invest)
--   [Securities markets](#securities-markets)
-	-   [Primary and secondary
-		markets](#primary-and-secondary-markets)
-	-   [Broker & dealer markets](#broker-dealer-markets)
-	-   [Bull market or Bear](#bull-market-or-bear)
--   [Making transactions in the securities
-	markets](#making-transactions-in-the-securities-markets)
-	-   [Stockbrokers](#stockbrokers)
-	-   [Calculating investment
-		returns](#calculating-investment-returns)
-	-   [Margin trades and short
-		sales](#margin-trades-and-short-sales)
--   [Becoming an informed investor](#becoming-an-informed-investor)
-	-   [Annual stockholder reports](#annual-stockholder-reports)
-	-   [The financial press](#the-financial-press)
-	-   [Market data](#market-data)
-	-   [Brokerage reports](#brokerage-reports)
-	-   [Advisory services](#advisory-services)
--   [Online investing](#online-investing)
--   [Managing your investment
-	holdings](#managing-your-investment-holdings)
-	-   [Building a portfolio of
-		securities](#building-a-portfolio-of-securities)
-	-   [Asset allocation & portfolio
-		management](#asset-allocation-portfolio-management)
-	-   [Keeping track of your
-		investments](#keeping-track-of-your-investments)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Objectives and rewards](#objectives-and-rewards)
+  - [Role of investing in the PFP process](#role-of-investing-in-the-pfp-process)
+  - [What are your investment objectives?](#what-are-your-investment-objectives)
+  - [Different ways to invest](#different-ways-to-invest)
+    - [1. Common stock](#1-common-stock)
+    - [2. Bonds](#2-bonds)
+    - [3. Preferreds and Convertibles](#3-preferreds-and-convertibles)
+    - [4. Mutual funds, exchange-traded funds, exchange-traded notes](#4-mutual-funds-exchange-traded-funds-exchange-traded-notes)
+    - [5. Real estate](#5-real-estate)
+- [Securities markets](#securities-markets)
+  - [Primary and secondary markets](#primary-and-secondary-markets)
+    - [Primary markets](#primary-markets)
+    - [Secondary markets](#secondary-markets)
+  - [Broker & dealer markets](#broker--dealer-markets)
+    - [Broker markets](#broker-markets)
+    - [Dealer markets](#dealer-markets)
+  - [Bull market or Bear](#bull-market-or-bear)
+- [Making transactions in the securities markets](#making-transactions-in-the-securities-markets)
+  - [Stockbrokers](#stockbrokers)
+    - [Selecting a broker](#selecting-a-broker)
+    - [Full service, discount, and online brokers](#full-service-discount-and-online-brokers)
+    - [Brokerage fees](#brokerage-fees)
+    - [Executing trades](#executing-trades)
+    - [Types of orders](#types-of-orders)
+  - [Calculating investment returns](#calculating-investment-returns)
+  - [Margin trades and short sales](#margin-trades-and-short-sales)
+    - [Short sales](#short-sales)
+- [Becoming an informed investor](#becoming-an-informed-investor)
+  - [Annual stockholder reports](#annual-stockholder-reports)
+  - [The financial press](#the-financial-press)
+  - [Market data](#market-data)
+    - [Dow Jones Industrial Averages](#dow-jones-industrial-averages)
+    - [Standard & Poor's indexes](#standard--poors-indexes)
+    - [NYSE, NASDAQ and other market indexes](#nyse-nasdaq-and-other-market-indexes)
+  - [Brokerage reports](#brokerage-reports)
+  - [Advisory services](#advisory-services)
+- [Online investing](#online-investing)
+    - [Investor education](#investor-education)
+    - [Investment tools](#investment-tools)
+      - [Day traders](#day-traders)
+- [Managing your investment holdings](#managing-your-investment-holdings)
+  - [Building a portfolio of securities](#building-a-portfolio-of-securities)
+    - [Investor characteristics](#investor-characteristics)
+    - [Investor objectives](#investor-objectives)
+  - [Asset allocation & portfolio management](#asset-allocation--portfolio-management)
+  - [Keeping track of your investments](#keeping-track-of-your-investments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ---
 

@@ -1,18 +1,21 @@
 # Chapter 5
 ## Making automobile and housing decisions
 
-**Table of Contents**
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
--   [Resources](#resources)
--   [Key considerations](#key-considerations)
--   [Affordability](#affordability)
-	-   [New, Used, or "Nearly New"](#new-used-or-nearly-new)
-	-   [Reliability and Warranties](#reliability-and-warranties)
-	-   [Other considerations](#other-considerations)
--   [Purchasing](#purchasing)
--   [CONTINUE ON PAGE 170 of PDF](#continue-on-page-170-of-pdf)
--   [Housing](#housing)
-    -   [Rental Agreements](#rental-agreements)
+  - [Resources](#resources)
+  - [Key considerations](#key-considerations)
+  - [Affordability](#affordability)
+    - [New, Used, or "Nearly New"](#new-used-or-nearly-new)
+    - [Reliability and Warranties](#reliability-and-warranties)
+    - [Other considerations](#other-considerations)
+  - [Purchasing](#purchasing)
+- [CONTINUE ON PAGE 170 of PDF](#continue-on-page-170-of-pdf)
+- [Housing](#housing)
+  - [Rental Agreements](#rental-agreements)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 

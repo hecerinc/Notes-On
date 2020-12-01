@@ -1,6 +1,60 @@
 # Chapter 12
 ## Investing in Stocks &amp; Bonds
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Risk & Return](#risk--return)
+  - [Risks of investing](#risks-of-investing)
+  - [Returns from investing](#returns-from-investing)
+    - [Current income](#current-income)
+    - [Capital gains](#capital-gains)
+    - [Earning interest on interest](#earning-interest-on-interest)
+    - [Future return](#future-return)
+    - [Approximate expected yield](#approximate-expected-yield)
+- [Investing in common stock](#investing-in-common-stock)
+    - [Issuers of stock](#issuers-of-stock)
+    - [Voting rights](#voting-rights)
+    - [Basic tax considerations](#basic-tax-considerations)
+  - [Dividends](#dividends)
+  - [Some key measures of performance](#some-key-measures-of-performance)
+    - [Book value](#book-value)
+    - [Net profit margin](#net-profit-margin)
+    - [Return on equity (ROE)](#return-on-equity-roe)
+    - [Earnings per share](#earnings-per-share)
+    - [Price/Earnings (P/E) ratio](#priceearnings-pe-ratio)
+    - [Beta](#beta)
+  - [Types of common stock](#types-of-common-stock)
+  - [International markets](#international-markets)
+  - [Investing in common stock](#investing-in-common-stock-1)
+    - [Advantages & disadvantages of stock ownership](#advantages--disadvantages-of-stock-ownership)
+  - [Making the investment decision](#making-the-investment-decision)
+    - [Putting a value on a stock](#putting-a-value-on-a-stock)
+    - [Timing your investments](#timing-your-investments)
+    - [Be sure to plow back your earnings](#be-sure-to-plow-back-your-earnings)
+- [Invest in bonds](#invest-in-bonds)
+  - [Why invest in bonds](#why-invest-in-bonds)
+  - [Bonds vs stocks](#bonds-vs-stocks)
+  - [Basic issue characteristics](#basic-issue-characteristics)
+    - [Types of issues](#types-of-issues)
+    - [Sinking fund](#sinking-fund)
+    - [Call feature](#call-feature)
+  - [The Bond market](#the-bond-market)
+    - [Treasury bonds](#treasury-bonds)
+    - [Agency & mortgage-backed bonds](#agency--mortgage-backed-bonds)
+    - [Municipal bonds](#municipal-bonds)
+    - [Corporate bonds](#corporate-bonds)
+    - [The special appeal of zero coupon bonds](#the-special-appeal-of-zero-coupon-bonds)
+    - [Convertible bonds](#convertible-bonds)
+    - [Bond ratings](#bond-ratings)
+  - [Pricing a bond](#pricing-a-bond)
+    - [Bond prices and accrued interest](#bond-prices-and-accrued-interest)
+    - [Bond prices and yields](#bond-prices-and-yields)
+    - [Current yield & Yield to maturity](#current-yield--yield-to-maturity)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Risk & Return
 
 Return rate alone is not enough to decide if an investment is good. You must also consider the _risk_ &mdash; the chance that the actual return will fall short from the expected value.

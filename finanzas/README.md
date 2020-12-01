@@ -13,7 +13,7 @@
 9. Chapter 9: Insuring your Health
 10. Chapter 10: Insuring your property
 11. Chapter 11: Investment planning
-12. Chapter 12: **PENDING**
+12. Chapter 12: Investing in Stocks & Bonds
 13. Chapter 13: **PENDING**
 14. Chapter 14: Planning for Retirement
 

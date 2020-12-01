@@ -1,33 +1,35 @@
 # Chapter 4
 ## Managing your cash and savings
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents**
+- [Tips](#tips)
+- [Financial marketplace](#financial-marketplace)
+  - [Financial institutions](#financial-institutions)
+    - [Depository financial institutions](#depository-financial-institutions)
+    - [Non-depository financial institutions](#non-depository-financial-institutions)
+  - [Money safety](#money-safety)
+- [Cash management products](#cash-management-products)
+  - [Checking account](#checking-account)
+  - [Savings accounts](#savings-accounts)
+  - [Interest-Paying Checking Accounts](#interest-paying-checking-accounts)
+    - [NOW accounts](#now-accounts)
+    - [Money market deposit accounts (MMDAs)](#money-market-deposit-accounts-mmdas)
+    - [Money market mutual funds (MMMF)](#money-market-mutual-funds-mmmf)
+  - [Asset Management Accounts (AMA)](#asset-management-accounts-ama)
+- [Choosing a bank](#choosing-a-bank)
+- [Starting savings](#starting-savings)
+  - [Earning interest](#earning-interest)
+    - [Terms](#terms)
+- [Other investment vehicles](#other-investment-vehicles)
+  - [Certificates of Deposit (CDs)](#certificates-of-deposit-cds)
+- [Government-issued](#government-issued)
+  - [U.S. Treasury Bills (T-Bills)](#us-treasury-bills-t-bills)
+  - [Series EE Bonds](#series-ee-bonds)
+  - [I Savings Bonds](#i-savings-bonds)
 
--   [Managing your cash and
-	savings](#managing-your-cash-and-savings)
--   [Tips](#tips)
--   [Financial marketplace](#financial-marketplace)
-	-   [Financial institutions](#financial-institutions)
-	-   [Money safety](#money-safety)
--   [Cash management products](#cash-management-products)
-	-   [Checking account](#checking-account)
-	-   [Savings accounts](#savings-accounts)
-	-   [Interest-Paying Checking
-		Accounts](#interest-paying-checking-accounts)
-	-   [Asset Management Accounts
-		(AMA)](#asset-management-accounts-ama)
--   [Choosing a bank](#choosing-a-bank)
--   [Starting savings](#starting-savings)
-	-   [Earning interest](#earning-interest)
--   [Other investment vehicles](#other-investment-vehicles)
-	-   [Certificates of Deposit
-		(CDs)](#certificates-of-deposit-cds)
--   [Government-issued](#government-issued)
-	-   [U.S. Treasury Bills
-		(T-Bills)](#u.s.-treasury-bills-t-bills)
-	-   [Series EE Bonds](#series-ee-bonds)
-	-   [I Savings Bonds](#i-savings-bonds)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 

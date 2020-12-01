@@ -1,17 +1,24 @@
 # Chapter 1
 ## Understanding the Financial Planning Process
 
-**Table of Contents**
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
--   [Important concepts](#important-concepts)
--   [Intro](#intro)
--   [Terms](#terms)
--   [Personal Financial Planning](#personal-financial-planning)
-	-   [Steps](#steps)
-	-   [1. Financial goals](#financial-goals)
-	-   [2. Financial Plans](#financial-plans)
-	-   [Economic environment](#economic-environment)
-	-   [Determining income factors](#determining-income-factors)
+- [Important concepts](#important-concepts)
+- [Intro](#intro)
+- [Terms](#terms)
+- [Personal Financial Planning](#personal-financial-planning)
+  - [Steps](#steps)
+  - [1. Financial goals](#1-financial-goals)
+    - [The Psychology of Money](#the-psychology-of-money)
+    - [Money and relationships](#money-and-relationships)
+  - [2. Financial Plans](#2-financial-plans)
+    - [Special financial conditions](#special-financial-conditions)
+  - [Economic environment](#economic-environment)
+    - [Inflation](#inflation)
+  - [Determining income factors](#determining-income-factors)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 

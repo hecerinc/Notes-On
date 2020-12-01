@@ -2,40 +2,57 @@
 ## Life insurance
 
 
-**Table of Contents**
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
--   [Insurance](#insurance)
--   [Underwriting](#underwriting)
--   [Benefits](#benefits)
--   [Relevant questions](#relevant-questions)
-	-   [1. Do you need life
-		insurance?](#do-you-need-life-insurance)
-	-   [2. How much is right for you?](#how-much-is-right-for-you)
--   [3. What kind of policy is right for
-	you?](#what-kind-of-policy-is-right-for-you)
-	-   [Term life](#term-life)
-	-   [Whole Life](#whole-life)
-	-   [Universal Life](#universal-life)
--   [Buying life insurance](#buying-life-insurance)
-	-   [Compare costs and features](#compare-costs-and-features)
-	-   [Selecting a company](#selecting-a-company)
-	-   [Choosing an agent](#choosing-an-agent)
--   [Medical exam tips](#medical-exam-tips)
--   [Key features of life insurance
-	policies](#key-features-of-life-insurance-policies)
-	-   [Beneficiary clause](#beneficiary-clause)
-	-   [Settlement options](#settlement-options)
-	-   [Policy loans](#policy-loans)
-	-   [Premium payments](#premium-payments)
-	-   [Grace period](#grace-period)
-	-   [Nonforfeiture options](#nonforfeiture-options)
-	-   [Policy reinstatement](#policy-reinstatement)
-	-   [Change of policy](#change-of-policy)
-	-   [Other features](#other-features)
--   [Understanding Life Insurance Policy
-	Illustrations](#understanding-life-insurance-policy-illustrations)
--   [Tips](#tips)
+- [Insurance](#insurance)
+- [Underwriting](#underwriting)
+- [Benefits](#benefits)
+- [Relevant questions](#relevant-questions)
+  - [1. Do you need life insurance?](#1-do-you-need-life-insurance)
+  - [2. How much is right for you?](#2-how-much-is-right-for-you)
+    - [Multiple-of-earnings](#multiple-of-earnings)
+    - [Needs-analysis](#needs-analysis)
+      - [Method:](#method)
+      - [1. Assessing needs](#1-assessing-needs)
+      - [2. Determine what resources will be available](#2-determine-what-resources-will-be-available)
+  - [3. What kind of policy is right for you?](#3-what-kind-of-policy-is-right-for-you)
+    - [Term life](#term-life)
+      - [Straight term](#straight-term)
+      - [Decreasing term](#decreasing-term)
+    - [Whole Life](#whole-life)
+      - [Continuous premium (straight life)](#continuous-premium-straight-life)
+      - [Limited payment](#limited-payment)
+      - [Single premium (SPLI)](#single-premium-spli)
+    - [Universal Life](#universal-life)
+        - [Variable Life Insurance](#variable-life-insurance)
+        - [Group Life Insurance](#group-life-insurance)
+- [Buying life insurance](#buying-life-insurance)
+  - [Compare costs and features](#compare-costs-and-features)
+  - [Selecting a company](#selecting-a-company)
+  - [Choosing an agent](#choosing-an-agent)
+- [Medical exam tips](#medical-exam-tips)
+- [Key features of life insurance policies](#key-features-of-life-insurance-policies)
+  - [Beneficiary clause](#beneficiary-clause)
+  - [Settlement options](#settlement-options)
+  - [Policy loans](#policy-loans)
+  - [Premium payments](#premium-payments)
+  - [Grace period](#grace-period)
+  - [Nonforfeiture options](#nonforfeiture-options)
+  - [Policy reinstatement](#policy-reinstatement)
+  - [Change of policy](#change-of-policy)
+  - [Other features](#other-features)
+    - [Multiple indemnity clause](#multiple-indemnity-clause)
+    - [Disability clause](#disability-clause)
+    - [Guaranteed purchase option](#guaranteed-purchase-option)
+    - [Suicide clause](#suicide-clause)
+    - [Exclusions](#exclusions)
+    - [Living benefits](#living-benefits)
+    - [Viatical settlement](#viatical-settlement)
+- [Understanding Life Insurance Policy Illustrations](#understanding-life-insurance-policy-illustrations)
+- [Tips](#tips)
 
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 
@@ -162,8 +179,6 @@ Once you have calculated the needs and resources, you can substract these values
 
 ![Needs Analysis Method Worksheet](img/needs_analysis.jpg)
 
-
----
 
 ## 3. What kind of policy is right for you?
 

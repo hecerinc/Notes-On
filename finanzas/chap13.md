@@ -38,7 +38,7 @@ It's a way to turn the problems of security selection and portfolio management o
 
 ### Mutual fund organization & operation
 
-The fund itself is organized as a separate corporation or trust and _is owned by the shareholders_. 
+The fund itself is organized as a separate corporation or trust and _is owned by the shareholders_.
 
 Besides that:
 
@@ -65,7 +65,7 @@ The term _mutual fund_ commonly denotes an **open-end investment company** (most
 
 > **Open-end investment company**: A firm that can issue an unlimited number of shares that it buys and sells at a price based on the current market value of the securities it owns; also called a _mutual fund_.
 
-Investors actually buy and sell their shares from the mutual fund itself. When they buy shares in the fund, the fund issues new shares of stock and fills the purchase order with these new shares. There's no limit to the number of shares that the fund can issue, other than investor demand. Further, all open-end mutual funds stand behind their shares and buy them back when investors decide to sell. 
+Investors actually buy and sell their shares from the mutual fund itself. When they buy shares in the fund, the fund issues new shares of stock and fills the purchase order with these new shares. There's no limit to the number of shares that the fund can issue, other than investor demand. Further, all open-end mutual funds stand behind their shares and buy them back when investors decide to sell.
 
 - Buy/sell transactions are carried out based on the **net asset value (NAV)** &mdash; the current value of all the securities held in the fund's portfolio.
 - The NAV is calculated at least once a day and represents the underlying value of a share of stock in a particular fund.
@@ -79,7 +79,7 @@ NAV: (Total market value of all securities held by the fund - liabilities) / # o
 
 #### Closed-end investment companies
 
-The term _mutual fund_ is supposed to be used only with open-end funds, but as a practical matter, it's regularly used with closed-end investment companies as well. 
+The term _mutual fund_ is supposed to be used only with open-end funds, but as a practical matter, it's regularly used with closed-end investment companies as well.
 
 > **Closed-end investment companies:** An investment company that issues a fixed number of shares, which are themselves listed and traded like any other share of stock.
 
@@ -107,7 +107,7 @@ An ETF is an investment which combines characteristics of an open-end and closed
 Even though they are like closed-end funds (they're traded on listed exchanges), _they're actually open-end mutual funds_ in that the ETF distributor can emit or redeem shares at any time. This is done to prevent the fund from trading at (much of) a premium or discount to the underlying value of its holdings.
 
 
-- _Spiders_ (SPDRs): Biggest and oldest; are based on the S&P 500 
+- _Spiders_ (SPDRs): Biggest and oldest; are based on the S&P 500
 - _Qubes_: based on the NASDAQ 100 <small>* most actively traded ETF or stock in the world*</small>
 - _Diamonds_: based on the DJIA
 
@@ -139,7 +139,7 @@ Likewise, the ETF on the Dow is set at about 1/100 of the DJIA
 
 #### ETNs
 
-Exchange-traded notes (ETNs) are more similar to ETFs than to mutual funds. Like ETFs,  
+Exchange-traded notes (ETNs) are more similar to ETFs than to mutual funds. Like ETFs,
 
 # TODO: complete
 
@@ -168,7 +168,7 @@ According to the latest regulation, mutual funds cannot charge > 8.5% in _total 
 
 - Now used by nearly 70% of all open-end mutual funds.
 - Can amount to as much as a 1% of assets under management
-- 1% cap set by the SEC. 
+- 1% cap set by the SEC.
 - Also true no-load funds cannot charge > 0.25% of in annual 12b-1 fees  (otherwise, they must drop the "no-load" label in their sales and promotional material).
 
 A trend in mutual fund fees is the _multiple-class sales charge_. You'll find such arrangements at firms like Dreyfus, Merrill Lynch, MFS, Scudder, Putnam, and others. The way it works is that the mutual fund will issue different classes of shares on the same fund or portfolio of securities. So, rather than having just one class of stock out-standing, there might be three of them: Class A shares might have normal (modest) front-end loads; Class B stock might have no front-end loads but substantial back-end loads along with max annual 12b-1 fees; and Class C shares might carry a small back-end load and modest 12b-1 fees. In other words, you pick your own poison.
@@ -227,4 +227,150 @@ When selling, it is wise to see if your company offers the ability to switch fun
 
 Should you want more information than what is provided in either the profile or prospectus, you can always request a copy of the fund's _Statement of Additional Information_, which contains detailed information on the fund's investment objectives, portfolio composition, management, and past performance.
 
+## Types of funds & fund services
 
+### Types of funds
+
+Funds and ETFs are categorised according to their investment policies and objectives because it tends to reflect similarities in their risk-return characteristics. Every fund has a particular stated investment objective, of which the most common are capital appreciation, income, tax-exempt income, preserving investment capital, or some combination thereof. Disclosure is required by the SEC.
+
+- [Growth](#growth-funds)
+- [Aggressive growth](#aggresive-growth-funds)
+- [Value](#value-funds)
+- Equity-Income
+- Balanced
+- Growth-and-Income
+- Bond
+- Money market mutual funds
+- Index
+- Sector
+- Socially responsible
+- International
+- Asset allocation
+
+
+#### Growth funds
+
+Capital appreciation. Long-term growth and capital gains are the primary goals of growth funds, so they invest principally in **stocks with above-average growth potential**. Because of the uncertainty concerning their future capital gains, growth funds _involve a fair amount of risk_. They're usually viewed as _long-term investment vehicles_ that are most suitable for the aggressive investor who wants to build capital and has little interest in current income. 
+
+#### Aggressive growth funds
+
+- A.k.a "capital appreciation" funds
+- Highly speculative investments that seek large profit from capital gains.
+- Many are fairly small (< $300M under mgmt)
+- Invest in small, unseasoned companies, stocks with relatively high price/earnings multiples, and stocks whose prices are highly volatile
+- Perhaps the **most volatile** of funds
+
+#### Value funds
+
+Invest in stocks considered _undervalued_ in the market.
+
+- Invest in sound companies, but yet to be discovered with
+- relatively low P/E ratios, high dividend yields, and moderate amounts of debt
+- Value investing involves extensive evaluation of corporate financial stmts and documents that will help fund managers _uncover value before the rest of the market does_.
+- Less risky and competitive as compared to growth funds.
+- Good option for relatively conservative investors who are looking for attractive returns offered by common stocks, yet want to keep share price volatility and investment risk in check.
+
+#### Equity-Income funds
+
+- Emphasize current income & preserving capital
+- Invest in high-yielding common stocks, some convertible securities and preferred stocks
+- Generally viewed as a fairly low-risk way of investing in stocks.
+
+#### Balanced funds
+
+- Hold a balanced portfolio of stocks and bonds, to generate a well-balanced return of current income and long-term capital gains.
+- A lot like equity-income funds, except that they put much more into fixed-income securities.
+- Generally keep 30-40% of their portfolios in bonds.
+- Bonds are used for current income, and stocks for capital gains.
+- Tend to invest mainly in high-grade securities so are considered relatively safe form of investing.
+
+#### Growth-and-Income funds
+
+- Like balanced funds, but more emphasis on capital growth.
+- Unlike balanced funds, put most of their money in equities &mdash; not unusual to have 80-90% of capital in stocks.
+- Mostly in high-quality issues.
+- Fair amount of risk, if for no other reason than their emphasis on stocks and capital gains.
+- Most suitable for investors who can tolerate their risk and price volatility.
+
+#### Bond funds
+
+- Income is their primary objective, although they don't ignore capital gains
+- 3 advantages to buying shares in bond funds rather than investing directly in bonds:
+	- 1. Bond funds are generally more liquid
+	- 2. They offer a cost-effective way of achieving a high degree of diversification in an otherwise expensive investment (most bonds carry a min. denomination of $1K to $5K or more)
+	- 3. Bond funds automatically reinvest interest and other income, thereby allowing the investor to earn fully compounded rates of return.
+- Fairly conservative form of investment, but they're not totally without risk because the prices of the bonds held in the fund's portfolios will fluctuate with changing interest rates.
+- Bond mutual funds had $3.46T in under mgmt in 2014, while bond ETFs had about $296.4B
+
+There are bond funds for every type of bond or variation:
+
+- **Government bond funds**: invest in U.S. Treasury and agency securities
+- **Mortgage-backed bond funds**: money in various mortgage-backed securities issued by agencies of the U.S. government (e.g. GNMA issues). Provide a more affordable way to get into mortgage-backed securities. They also have a provision that allows investors to reinvest the _principal_ portion of the monthly cash flow thereby enabling them to preserve, rather than consume, their capital.
+- **High-grade coporate bond funds**: invest chiefly in investment-grade securities rated BBB or better
+- **High-yield corporate bond funds**: risky investments that buy _junk bonds_ for the yields they offer, which can be higher than standard bonds
+- **Convertible bond funds**: invest primarily in (domestic & foreign) securities that can be converted or exchanged into common stock. By investing in convertible bonds and preferred stocks, the funds offer investors some of the price stability of bonds, along with the capital appreciation potential of stocks.
+- **Municipal bond funds**: invest in tax-exempt securities and are suitable for investors looking for tax-free income. Like corporate counterparts, municipals can also be in either high-grade or high-yield funds. A special type of municipal bond fund is the _single-state fund_, which invests in the municipal issues of only one state and so produces (for residents of that state) interest income that's _fully exempt_ from federal taxes as well as state (and possibly local/city) taxes.
+- **Intermediate-term bond funds**: invest in bonds with maturities of 7 to 10 years or less, and offer not only attractive yields but also relatively low price volatility. Shorter (2-5 year) funds are also available and can be used as substitutes for money market investments by investors looking for higher returns on their money, especially when short-term rates are way down.
+
+
+#### Money market mutual funds
+
+- Invest in a widely diversified portfolio of short-term money market instruments
+- Very popular with investors: they give investors with modest amounts of capital access to the higher-yielding end of the money market, where many instruments require minimum investments of $100K or more.
+- There are about 530 publicly traded money market funds that hold nearly $2.73T in assets
+
+Several kinds:
+
+- **General-purpose money funds**: invest in any and all types of money market investments from Treasury bills to corporate commercial paper and bank CODs. Wherever they can find attractive short-term returns. Most money funds are of this type.
+- **Tax-exempt money fund**: limits investments to tax-exempt municipal securities with very short (30-90 day) maturities
+- **Government securities money funds**: eliminate any risk of default by confining their investments to T-bills and other short-term securities of the U.S. government or its agencies (such as the GNMA).
+
+
+Highly liquid investments with very low risk because they're virtually immune to capital loss. The interest income they produce tends to follow interest rate conditions, so the returns to shareholders are subject to the ups and downs of market interest rates. [See Chapter 4.](../chapter4.md)
+
+#### Index funds
+
+- Buys and holds a portfolio of stocks (or bonds) equivalent to those in a market index such as the S&P 500. 
+- Rather than trying to beat the market, _index funds simply try to match the market_.
+- In many cases, the whole portfolio is run almost entirely by a computer that matches the fund's holdings with those of the targeted index.
+- Other indexes: S&P Midcap 400, Russell 2000, and Wilshire 5000
+- Only a part of the overall mutual fund market, but comprise the vast majority of ETFs
+- Approach is **strictly buy and hold**.
+- Produce little taxable income from year to year, which leas many high-income investors to view them as a type of tax-sheltered investment.
+- Produce **highly competitive returns** for investors. Net, index funds tend to produce better returns than do most other types of stock funds. 
+- Every now and then the fully managed funds will have a year (or two) when they outperform the index funds, but those are the exception rather than the rule.
+
+#### Sector funds
+
+- Restricts investments to a particular sector of the market
+- One or more industries that make up the targeted sector
+- E.g. health care sector: drug companies, hospital mgmt firms, medical suppliers & biotech
+- Main objective is _capital gains_. 
+- Similar in many ways to growth funds and _should be considered speculative_.
+
+#### Socially responsible funds
+
+- Invest in corporations that they view as socially responsible.
+- Abstain from investing in companies that derive revenues from tobacco, alcohol or gambling, weapons contractors, or that operate nuclear power plants.
+- Favour firms that produce "responsible" products & services, have strong employee relations, have positive environmental records, and are socially responsive to the communities in which they operate.
+- SRF funds grew to about $6.6T by early 2014.
+
+#### International funds
+
+- Invest in foreign securities. Often confining their activities to specific geographical regions (Mexico, Australia, Europe or the Pacific Rim).
+- In contrast there are _global funds_, which invest in foreign and national companies &mdash; usually multinational firms.
+- As a rule, global funds provide more diversity and, with access to both foreign and domestic markets, can go wherever the action is.
+
+#### Asset allocation funds
+
+Because a lot of individual investors have a tough time making asset allocation decisions, the mutual fund industry has created a product to do the job for them. 
+
+**Asset allocation funds** spread investors' money across all different types of markets instead of in a specific type of investment. Many also include foreign securities, and some even inflation-resistant investments such as gold or real estate.
+
+These funds are designed for people who want to hire fund managers not only to select individual securities for them, but also to make the strategic decisions concerning asset allocation over time. 
+
+There's no assurance that the money manager will make the right moves at the right time, but that's the idea behind these funds.
+
+
+
+### Fund services

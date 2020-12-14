@@ -303,18 +303,18 @@ Should you want more information than what is provided in either the profile or 
 Funds and ETFs are categorised according to their investment policies and objectives because it tends to reflect similarities in their risk-return characteristics. Every fund has a particular stated investment objective, of which the most common are capital appreciation, income, tax-exempt income, preserving investment capital, or some combination thereof. Disclosure is required by the SEC.
 
 - [Growth](#growth-funds)
-- [Aggressive growth](#aggresive-growth-funds)
+- [Aggressive growth](#aggressive-growth-funds)
 - [Value](#value-funds)
-- Equity-Income
-- Balanced
-- Growth-and-Income
-- Bond
-- Money market mutual funds
-- Index
-- Sector
-- Socially responsible
-- International
-- Asset allocation
+- [Equity-Income](#equity-income-funds)
+- [Balanced](#balanced-funds)
+- [Growth-and-Income](#growth-and-income-funds)
+- [Bond](#bond-funds)
+- [Money market mutual funds](#money-market-mutual-funds)
+- [Index](#index-funds)
+- [Sector](#sector-funds)
+- [Socially responsible](#socially-responsible-funds)
+- [International](#international-funds)
+- [Asset allocation](#asset-allocation-funds)
 
 
 #### Growth funds

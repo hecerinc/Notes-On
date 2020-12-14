@@ -326,6 +326,7 @@ Several kinds:
 - **Government securities money funds**: eliminate any risk of default by confining their investments to T-bills and other short-term securities of the U.S. government or its agencies (such as the GNMA).
 
 
+
 Highly liquid investments with very low risk because they're virtually immune to capital loss. The interest income they produce tends to follow interest rate conditions, so the returns to shareholders are subject to the ups and downs of market interest rates. [See Chapter 4.](../chapter4.md)
 
 #### Index funds
@@ -372,5 +373,329 @@ These funds are designed for people who want to hire fund managers not only to s
 There's no assurance that the money manager will make the right moves at the right time, but that's the idea behind these funds.
 
 
+![Financial Planning Tips: Target funds](img/fpt_target_funds.png)
 
 ### Fund services
+
+Some of the most sought-after services:
+
+- automatic investment and reinvestment plans
+- regular income programs
+- conversion privileges
+- retirement programs
+
+
+Many of these are not offered by ETFs.
+
+#### Automatic investment plans
+
+> Allows fund shareholders to funnel fixed amounts of money from their paychecks or their bank accounts automatically into a mutual fund.
+
+To enroll, a shareholder fills out a form authorizing the fund to transfer a set amount (usually $25 to $100 min per period) from your bank account or paycheck at regular intervals, typically monthly or quarterly. 
+
+Convenience may be the chief advantage of these plans but they make solid investment sense as well because one of the best ways of building up a sizable amount of capital is to _add funds to your investment program systematically over time_.
+
+#### Automatic reinvestment plans
+
+> Puts your dividends and other distributions to work by reinvesting them, using them to buy additional shares automatically.
+
+Keep in mind that even though you reinvest your dividends and capital gains, the IRS still treats them as cash receipts and taxes them in the year they're paid.
+
+![Exhibit 13.6 Reinvesting your income](img/e13.6.png)
+
+#### Regular income
+
+> **Systematic withdrawal plan**: A plan offered by mutual funds that allows shareholders to be paid specified amounts of money each period.
+
+Some investors invest for steady cash flow. Min investment of $5K to $10K to participate, and withdrawal must be $50 or more per month.
+
+Note that if the fund isn't performing well, the withdrawals could eventually deplete the original investment.
+
+#### Conversion privileges
+
+Sometimes investors will want to move from one fund to another either because their investment objectives have changed or the environment itself has changed. 
+
+Conversion (or exchange) privileges enable shareholders to move easily from one fund to another. The only limitation is that the investor must confine the switches to the same _family_ of funds. 
+
+> For example, an investor can switch from a Fidelity growth fund to a Fidelity money fund, or to its income fund, or to any other fund managed by Fidelity. 
+
+Conversion privileges are attractive because they permit investors to manage their holdings more aggressively by allowing them to move in and out of funds as the investment environment changes. 
+
+One major drawback: although you never see the cash, the exchange of shares from one fund to another is regarded, for tax purposes, as a sale followed by the purchase of a new security. As a result, if any capital gains exist at the time of the exchange, the investor is liable for the taxes on that profit.
+
+
+#### Retirement programs
+
+All mutual funds provide a special service that allows individuals to set up a tax-deferred retirement account as either IRA or Keogh accounts or through their place of employment, to participate in a qualified retirement plan, such as a 401k. The funds set up the plans and handle all the administrative details so that the stakeholders can take full advantage of available tax savings.
+
+
+## Making mutual fund and ETF investments
+
+Suppose you have money you want to invest. You want to pick an investment that not only meets your idea of an acceptable risk, but also generates an attractive rate of return. 
+
+It's possible to whittle down the list of alternatives by matching your investment needs with the investment objectives of the funds.
+
+### The selection process
+
+Why invest in a mutual fund or an ETF? Why not go it alone (i.e. buy individual stocks and bonds directly)? 
+
+For beginner investors or investors with little capital, the answer is pretty simple &mdash; mutual funds and ETFs provide far more diversification than such investors could ever get on their own, plus they get the help of professional money managers, and at a reasonable cost to boot.
+
+The competitive returns and services offered by mutual funds will also be a factor. A lot of well-to-do investors have decided that they can get better returns over the long haul by carefully selecting mutual funds than by trying to invest in individual stocks on their own. So they put all, or a big chunk, of their money into funds. Many of these investors will use part of their capital to buy and sell individual securities on their own, and they'll use the rest to _buy mutual funds or ETFs that invest in areas they don't fully understand or aren't well informed about_. For example, they'll use mutual funds or ETFs to get into foreign markets or as a way to buy mortgage-backed securities.
+
+After deciding to use mutual funds or ETFs, the investor must then decide **which funds to buy**. This means putting into action all you know about investing in order to gain as much return as possible at an acceptable level of risk. 
+
+**Given that you have an asset allocation strategy in place** and that you're trying to select funds compatible with your targeted mix, the selection process begins with an assessment of your own investment needs. You'll want to select from those thousands of funds the one or two (or 3 or 4) that best meet your investment needs.
+
+#### Objectives and motives for using funds
+
+**Start with your investment objectives**. 
+
+I.e. why do you want to invest in a mutual fund or an ETF, and what are you looking for in a fund? Again, risk and returns are the two important factors here. When looking at your own risk temperament in relation to the various types of mutual funds and ETFs available, you'll discover that certain types of funds are more appealing to you than others. (E.g. aggressive growth or sector funds will probably _not_ be attractive to individuals wishing to avoid high exposure risk).
+
+Next is the intended use of the mutual fund (i.e. **capital growth vs. current income**).
+
+Finally, there's the services provided by the fund. If you're particularly interested in some services, be sure to look for them in the funds that you select.
+
+
+![FPT: Selecting funds](img/fpt_selecting_funds.png)
+
+#### What funds have to offer
+
+The ideal mutual fund or ETF will 
+
+- achieve max capital growth when security prices rise,
+- provide complete protection against capital loss when prices decline, and
+- achieve high levels of current income at all times.
+
+Unfortunately, such funds don't exist. Instead, each fund has its own investment objective, its own manner of operation, and its own range of services. 
+
+**Look at a fund's profile** (or its prospectus) for info on investment objectives, portfolio composition, management, and past performance.
+
+Also the WSJ, Barron's, Money, Fortune, and Forbes provide info and stats on funds. Services are also available that provide background info and assessments on a wide variety of funds. Among the best are Morningstar's, _The Value Line Fund Advisor_, and _The Value Line ETF survey_ (similar to Value Line's stock reports but for mutual funds & ETFs). Also, the Internet has a wealth of info such as finance.yahoo.com where you can obtain historical info on a fund's performance, security holdings, risk profile, load charges, and purchase information.
+
+
+![Exhibit 13.7 Mutual fund info](img/e13.7.png)
+
+#### Whittling down the alternatives
+
+At this point, fund selection becomes a process of elimination as you weigh your investment needs against the types of funds available. Many funds can be eliminated from consideration simply because they don't meet your needs. Some may be too risky; others may be unsuitable as a storehouse of value.
+
+Rather than trying to evaluate thousands of different funds, you can use a process of elimination to narrow the list down to 2 or 3 _types_ of funds that best match your investment (and asset allocation) needs.
+
+From here, you can whittle the list down a bit more by introducing other constraints. For example, because of cost considerations, you may want to deal only in no-load or low-load funds, or you may be seeking certain services that are important to your investment goals.
+
+Finally, **consider the fund's investment performance**. Useful info includes:
+
+1. how the fund has performed over the past 5-7 years
+2. type of return that it has generated in good markets as well as bad
+3. level of of dividend and capital gains distributions, which is an important indication not only of how much current income the fund distributes annually but also of the fund's _tax efficiency_ and
+4. the level of investment stability the fund has enjoyed over time (i.e. the amount of volatility/risk in the fund's return).
+
+Consider some of the fund facts in Exhibit 13.8.
+
+![Exhibit 13.8 Some mutual fund facts](img/e13.8.png)
+
+
+#### Stick with no-loads or low-load mutual funds
+
+The evidence indicates that load fund returns generally aren't, on a risk-adjusted basis, any higher than the returns from no-load funds. In fact, the funds with abnormally high loads and 12b-1 fees often produce returns that are far _less_ than what you can get from no-loads, after taking risk into account. Moreover, because of compounding, the differential returns tend to widen with longer holding periods.
+
+Pay close attention to load charges (and other fees) whenever you're considering an investment in a mutual fund.
+
+#### Choosing between ETFs and Mutual Funds
+
+How to choose between ETFs and mutual funds? Answer depends on what you want to invest in and how sensitive you are to taxes and costs. Morningstar offers the following criteria:
+
+- _Broad or narrow focus?_ ETFs have been developed to accommodate investors pursuing narrow market segments. If you want to focus on a single market sector, industry, or geographic region, there's likely an ETF for you. There are far more ETFs that track single foreign countries than mutual funds that do. So, while there are mutual funds and ETFs for broad index investment, some ETFs offer more narrow, targeted investment.
+- _Tax management_. ETFs are set up to protect investors from capital gains taxes better than most mutual funds can. Most ETFs are index funds that trade less than the average actively managed mutual fund, which means that they should generate fewer taxable gains.
+- _Costs_.  ETFs have lower overhead expenses than most funds because they don't have to manage customer accounts or staff call centers. This means that ETFs tend to have lower expense ratios than mutual funds. ETFs are often the most cost-effective choice for investors using discount brokers, for those investing a large sum of money, and for those with a long-term horizon.
+
+![You can do it now: evaluate ETFs](img/ycdin_etfs.png)
+
+###  Measuring fund performance
+
+Any fund or ETF has 3 potential sources of return: 
+
+1. dividend income
+2. capital gains distributions
+3. change in the fund's share price
+
+# TODO: write this section
+
+![Exhibit 13.9 A summary of mutual fund income and capital changes](img/e13.9.png)
+
+![Example: Calculating approximate yield on a mutual fund](img/example_calculating_approx_yield_mutualfund.png)
+
+![Approximate yield on a mutual fund calculation](img/approx_yield_mf_calc.png)
+
+#### Measuring ETF perf
+
+![Exhibit 13.10 Evaluating ETF performance](img/e13.10.png)
+
+#### Future performance
+
+## Investing in Real estate
+
+Previously thought as an infallible investment, but Great Recession proved otherwise.
+
+Real estate investing includes
+
+- homes
+- raw land
+- warehouses
+- commercial & retail space
+- office & apartment buildings
+- condos
+
+Several forms:
+
+- buy land or property directly
+- various types of real estate securities:
+	- real estate mutual funds
+	- REITs
+	- mortgages
+	- stocks of real-estate companies
+	- real estate limited partnerships
+
+Adding real estate to your portfolio provides greater diversification than just holding bonds or stocks, because they're less volatile and usually doesn't move in tandem with stocks.
+
+However, it's important you evaluate:
+
+- the outlook for the national economy
+- interest rate levels
+- supply & demand for space
+- regional considerations
+
+
+### Basic considerations
+
+Attractiveness of real estate lies in **expected cash flows over the planned holding period** and the riskiness of those cash flows.
+
+The expected ongoing cash flows are determined by:
+
+- rent
+- depreciation
+- taxes
+- expected future sales price.
+
+The expected return on a real estate investment is determined by the relationship between the expected future cash flows relative to the initial investment, which is typically reduced by using a significant amount off leverage (borrowing). 
+
+#### Cash flow & taxes
+
+**Make notes on this**
+
+![Cash flow TODO finish](img/cash_flow_taxes_real_estate.png)
+
+#### Appreciation in value
+
+You should also consider expected changes in property values. In many cases, such appreciation has a much greater impact on the rate of return than the net annual cash flow from the property.
+
+Hence, if the market price of the real estate is expected to increase by $100,000, then that price appreciation should be treated as capital gains and included as part of the return from the investment (minus the capital gains taxes paid).
+
+
+#### Use of leverage
+
+A big attraction in real estate is the high degree of financial leverage it permits. You can borrow money to magnify returns. Because it is a tangible asset, **investors can borrow as much as 75-90% off its cost.**
+
+As a result, if the profit rate on the investment is grater than the cost of borrowing, then the return on a leveraged investment will be proportionally greater than the return generated from an otherwise comparable unleveraged investment.
+
+Because some of the leveraged investment is made with borrowed money, the return on investment in Exhibit 13.11 reflects _only the amount of money that you put up to buy it_. So, even though the leveraged investment provides _less in earnings after taxes_, it has a lower investment base. The net result is a _higher return on investment_. 
+
+The risks of leverage must be considered along with potential benefits. Indeed, many people have been driven into bankruptcy because they used too much leverage.
+
+![Example: effect of leverage on real estate returns](img/example_effect_leverage.png)
+
+![Exhibit 13.11 Using leverage in real estate investments](img/e13.11.png)
+
+
+### Speculating in raw land
+
+In this approach, _which is often viewed as highly risky_, investors seek to generate high rates of return by investing in property that they _hope_ will undergo dramatic increases in value. The key to such speculation is to isolate areas of potential population growth and/or real estate demand (ideally, before anyone else does) and purchase property in these areas in anticipation of eventual development.
+
+Undeveloped acreage with no utilities or improvements is often purchased by land speculators either to hold for future development or to sell, as is, at a higher price later.
+
+Given the high degree of uncertainty, raw land speculation should be reserved for real estate investors who understand and can accept the inherent risks.
+
+### Investing in income property
+
+One of the most popular forms of real estate investing is income (or income-producing) property, which includes commercial and residential properties.
+
+> Lease or rent to tenants in order to generate ongoing monthly/annual income in the form of rent receipts.
+
+Before doing this, be sure to know what you're getting into. The owner of income property is responsible for leasing the units and maintaining the property. This means fixing leaky roofs and appliances, painting and other repairs, cleaning after a tenant leaves, and similar responsibilities.
+
+Calculating the value of income-producing property requires estimating the annual net operating income (NOI), which _equals gross rental income (less an allowance for vacancies and bad debts) minus all operating expenses, such as property (but not income) taxes, insurance, maintenance, and so on_. 
+
+Once you have a property's NOI, you can apply a _cap rate_ (the expected annual rate of return on the property) to arrive at an estimated value for the property. A typical cap rate for income property is around 9 to 10%.
+
+![Example: Calculating NOI](img/example_calculating_noi.png)
+
+#### Commercial property
+
+Many types: office buildings, industrial space, warehouses, retail space, and hotels. The risks and returns on commercial real estate investments are tied to business conditions and location. The value of commercial property is enhanced by a location in a high-traffic area. Because commercial properties call for professional management and involve significant expenses, investing in this category of income property is generally the domain of more seasoned (often professional) real estate investors.
+
+
+#### Residential property
+
+First-time investors often choose residential properties such as homes, apartments, and smaller multifamily buildings. Aside from purchase and financing costs, major factors of these investment's profitability are:
+
+- occupancy rates - the % of available space rented over the year
+- and maintenance and mgmt costs
+- neighborhood
+- local regulations regarding tenants
+- supply & demand trends for the type of property
+
+
+### Other ways to invest in real estate
+
+If you don't want to own or don't have the money to buy it, you can purchase specialised securities. 
+
+- real estate mutual fund
+- stock in a publicly traded real estate company (residential homebuilders, construction companies, mortgage lenders, home improvement retailers, property managers, real estate brokerage firms and engineering companies). 
+- REITs
+- Real estate limited partnernships (LPs aka LLCs limited liability companies)
+
+
+#### Real estate investment trusts (REITs)
+
+Arguably the best way is via a **real estate investment trust (REIT)**, which is a type of closed-end investment company that invests money in various types of real estate and real estate mortgages.
+
+Like a mutual fund in that it sells shares of stock and uses the proceeds to invest in a portfolio of real estate investments.
+
+They are appealing to investors because they offer the benefits of real estate ownership - both capital appreciation and current income - without the headaches of property management.
+
+They have become popular because the trusts generally have relatively low correlations with other market sectors, such as common stocks and bonds, and provide attractive dividend yields &mdash; well above the yields on common stocks (about 65% of the total return from REITs comes from their dividends).
+
+Produce competitive returns: compound annual return (dividends + stock price appreciation on the FTSE REIT U.S. Real Estate Index) from REITs for the last 30 years was 11.36%, compared with 12.51% of the S&P 500. The performance over this period is significantly influenced by the real estate losses resulting from the Great Recession in 2007-2009. However, the return on REITs was 27.15% in 2014 and the three-year return from 2012 to 2014 was 16.83%.
+
+REITs can be particularly attractive investments during periods of high inflation, which is projected by many to eventually result from the large deficit spending induced by the Great Recession.
+
+Like mutual funds, each REIT has stated investment objectives, which should be considered carefully before acquiring shares.
+
+3 basic types:
+
+1. **Equity REITs**: Own and operate income-producing real estate such as apartments, office buildings, shopping centers, and hotels.
+2. **Mortgage REITs**: make both construction and mortgage loans to real estate investors.
+3. **Hybrid REITs**: invest in both income-producing properties and mortgage loans.
+
+Equity REITs produce both attractive current yields and the potential to earn excellent capital gains as their properties appreciate in value. In contrast, mortgage REITs tend to be more income oriented; they emphasize the high current yields they generate by investing in debt.
+
+Listed REITs hold more than $1T in US real estate assets and constitute about 90% of the $700B listed REIT market. Most of the rest of the market involves mortgage REITs. 
+
+**The income earned by a REIT isn't taxed, but the income distributed to owners is designated and taxed as ordinary income**. Whereas dividends on common stocks normally are taxed at preferential rates (of 15 or 20% or less), this is not the case with REITs, whose cash dividends are treated as ordinary income and taxed accordingly.
+
+#### Real estate limited partnerships (or LLCs)
+
+Special-purpose syndicates organised to invest in real estate. Structured as LPs or LLCs. 
+
+With LPs, the managers assume the role of _general partner_, which means that their liability is unlimited and that the other investors are _limited partners_ who are legally only liable only for the amount of their initial investment.
+
+LLCs are more popular. The LLC has a managing member and other members - none of which have any liability. Investors buy _units_ in an LP or LLC; a unit represents an ownership position, similar to a share of stock. Reeal estate LPs and LLCs are riskier investments than REITs, and they appeal to more affluent investors who can afford the typical unit cost of $100K or more.
+
+
+![Planning Over a Lifetime: Investing in mutual funds, ETFs, and Real Estate](img/pol_chap13.png)
+
+
+![Financial Impact of Personal Choices Chap 13](img/fipc_chap13.png)
+

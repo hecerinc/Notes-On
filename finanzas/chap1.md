@@ -40,7 +40,7 @@ Principles:
 
 ## Intro
 
-- Whatever your ideal life is, it requires financial planning to acheive financial goals
+- Whatever your ideal life is, it requires financial planning to achieve financial goals
 - The best way to acheive financial goals is through _personal financial planning_, which help
 	- define financial goals
 	- develop appropriate strategies to reach them
@@ -107,7 +107,7 @@ Finally, you should **assign a time frame and priorities to financial goals** (s
 
 **Long term goals**
 
-Cover a period of then next 6 to 40 years. Difficult to predict, but should give a baseline. You will change and constantly adjust these over time.
+Cover a period of the next 6 to 40 years. Difficult to predict, but should give a baseline. You will change and constantly adjust these over time.
 
 **Short term goals**
 
@@ -127,14 +127,14 @@ You can formulate financial plans that provide the greatest personal satisfactio
 
 ![Attitudes for money](img/exhibit1.4.png)
 
-Immportant questions to ask youself:
+Important questions to ask youself:
 
 - How important is money to me? Why?
 - What types of spending give me satisfaction?
 - Am I a risk taker?
 - Do I need large financial reserves to feel secure?
 
-Effective financial plans are both economically and psychologically sounds. They must not only consider your wants, needs, and financial resources, but must also realistically reflect your personality and emotional reactions to money.
+Effective financial plans are both economically and psychologically sound. They must not only consider your wants, needs, and financial resources, but must also realistically reflect your personality and emotional reactions to money.
 
 
 #### Money and relationships
@@ -150,11 +150,78 @@ Financial compatibility is important. Most people are uncomfortable talking abou
 
 ### 2. Financial Plans
 
-Financial plans provide the roadmap for acheiving your financial goals.
+Financial plans provide the roadmap for achieving your financial goals.
 
 ![Personal Financial Planning Life Cycle](img/exhibit1.7.png)
 
+#### Types of financial plans
+
+- **Asset acquisition plans**
+- **Liability & insurance plans**
+- **Savings & investing plans**
+- **Employee benefit plans**
+- **Tax plans**
+- **Retirement & estate plans**
+
+
+##### Asset acquisition plans
+
+We accumulate assets: _liquid_ (cash, savings accounts, and money market funds), _investments_ (stocks, bonds, & mutual funds) acquired to earn a return, _personal property_ (movable property such as automobiles, household furnishings, appliances, clothing, jewelry, home electronics, and similar items), and _real property_ (immovable property; land and anything fixed to it, such as a house). **Chaps 4 & 5** focus on important considerations for managing liquid assets and other major assets such as automobiles & housing.
+
+##### Liability & insurance plans
+
+_Liability_: something we owe as measured by the amount of debt we incur (by borrowing money). Some debts include credit card debt, mortgages, education loans, car loans, etc. Managing credit effectively requires careful planning, covered in **Chapters 6 & 7**.
+
+Obtaining adequate insurance coverage is also essential, covered in **Chapters 8 , 9 & 10**.
+
+##### Savings & investing plans
+
+As your income begins to increase, so does the importance of savings & investment planning. Initially, you save to establish an emergency fund. Eventually, you must devote greater attention to investing excess income as a means of accumulating wealth, either for major expenditures (such as a child's college education) or for retirement. Individuals build wealth through savings and the subsequent investing of funds in various investment vehicles: common or preferred stocks, government or corporate bonds, mutual funds, real estate, and so on.
+
+We'll examine compounding more fully in **Chapter 2**, savings in **Chapter 4**, and investments in **Chapters 11, 12, and 13**.
+
+
+##### Employee benefit plans
+
+Life, health, and disability insurance; tuition reimbursement programs, pension and profit-sharing plans, 401(k) plans, flexible spending accounts, stock options, sick leave, personal time, and vacation days: all can be offered by your employer.
+
+Managing your employee benefit plans and coordinating them with your other plans are an important part of the overall financial planning process. For example, tax-deferred retirement plans and flexible spending accounts offer tax advantages. Some retirement plans allow you to borrow against them. Employer-sponsored insurance plans may need to be supplemented with personal policies.
+
+If you change jobs, your new company may not offer the same benefits. Your personal financial plans should include contingency plans to replace employer-provided benefits as required.
+
+Employee benefits are discussed in:
+
+- **Chapter 2 (planning)**
+- **Chapter 3 (taxes)**
+- **Chapters 8, 9 and 10 (insurance)**
+- **Chapter 14 (retirement)**
+
+
+##### Tax plans
+
+Taxes are complicated. Tax planning involves (legitimately) reducing your tax liability through tax shelters. It involves looking at your current and projected earnings and then developing strategies that will defer and minimize taxes. This is examined in **Chapter 3**.
+
+
+##### Retirement & estate plans
+
+While you're working you should be managing your finances to attain those goals you feel are important after you retire. These might include:
+
+- maintaining your standard of living
+- extensive travel
+- visiting children
+- frequent dining at better restaurants
+- and perhaps a vacation home or boat.
+
+These aspects are discussed in **Chapter 14**.
+
+You also have to consider how to most effectively pass your wealth on to your heirs, an activity known as _estate planning_. This complex subject which includes topics such as wills, trusts, and the effects of gift and estate taxes is discussed in **Chapter 15**.
+
+
 #### Special financial conditions
+
+**Managing double income**
+
+Read on pg 21.
 
 **Employee Benefits**
 
@@ -181,7 +248,7 @@ An individual or firm that helps clients establish financial goals and develop a
 
 Two types:
 
-- _Commission-based planners_: earn commmissions on the financial productrs they sell
+- _Commission-based planners_: earn commmissions on the financial products they sell
 - _Fee-only planners_: charged based on the complexity of the plan they prepare.
 
 ![Exhibit 1.9](img/exhibit1.9.png)
@@ -206,7 +273,7 @@ The economy is said to be experiencing a period of **inflation** when the genera
 
 ### Determining income factors
 
-- Demographics: Very young or very old people have the loest incomes. Highest earnings generally occur between the ages of 45 to 64.
+- Demographics: Very young or very old people have the lowest incomes. Highest earnings generally occur between the ages of 45 to 64.
 - Education: Controllable factor that significantly affects your income.
 - Where you live: Salaries vary regionally. It will also be higher if you live in a large metropolitan area. Living costs also vary throughout the country.
 - Your career.

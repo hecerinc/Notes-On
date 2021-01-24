@@ -4,6 +4,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Important concepts](#important-concepts)
 - [Intro](#intro)
 - [Terms](#terms)
@@ -13,6 +14,13 @@
     - [The Psychology of Money](#the-psychology-of-money)
     - [Money and relationships](#money-and-relationships)
   - [2. Financial Plans](#2-financial-plans)
+    - [Types of financial plans](#types-of-financial-plans)
+      - [Asset acquisition plans](#asset-acquisition-plans)
+      - [Liability & insurance plans](#liability--insurance-plans)
+      - [Savings & investing plans](#savings--investing-plans)
+      - [Employee benefit plans](#employee-benefit-plans)
+      - [Tax plans](#tax-plans)
+      - [Retirement & estate plans](#retirement--estate-plans)
     - [Special financial conditions](#special-financial-conditions)
   - [Economic environment](#economic-environment)
     - [Inflation](#inflation)
